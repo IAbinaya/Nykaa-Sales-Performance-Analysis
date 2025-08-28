@@ -1,0 +1,1001 @@
+Date,Customer_ID,Order_ID,User_Name,User_Email,Phone_Number,City,Product Name,Region,State,Rating,Brand,Product_Category,Product_ID,Revenue,Net_Profit,Units_Sold,Unit_Price,Discount_Percent
+12/7/2024,CUST100000,ORD200000,Ananya,ananya0@gmail.com,9173930000,Ahmedabad,Face Mask,West,Gujarat,4,Huda Beauty,Beauty,P100000,183742.25,18820.06,90,3303.45,47.56
+7/13/2024,CUST100001,ORD200001,Arjun,arjun1@gmail.com,9196310000,Chennai,Shaving Cream,East,Tamil Nadu,2,MAC,Haircare,P100001,171797.66,36043.59,72,224.82,3.85
+7/14/2024,CUST100002,ORD200002,Ishita,ishita2@gmail.com,9193070000,Delhi,Serum,East,Delhi,4,Minimalist,Skincare,P100002,40609.82,23885.85,326,411.68,1.42
+7/15/2024,CUST100003,ORD200003,Vivaan,vivaan3@gmail.com,9167230000,Nagpur,Face Cream,South,Maharashtra,4,L'Oreal,Fashion,P100003,175256.86,10714.94,30,1183.29,44.21
+7/16/2024,CUST100004,ORD200004,Aditya,aditya4@gmail.com,9169900000,Chandigarh,Shampoo,South,Punjab,5,L'Oreal,Accessories,P100004,42628.04,17065.37,359,2610.95,37.41
+7/17/2024,CUST100005,ORD200005,Ishita,ishita5@gmail.com,9172400000,Lucknow,Body Lotion,East,Uttar Pradesh,3,Huda Beauty,Haircare,P100005,125682.72,33455.96,407,2774.92,49.61
+7/18/2024,CUST100006,ORD200006,Meera,meera6@gmail.com,9195140000,Ahmedabad,Face Cream,West,Gujarat,5,MAC,Accessories,P100006,17174.82,34396.58,288,267.88,19.84
+7/19/2024,CUST100007,ORD200007,Sneha,sneha7@gmail.com,9169140000,Indore,Hair Oil,East,Madhya Pradesh,5,Huda Beauty,Skincare,P100007,176193.56,37576.19,86,934.8,20.8
+7/20/2024,CUST100008,ORD200008,Kavya,kavya8@gmail.com,9173710000,Hyderabad,Deodorant,West,Telangana,4,MAC,Skincare,P100008,11248.56,11601.61,234,2548.56,8.62
+7/21/2024,CUST100009,ORD200009,Ishita,ishita9@gmail.com,9187630000,Chandigarh,Face Mask,South,Punjab,1,The Body Shop,Fashion,P100009,111433.63,27230.12,235,3010.31,5.79
+7/22/2024,CUST100010,ORD200010,Arjun,arjun10@gmail.com,9182610000,Ahmedabad,Perfume,West,Gujarat,4,The Body Shop,Fashion,P100010,156162.59,2828.71,313,827.17,28.94
+7/23/2024,CUST100011,ORD200011,Sneha,sneha11@gmail.com,9189820000,Lucknow,Body Wash,East,Uttar Pradesh,4,Lakme,Beauty,P100011,24250.11,29063.52,365,2054.32,18.21
+7/24/2024,CUST100012,ORD200012,Akshay,akshay12@gmail.com,9180540000,Coimbatore,Conditioner,North,Tamil Nadu,3,Minimalist,Accessories,P100012,81491.57,22571.67,265,4531.57,4.02
+7/25/2024,CUST100013,ORD200013,Amit,amit13@gmail.com,9175580000,Patna,Face Mask,South,Bihar,4,Huda Beauty,Accessories,P100013,9348.08,10065.67,287,4994.61,44.35
+7/26/2024,CUST100014,ORD200014,Shreya,shreya14@gmail.com,9197930000,Mumbai,Body Wash,South,Maharashtra,5,Minimalist,Skincare,P100014,136867.76,26219.81,327,4937.35,9.92
+7/27/2024,CUST100015,ORD200015,Vivaan,vivaan15@gmail.com,9164080000,Coimbatore,Aftershave,East,Tamil Nadu,5,MAC,Beauty,P100015,62182.47,5493.77,393,4420.21,37.43
+7/28/2024,CUST100016,ORD200016,Rohan,rohan16@gmail.com,9181280000,Patna,Shaving Cream,East,Bihar,4,L'Oreal,Haircare,P100016,112319.65,13418.87,269,2033.83,14.11
+7/29/2024,CUST100017,ORD200017,Rohan,rohan17@gmail.com,9167700000,Bangalore,Hand Sanitizer,South,Karnataka,4,Minimalist,Accessories,P100017,186613.72,16096.45,186,3464.21,40.65
+7/30/2024,CUST100018,ORD200018,Sanya,sanya18@gmail.com,9167650000,Pune,Soap,East,Maharashtra,5,MAC,Beauty,P100018,61865.76,31107.77,131,2141.3,5.92
+7/31/2024,CUST100019,ORD200019,Sneha,sneha19@gmail.com,9184280000,Ahmedabad,Shaving Cream,West,Gujarat,4,The Body Shop,Beauty,P100019,10676.87,12420.49,291,3277.78,37.8
+1/8/2024,CUST100020,ORD200020,Amit,amit20@gmail.com,9162980000,Patna,Toner,West,Bihar,4,MAC,Skincare,P100020,135449.93,2056.48,481,1616.22,4.91
+2/8/2024,CUST100021,ORD200021,Sanya,sanya21@gmail.com,9162450000,Bangalore,Shaving Cream,West,Karnataka,5,Huda Beauty,Beauty,P100021,157581.39,7311.55,277,3070.39,22.35
+3/8/2024,CUST100022,ORD200022,Akshay,akshay22@gmail.com,9166210000,Lucknow,Shaving Cream,North,Uttar Pradesh,2,Lakme,Fashion,P100022,191615.84,24362.92,320,2666.42,36.7
+4/8/2024,CUST100023,ORD200023,Kavya,kavya23@gmail.com,9173870000,Patna,Serum,East,Bihar,5,Lakme,Fashion,P100023,32402.37,708.49,351,219.95,8.66
+5/8/2024,CUST100024,ORD200024,Vikram,vikram24@gmail.com,9168110000,Patna,Serum,West,Bihar,5,Lakme,Wellness,P100024,79035.85,31710.07,180,3974.44,14.28
+6/8/2024,CUST100025,ORD200025,Neha,neha25@gmail.com,9177440000,Chennai,Moisturizer,South,Tamil Nadu,2,Lakme,Skincare,P100025,168983.95,36054.69,290,158.3,43.24
+7/8/2024,CUST100026,ORD200026,Ananya,ananya26@gmail.com,9199870000,Pune,Soap,West,Maharashtra,5,The Body Shop,Haircare,P100026,161567.41,19866.36,480,1536.46,44.26
+8/8/2024,CUST100027,ORD200027,Rahul,rahul27@gmail.com,9178180000,Kolkata,Sunscreen,West,West Bengal,4,Maybelline,Wellness,P100027,125334.35,28334.45,377,129.03,2.25
+9/8/2024,CUST100028,ORD200028,Aditya,aditya28@gmail.com,9182250000,Mumbai,Lip Balm,East,Maharashtra,5,Minimalist,Fashion,P100028,54604.34,18560.8,163,1943.39,8.4
+10/8/2024,CUST100029,ORD200029,Ananya,ananya29@gmail.com,9187730000,Chandigarh,Shaving Cream,South,Punjab,4,Huda Beauty,Wellness,P100029,57523.02,12419.66,271,409.49,5.87
+11/8/2024,CUST100030,ORD200030,Sanya,sanya30@gmail.com,9182140000,Bangalore,Perfume,North,Karnataka,5,Nykaa Cosmetics,Skincare,P100030,25676.6,6678.17,376,4576.2,8.98
+12/8/2024,CUST100031,ORD200031,Diya,diya31@gmail.com,9197570000,Delhi,Conditioner,South,Delhi,3,Huda Beauty,Skincare,P100031,184448.88,20774.68,96,2136.83,48.51
+8/13/2024,CUST100032,ORD200032,Arjun,arjun32@gmail.com,9196130000,Ahmedabad,Perfume,West,Gujarat,4,Maybelline,Beauty,P100032,35413.37,37202.59,262,2351.53,27.58
+8/14/2024,CUST100033,ORD200033,Sneha,sneha33@gmail.com,9183720000,Coimbatore,Sunscreen,North,Tamil Nadu,4,Lakme,Accessories,P100033,115004.43,35609.89,365,1814.27,23.41
+8/15/2024,CUST100034,ORD200034,Vikram,vikram34@gmail.com,9198790000,Chennai,Hair Oil,North,Tamil Nadu,4,Maybelline,Beauty,P100034,117285.93,36793.07,469,3174.78,49.22
+8/16/2024,CUST100035,ORD200035,Akshay,akshay35@gmail.com,9165560000,Nagpur,Shaving Cream,North,Maharashtra,5,L'Oreal,Skincare,P100035,74551.48,38659.88,353,3943.6,27.85
+8/17/2024,CUST100036,ORD200036,Aarav,aarav36@gmail.com,9168410000,Mumbai,Face Mask,North,Maharashtra,5,L'Oreal,Fashion,P100036,71151.17,6697.78,288,3275.92,33.06
+8/18/2024,CUST100037,ORD200037,Shreya,shreya37@gmail.com,9160170000,Mumbai,Serum,North,Maharashtra,4,Minimalist,Haircare,P100037,134049.1,5946.36,436,3766.21,16.64
+8/19/2024,CUST100038,ORD200038,Vivaan,vivaan38@gmail.com,9176190000,Mumbai,Serum,East,Maharashtra,2,The Body Shop,Fashion,P100038,78271.26,17167.68,83,4539.27,19.11
+8/20/2024,CUST100039,ORD200039,Vivaan,vivaan39@gmail.com,9183950000,Kolkata,Toner,West,West Bengal,5,Huda Beauty,Beauty,P100039,51767.96,27603.53,225,4331.38,29.72
+8/21/2024,CUST100040,ORD200040,Sanya,sanya40@gmail.com,9163930000,Kolkata,Shampoo,North,West Bengal,4,Huda Beauty,Haircare,P100040,80427.21,17643.79,412,3402.89,3.49
+8/22/2024,CUST100041,ORD200041,Kavya,kavya41@gmail.com,9173610000,Jaipur,Body Wash,West,Rajasthan,4,Nykaa Cosmetics,Skincare,P100041,161724.75,35704.94,223,1151.73,12.79
+8/23/2024,CUST100042,ORD200042,Rahul,rahul42@gmail.com,9187640000,Nagpur,Soap,East,Maharashtra,5,The Body Shop,Fashion,P100042,193329.21,28724.12,469,3224.74,9.84
+8/24/2024,CUST100043,ORD200043,Kavya,kavya43@gmail.com,9178330000,Jaipur,Lip Balm,East,Rajasthan,4,Nykaa Cosmetics,Skincare,P100043,127554.1,25395.44,118,2579.81,0.79
+8/25/2024,CUST100044,ORD200044,Akshay,akshay44@gmail.com,9191940000,Jaipur,Deodorant,East,Rajasthan,5,L'Oreal,Haircare,P100044,156638.14,2934.41,482,3614.37,26.85
+8/26/2024,CUST100045,ORD200045,Shreya,shreya45@gmail.com,9188290000,Delhi,Face Mask,South,Delhi,2,Lakme,Haircare,P100045,107032.15,7095.88,192,4181.37,28.05
+8/27/2024,CUST100046,ORD200046,Rahul,rahul46@gmail.com,9165800000,Chandigarh,Aftershave,South,Punjab,3,Maybelline,Fashion,P100046,125339.81,17183.33,79,3739.34,19.2
+8/28/2024,CUST100047,ORD200047,Akshay,akshay47@gmail.com,9198560000,Jaipur,Hair Oil,North,Rajasthan,3,Nykaa Cosmetics,Skincare,P100047,197629.24,39057.35,78,4248.15,13.44
+8/29/2024,CUST100048,ORD200048,Kavya,kavya48@gmail.com,9163200000,Hyderabad,Face Wash,East,Telangana,3,MAC,Wellness,P100048,88245.35,13442.91,147,412.95,32.6
+8/30/2024,CUST100049,ORD200049,Diya,diya49@gmail.com,9171520000,Mumbai,Sunscreen,South,Maharashtra,3,Nykaa Cosmetics,Skincare,P100049,14184.68,25236.02,107,254.94,6.73
+8/31/2024,CUST100050,ORD200050,Ishita,ishita50@gmail.com,9184400000,Patna,Body Lotion,East,Bihar,3,Lakme,Haircare,P100050,191444.38,39557.35,382,1366.65,25.93
+1/9/2024,CUST100051,ORD200051,Ananya,ananya51@gmail.com,9176980000,Pune,Hair Oil,South,Maharashtra,5,Lakme,Skincare,P100051,158819.28,10634.6,271,4513.26,38.4
+2/9/2024,CUST100052,ORD200052,Akshay,akshay52@gmail.com,9181950000,Chandigarh,Aftershave,East,Punjab,5,Huda Beauty,Beauty,P100052,80263.76,6750.01,390,4135.93,8.21
+3/9/2024,CUST100053,ORD200053,Sanya,sanya53@gmail.com,9194790000,Chandigarh,Face Cream,South,Punjab,3,Maybelline,Wellness,P100053,196496.62,21898.7,244,3445.36,37.66
+4/9/2024,CUST100054,ORD200054,Ananya,ananya54@gmail.com,9181960000,Indore,Soap,West,Madhya Pradesh,4,Lakme,Accessories,P100054,69761.61,22120.43,73,3533.72,38.04
+5/9/2024,CUST100055,ORD200055,Shreya,shreya55@gmail.com,9182300000,Kolkata,Toner,North,West Bengal,2,The Body Shop,Beauty,P100055,75051.92,36883.28,357,3660.69,3
+6/9/2024,CUST100056,ORD200056,Aarav,aarav56@gmail.com,9187100000,Chennai,Moisturizer,North,Tamil Nadu,4,Nykaa Cosmetics,Accessories,P100056,122336.54,1154.56,468,4718.75,0.94
+7/9/2024,CUST100057,ORD200057,Rohan,rohan57@gmail.com,9180910000,Coimbatore,Sunscreen,West,Tamil Nadu,4,Nykaa Cosmetics,Fashion,P100057,55595.13,16354.37,354,4177.74,48.7
+8/9/2024,CUST100058,ORD200058,Sneha,sneha58@gmail.com,9195390000,Ahmedabad,Serum,North,Gujarat,5,L'Oreal,Accessories,P100058,140015.73,12562.69,422,3154.61,9.67
+9/9/2024,CUST100059,ORD200059,Meera,meera59@gmail.com,9196060000,Lucknow,Soap,East,Uttar Pradesh,5,Lakme,Skincare,P100059,31417.21,22885.01,26,3362.01,41.11
+10/9/2024,CUST100060,ORD200060,Aarav,aarav60@gmail.com,9196750000,Chennai,Toothpaste,North,Tamil Nadu,1,MAC,Accessories,P100060,22497.04,472.28,210,1147.33,28.09
+11/9/2024,CUST100061,ORD200061,Aditya,aditya61@gmail.com,9196340000,Jaipur,Shampoo,North,Rajasthan,4,Huda Beauty,Haircare,P100061,107440.72,28471.45,92,3320.86,13.22
+12/9/2024,CUST100062,ORD200062,Vikram,vikram62@gmail.com,9176450000,Mumbai,Conditioner,South,Maharashtra,5,Maybelline,Beauty,P100062,111543.24,19451.09,125,2180.93,6.5
+9/13/2024,CUST100063,ORD200063,Akshay,akshay63@gmail.com,9168450000,Patna,Body Lotion,South,Bihar,3,MAC,Beauty,P100063,22224.36,28057.5,435,849.51,24.83
+9/14/2024,CUST100064,ORD200064,Rohan,rohan64@gmail.com,9195520000,Jaipur,Conditioner,West,Rajasthan,5,Huda Beauty,Accessories,P100064,192871.08,17967.47,73,4051.37,20.37
+9/15/2024,CUST100065,ORD200065,Diya,diya65@gmail.com,9161760000,Jaipur,Serum,South,Rajasthan,4,Nykaa Cosmetics,Beauty,P100065,115084.04,19020.29,480,2600.21,34.94
+9/16/2024,CUST100066,ORD200066,Sneha,sneha66@gmail.com,9197770000,Ahmedabad,Body Wash,West,Gujarat,5,MAC,Haircare,P100066,31055.96,35832.43,123,4889.38,45.21
+9/17/2024,CUST100067,ORD200067,Ananya,ananya67@gmail.com,9165860000,Indore,Face Mask,North,Madhya Pradesh,5,Huda Beauty,Beauty,P100067,62977.06,8514.84,309,1480.23,40.26
+9/18/2024,CUST100068,ORD200068,Diya,diya68@gmail.com,9178990000,Bangalore,Perfume,South,Karnataka,3,Nykaa Cosmetics,Accessories,P100068,160246.61,8777.8,184,2455.28,13.72
+9/19/2024,CUST100069,ORD200069,Aarav,aarav69@gmail.com,9188690000,Nagpur,Face Wash,South,Maharashtra,3,Nykaa Cosmetics,Wellness,P100069,105123.07,22423.12,187,2295.18,43.95
+9/20/2024,CUST100070,ORD200070,Rahul,rahul70@gmail.com,9177290000,Pune,Face Wash,North,Maharashtra,5,Nykaa Cosmetics,Wellness,P100070,38441.52,26442.95,198,691.82,41.67
+9/21/2024,CUST100071,ORD200071,Neha,neha71@gmail.com,9194050000,Ahmedabad,Conditioner,South,Gujarat,4,Nykaa Cosmetics,Fashion,P100071,21466.95,14252.06,78,2187.96,46.46
+9/22/2024,CUST100072,ORD200072,Shreya,shreya72@gmail.com,9192710000,Indore,Sunscreen,East,Madhya Pradesh,5,The Body Shop,Beauty,P100072,86724.11,20828.5,348,1509.01,22.93
+9/23/2024,CUST100073,ORD200073,Shreya,shreya73@gmail.com,9186700000,Pune,Aftershave,South,Maharashtra,3,Nykaa Cosmetics,Accessories,P100073,68145.53,9191.47,186,885.57,38.43
+9/24/2024,CUST100074,ORD200074,Rahul,rahul74@gmail.com,9194970000,Indore,Soap,East,Madhya Pradesh,4,L'Oreal,Beauty,P100074,131527.55,5522.83,344,1482.56,29.58
+9/25/2024,CUST100075,ORD200075,Vikram,vikram75@gmail.com,9191580000,Delhi,Shaving Cream,West,Delhi,5,MAC,Skincare,P100075,185124.15,9606.68,253,1242.93,15.53
+9/26/2024,CUST100076,ORD200076,Sneha,sneha76@gmail.com,9172280000,Hyderabad,Face Cream,South,Telangana,5,Huda Beauty,Haircare,P100076,50298.33,36663.29,13,3696.96,49.72
+9/27/2024,CUST100077,ORD200077,Sanya,sanya77@gmail.com,9163020000,Indore,Serum,South,Madhya Pradesh,3,L'Oreal,Beauty,P100077,171191.55,32092.54,299,250.8,1.92
+9/28/2024,CUST100078,ORD200078,Shreya,shreya78@gmail.com,9185550000,Hyderabad,Lip Balm,East,Telangana,3,The Body Shop,Beauty,P100078,184171.93,5695.8,76,3125.57,8.11
+9/29/2024,CUST100079,ORD200079,Amit,amit79@gmail.com,9181250000,Ahmedabad,Deodorant,North,Gujarat,4,Minimalist,Wellness,P100079,180498.52,1957.76,51,3827.24,44.63
+9/30/2024,CUST100080,ORD200080,Shreya,shreya80@gmail.com,9171390000,Lucknow,Face Wash,West,Uttar Pradesh,4,Minimalist,Haircare,P100080,190463.39,3818.08,275,2455.54,3.03
+1/10/2024,CUST100081,ORD200081,Rohan,rohan81@gmail.com,9176510000,Mumbai,Toner,West,Maharashtra,1,L'Oreal,Accessories,P100081,168579.62,11807.97,149,4664.67,44.34
+2/10/2024,CUST100082,ORD200082,Ishita,ishita82@gmail.com,9169030000,Nagpur,Perfume,East,Maharashtra,5,Lakme,Beauty,P100082,119103.72,32473.22,219,3568.62,35.76
+3/10/2024,CUST100083,ORD200083,Kavya,kavya83@gmail.com,9182320000,Indore,Hand Sanitizer,North,Madhya Pradesh,4,Lakme,Wellness,P100083,82559.37,12922.84,122,3764.83,1.83
+4/10/2024,CUST100084,ORD200084,Aditya,aditya84@gmail.com,9160490000,Pune,Deodorant,South,Maharashtra,4,Lakme,Fashion,P100084,98845.87,7507.65,211,1064.97,21.47
+5/10/2024,CUST100085,ORD200085,Kavya,kavya85@gmail.com,9193840000,Coimbatore,Body Lotion,North,Tamil Nadu,5,Maybelline,Haircare,P100085,174649.82,15894.06,280,3908.75,37.72
+6/10/2024,CUST100086,ORD200086,Akshay,akshay86@gmail.com,9179590000,Nagpur,Lip Balm,North,Maharashtra,5,Lakme,Wellness,P100086,60978.28,5049.74,26,4177.26,29.16
+7/10/2024,CUST100087,ORD200087,Sneha,sneha87@gmail.com,9178390000,Mumbai,Conditioner,East,Maharashtra,4,Huda Beauty,Wellness,P100087,32693.08,18861.65,173,1870.21,46.79
+8/10/2024,CUST100088,ORD200088,Ishita,ishita88@gmail.com,9162120000,Delhi,Serum,North,Delhi,4,L'Oreal,Wellness,P100088,29023.02,27054.61,156,1145.48,43.38
+9/10/2024,CUST100089,ORD200089,Aditya,aditya89@gmail.com,9165910000,Jaipur,Perfume,North,Rajasthan,3,Huda Beauty,Beauty,P100089,165571.93,14817.06,238,1986.75,16.63
+10/10/2024,CUST100090,ORD200090,Rohan,rohan90@gmail.com,9185840000,Nagpur,Body Lotion,East,Maharashtra,4,MAC,Beauty,P100090,152535.65,7027.1,376,3724.08,4.23
+11/10/2024,CUST100091,ORD200091,Shreya,shreya91@gmail.com,9166670000,Ahmedabad,Toothpaste,North,Gujarat,3,Lakme,Fashion,P100091,100031.42,18182.58,82,2146.43,47.21
+12/10/2024,CUST100092,ORD200092,Diya,diya92@gmail.com,9170680000,Nagpur,Sunscreen,North,Maharashtra,2,The Body Shop,Skincare,P100092,55699.41,30523.32,492,3709.59,25.86
+10/13/2024,CUST100093,ORD200093,Amit,amit93@gmail.com,9192530000,Ahmedabad,Conditioner,West,Gujarat,5,Maybelline,Skincare,P100093,135845.02,3156.11,356,656.47,3.72
+10/14/2024,CUST100094,ORD200094,Vivaan,vivaan94@gmail.com,9187400000,Ahmedabad,Shampoo,East,Gujarat,2,MAC,Skincare,P100094,8648.19,2930.39,490,4049.46,40.83
+10/15/2024,CUST100095,ORD200095,Meera,meera95@gmail.com,9166500000,Delhi,Body Wash,East,Delhi,4,The Body Shop,Haircare,P100095,114077.34,12792.62,413,1340.72,43.43
+10/16/2024,CUST100096,ORD200096,Rahul,rahul96@gmail.com,9190720000,Jaipur,Conditioner,East,Rajasthan,3,Maybelline,Haircare,P100096,80286.61,16660.61,273,1319.75,31.97
+10/17/2024,CUST100097,ORD200097,Shreya,shreya97@gmail.com,9166530000,Pune,Soap,North,Maharashtra,5,Minimalist,Fashion,P100097,195594.07,8737.23,68,2992.87,22.38
+10/18/2024,CUST100098,ORD200098,Aditya,aditya98@gmail.com,9167820000,Kolkata,Deodorant,West,West Bengal,3,MAC,Haircare,P100098,102004.49,1173.73,44,443.58,33.11
+10/19/2024,CUST100099,ORD200099,Vivaan,vivaan99@gmail.com,9184390000,Indore,Face Mask,West,Madhya Pradesh,5,Minimalist,Skincare,P100099,110901.28,8860.43,493,228.86,35.33
+10/20/2024,CUST100100,ORD200100,Meera,meera100@gmail.com,9194670000,Mumbai,Perfume,South,Maharashtra,5,L'Oreal,Skincare,P100100,142760.17,17471.26,61,1379.04,44.65
+10/21/2024,CUST100101,ORD200101,Priya,priya101@gmail.com,9174800000,Delhi,Face Wash,East,Delhi,5,Huda Beauty,Wellness,P100101,97423.16,3269.15,123,2736.53,47.79
+10/22/2024,CUST100102,ORD200102,Ananya,ananya102@gmail.com,9184360000,Bangalore,Shampoo,West,Karnataka,3,Nykaa Cosmetics,Haircare,P100102,45689.16,28664.08,349,4547.32,25.72
+10/23/2024,CUST100103,ORD200103,Vivaan,vivaan103@gmail.com,9175860000,Bangalore,Body Lotion,West,Karnataka,4,Huda Beauty,Beauty,P100103,107918.29,22128.82,196,4247.53,39.92
+10/24/2024,CUST100104,ORD200104,Kavya,kavya104@gmail.com,9196480000,Patna,Shaving Cream,West,Bihar,3,Lakme,Beauty,P100104,188909.51,17434.16,330,2503.19,48.23
+10/25/2024,CUST100105,ORD200105,Vivaan,vivaan105@gmail.com,9187740000,Indore,Face Cream,East,Madhya Pradesh,3,Minimalist,Wellness,P100105,82572.29,20796.6,409,281.55,7.56
+10/26/2024,CUST100106,ORD200106,Ishita,ishita106@gmail.com,9166330000,Coimbatore,Hair Oil,North,Tamil Nadu,3,The Body Shop,Wellness,P100106,136248.55,26266.66,479,2722.74,0.91
+10/27/2024,CUST100107,ORD200107,Neha,neha107@gmail.com,9175140000,Bangalore,Toothpaste,South,Karnataka,4,Nykaa Cosmetics,Wellness,P100107,195628.8,39792.46,323,3553.5,43.45
+10/28/2024,CUST100108,ORD200108,Shreya,shreya108@gmail.com,9183790000,Chandigarh,Body Wash,South,Punjab,5,Maybelline,Beauty,P100108,166154.54,31027.29,111,1761.91,9.76
+10/29/2024,CUST100109,ORD200109,Rohan,rohan109@gmail.com,9173180000,Kolkata,Face Mask,North,West Bengal,5,Minimalist,Skincare,P100109,132147.79,21660.49,258,644.21,2.12
+10/30/2024,CUST100110,ORD200110,Vikram,vikram110@gmail.com,9186800000,Bangalore,Sunscreen,East,Karnataka,5,L'Oreal,Wellness,P100110,147463.3,30844.3,89,1464.98,8
+10/31/2024,CUST100111,ORD200111,Meera,meera111@gmail.com,9196570000,Kolkata,Face Mask,West,West Bengal,5,L'Oreal,Fashion,P100111,187360.17,19061.45,433,3880.79,19.21
+1/11/2024,CUST100112,ORD200112,Ishita,ishita112@gmail.com,9168220000,Jaipur,Aftershave,North,Rajasthan,3,Minimalist,Wellness,P100112,191990.67,12505.26,198,1821.09,10.96
+2/11/2024,CUST100113,ORD200113,Ananya,ananya113@gmail.com,9189500000,Hyderabad,Conditioner,South,Telangana,3,Minimalist,Accessories,P100113,193824.66,10552.25,282,4078.71,15.26
+3/11/2024,CUST100114,ORD200114,Ananya,ananya114@gmail.com,9160820000,Coimbatore,Moisturizer,East,Tamil Nadu,3,Minimalist,Wellness,P100114,125502.68,16039.22,200,1665.66,48.76
+4/11/2024,CUST100115,ORD200115,Rahul,rahul115@gmail.com,9194990000,Lucknow,Moisturizer,West,Uttar Pradesh,5,Maybelline,Beauty,P100115,77557.62,191.1,99,901.42,35.22
+5/11/2024,CUST100116,ORD200116,Aarav,aarav116@gmail.com,9197250000,Pune,Conditioner,South,Maharashtra,5,Lakme,Haircare,P100116,27497.47,7160.54,27,2235.66,35.61
+6/11/2024,CUST100117,ORD200117,Ishita,ishita117@gmail.com,9189100000,Chennai,Serum,South,Tamil Nadu,4,Maybelline,Wellness,P100117,77724.05,5148.68,89,2316.15,4.73
+7/11/2024,CUST100118,ORD200118,Akshay,akshay118@gmail.com,9182800000,Bangalore,Soap,South,Karnataka,2,MAC,Haircare,P100118,188648.14,38417.65,146,178.93,36.6
+8/11/2024,CUST100119,ORD200119,Harshita,harshita119@gmail.com,9167480000,Patna,Conditioner,West,Bihar,5,The Body Shop,Accessories,P100119,178069.62,2687.43,182,673.52,36.97
+9/11/2024,CUST100120,ORD200120,Vivaan,vivaan120@gmail.com,9160140000,Chandigarh,Face Wash,South,Punjab,1,Minimalist,Fashion,P100120,105208.27,20088.81,257,1006.14,32.99
+10/11/2024,CUST100121,ORD200121,Vikram,vikram121@gmail.com,9185650000,Jaipur,Body Wash,East,Rajasthan,5,The Body Shop,Haircare,P100121,107864.45,36796.75,189,656.58,11.42
+11/11/2024,CUST100122,ORD200122,Ishita,ishita122@gmail.com,9184570000,Chandigarh,Hair Oil,East,Punjab,5,Lakme,Skincare,P100122,62475.15,24340.06,240,1773.48,21.15
+12/11/2024,CUST100123,ORD200123,Akshay,akshay123@gmail.com,9194970000,Mumbai,Face Wash,West,Maharashtra,3,Nykaa Cosmetics,Wellness,P100123,91447.07,19861.24,359,4826.65,42.31
+11/13/2024,CUST100124,ORD200124,Kavya,kavya124@gmail.com,9194960000,Nagpur,Moisturizer,East,Maharashtra,4,Maybelline,Accessories,P100124,143175.25,29745.44,387,2595.19,33.51
+11/14/2024,CUST100125,ORD200125,Ishita,ishita125@gmail.com,9193830000,Kolkata,Soap,North,West Bengal,4,Lakme,Accessories,P100125,81083.71,14199.67,196,3175.02,36.64
+11/15/2024,CUST100126,ORD200126,Aditya,aditya126@gmail.com,9191100000,Ahmedabad,Soap,East,Gujarat,4,The Body Shop,Haircare,P100126,38408.79,7829.21,297,1846.29,29.37
+11/16/2024,CUST100127,ORD200127,Shreya,shreya127@gmail.com,9194780000,Coimbatore,Body Lotion,South,Tamil Nadu,5,Nykaa Cosmetics,Fashion,P100127,108631.06,33906.57,165,1685.09,22.48
+11/17/2024,CUST100128,ORD200128,Rahul,rahul128@gmail.com,9166420000,Indore,Conditioner,South,Madhya Pradesh,4,Maybelline,Beauty,P100128,45842.05,2357.63,307,213.42,37.95
+11/18/2024,CUST100129,ORD200129,Vikram,vikram129@gmail.com,9180190000,Mumbai,Serum,East,Maharashtra,4,L'Oreal,Wellness,P100129,194883.22,32330.98,271,2551.63,3.4
+11/19/2024,CUST100130,ORD200130,Sanya,sanya130@gmail.com,9168110000,Indore,Face Wash,East,Madhya Pradesh,4,Maybelline,Accessories,P100130,78677.64,4224.31,8,2469.68,33.66
+11/20/2024,CUST100131,ORD200131,Ananya,ananya131@gmail.com,9194620000,Bangalore,Body Wash,West,Karnataka,5,Huda Beauty,Fashion,P100131,182023.33,25060.16,38,873.37,49.86
+11/21/2024,CUST100132,ORD200132,Aditya,aditya132@gmail.com,9166310000,Kolkata,Aftershave,West,West Bengal,3,Maybelline,Skincare,P100132,45885.25,19134.19,114,3845.19,39.01
+11/22/2024,CUST100133,ORD200133,Sanya,sanya133@gmail.com,9184890000,Chennai,Conditioner,North,Tamil Nadu,4,Huda Beauty,Accessories,P100133,38652.59,39941.79,339,2514.1,14.53
+11/23/2024,CUST100134,ORD200134,Rohan,rohan134@gmail.com,9173860000,Delhi,Lip Balm,East,Delhi,3,Nykaa Cosmetics,Fashion,P100134,123763.32,15578.04,56,1761.07,13.89
+11/24/2024,CUST100135,ORD200135,Vivaan,vivaan135@gmail.com,9189440000,Nagpur,Soap,North,Maharashtra,5,Maybelline,Beauty,P100135,156096.44,38295.74,431,819.85,33.36
+11/25/2024,CUST100136,ORD200136,Ishita,ishita136@gmail.com,9171230000,Ahmedabad,Body Wash,East,Gujarat,5,Nykaa Cosmetics,Beauty,P100136,113786.15,16210.84,474,2805.59,44.79
+11/26/2024,CUST100137,ORD200137,Ishita,ishita137@gmail.com,9195380000,Coimbatore,Shaving Cream,North,Tamil Nadu,4,Nykaa Cosmetics,Accessories,P100137,46729.34,27299.85,359,3788.8,28.9
+11/27/2024,CUST100138,ORD200138,Ananya,ananya138@gmail.com,9177730000,Chandigarh,Hand Sanitizer,East,Punjab,5,The Body Shop,Accessories,P100138,8540.98,25782.08,138,1481.8,26.37
+11/28/2024,CUST100139,ORD200139,Ishita,ishita139@gmail.com,9181200000,Ahmedabad,Shaving Cream,East,Gujarat,5,Lakme,Haircare,P100139,124039.48,3549.43,102,1172.09,8.02
+11/29/2024,CUST100140,ORD200140,Sanya,sanya140@gmail.com,9161180000,Chennai,Moisturizer,East,Tamil Nadu,5,Nykaa Cosmetics,Wellness,P100140,27076.41,29760.3,334,2657.48,35.77
+11/30/2024,CUST100141,ORD200141,Priya,priya141@gmail.com,9171690000,Jaipur,Hand Sanitizer,North,Rajasthan,4,Nykaa Cosmetics,Fashion,P100141,69292.1,8425.84,177,861.18,35.11
+1/12/2024,CUST100142,ORD200142,Arjun,arjun142@gmail.com,9188400000,Lucknow,Shaving Cream,South,Uttar Pradesh,4,The Body Shop,Accessories,P100142,135481.17,15598.79,169,3366.41,48.35
+2/12/2024,CUST100143,ORD200143,Rohan,rohan143@gmail.com,9169680000,Mumbai,Sunscreen,West,Maharashtra,4,The Body Shop,Wellness,P100143,20506.66,31309.81,339,3066.18,15.01
+3/12/2024,CUST100144,ORD200144,Sanya,sanya144@gmail.com,9170550000,Nagpur,Toothpaste,West,Maharashtra,3,Maybelline,Haircare,P100144,26323.04,37778.12,286,526.7,37.82
+4/12/2024,CUST100145,ORD200145,Priya,priya145@gmail.com,9181140000,Bangalore,Hair Oil,North,Karnataka,3,The Body Shop,Wellness,P100145,13271.58,22436.17,261,278.95,21.7
+5/12/2024,CUST100146,ORD200146,Neha,neha146@gmail.com,9184270000,Chandigarh,Conditioner,East,Punjab,3,Maybelline,Accessories,P100146,199219.75,20823.44,375,3139.41,27.92
+6/12/2024,CUST100147,ORD200147,Sneha,sneha147@gmail.com,9177400000,Bangalore,Sunscreen,South,Karnataka,4,L'Oreal,Beauty,P100147,78028.28,20246.44,223,1542.04,40.82
+7/12/2024,CUST100148,ORD200148,Sanya,sanya148@gmail.com,9169920000,Hyderabad,Hand Sanitizer,North,Telangana,2,The Body Shop,Fashion,P100148,181253.24,32680.93,199,523.58,11.1
+8/12/2024,CUST100149,ORD200149,Sneha,sneha149@gmail.com,9181300000,Delhi,Hair Oil,North,Delhi,4,Lakme,Fashion,P100149,59423.54,39725.33,211,3821.2,17.14
+9/12/2024,CUST100150,ORD200150,Rohan,rohan150@gmail.com,9184020000,Hyderabad,Aftershave,West,Telangana,5,Nykaa Cosmetics,Beauty,P100150,150887.31,25380.28,287,1638.82,38.67
+10/12/2024,CUST100151,ORD200151,Kavya,kavya151@gmail.com,9167290000,Indore,Shampoo,West,Madhya Pradesh,4,Lakme,Accessories,P100151,44594.26,15207.03,180,2352.04,28.52
+11/12/2024,CUST100152,ORD200152,Shreya,shreya152@gmail.com,9191130000,Coimbatore,Face Cream,South,Tamil Nadu,3,Huda Beauty,Fashion,P100152,100166.62,8824.71,250,1260.38,4.62
+12/12/2024,CUST100153,ORD200153,Meera,meera153@gmail.com,9186970000,Jaipur,Body Lotion,East,Rajasthan,5,Minimalist,Accessories,P100153,165098.53,8032.97,231,3173.85,21.51
+12/13/2024,CUST100154,ORD200154,Sanya,sanya154@gmail.com,9190600000,Patna,Moisturizer,South,Bihar,3,The Body Shop,Haircare,P100154,163450.55,34260.42,472,1577.29,29.33
+12/14/2024,CUST100155,ORD200155,Kavya,kavya155@gmail.com,9192190000,Bangalore,Sunscreen,West,Karnataka,4,Nykaa Cosmetics,Accessories,P100155,159061.86,39694.85,482,4843.3,45.48
+12/15/2024,CUST100156,ORD200156,Shreya,shreya156@gmail.com,9172160000,Chandigarh,Aftershave,East,Punjab,4,Lakme,Wellness,P100156,164923.15,27949.82,23,3544.44,9.42
+12/16/2024,CUST100157,ORD200157,Vikram,vikram157@gmail.com,9195780000,Hyderabad,Perfume,South,Telangana,4,The Body Shop,Beauty,P100157,43082.98,38237.58,48,769.94,40.3
+12/17/2024,CUST100158,ORD200158,Priya,priya158@gmail.com,9171990000,Chandigarh,Perfume,North,Punjab,4,The Body Shop,Accessories,P100158,96961.04,14064.82,109,2141.8,6.53
+12/18/2024,CUST100159,ORD200159,Aditya,aditya159@gmail.com,9182520000,Mumbai,Shaving Cream,North,Maharashtra,5,Minimalist,Haircare,P100159,97489.42,25141.05,296,1988.56,12.11
+12/19/2024,CUST100160,ORD200160,Meera,meera160@gmail.com,9184600000,Chandigarh,Face Wash,North,Punjab,4,L'Oreal,Skincare,P100160,178209.99,20516.21,6,2717.81,12.17
+12/20/2024,CUST100161,ORD200161,Ishita,ishita161@gmail.com,9186330000,Ahmedabad,Face Cream,East,Gujarat,5,L'Oreal,Beauty,P100161,60081.47,19332.52,38,4225.46,43.87
+12/21/2024,CUST100162,ORD200162,Diya,diya162@gmail.com,9174320000,Hyderabad,Body Wash,East,Telangana,5,Nykaa Cosmetics,Fashion,P100162,186367.68,25331.71,169,2958.77,9.95
+12/22/2024,CUST100163,ORD200163,Meera,meera163@gmail.com,9173980000,Hyderabad,Face Wash,West,Telangana,3,Huda Beauty,Wellness,P100163,90708.35,12482.52,356,401.63,39.35
+12/23/2024,CUST100164,ORD200164,Rahul,rahul164@gmail.com,9190160000,Nagpur,Shampoo,South,Maharashtra,3,L'Oreal,Fashion,P100164,134287.61,25660.83,283,3311.54,23.09
+12/24/2024,CUST100165,ORD200165,Ananya,ananya165@gmail.com,9188750000,Indore,Serum,East,Madhya Pradesh,4,Minimalist,Haircare,P100165,54507.74,26947.18,203,140.5,49.95
+12/25/2024,CUST100166,ORD200166,Harshita,harshita166@gmail.com,9189900000,Mumbai,Conditioner,East,Maharashtra,5,L'Oreal,Haircare,P100166,82649.32,33460.92,325,3921.81,41.95
+12/26/2024,CUST100167,ORD200167,Amit,amit167@gmail.com,9179970000,Hyderabad,Deodorant,South,Telangana,5,Huda Beauty,Fashion,P100167,142250.39,29246.21,313,3366.52,36.99
+12/27/2024,CUST100168,ORD200168,Meera,meera168@gmail.com,9177360000,Lucknow,Face Cream,West,Uttar Pradesh,5,Lakme,Beauty,P100168,103036.68,12859,273,1613.05,43.54
+12/28/2024,CUST100169,ORD200169,Rohan,rohan169@gmail.com,9170510000,Nagpur,Shampoo,East,Maharashtra,5,L'Oreal,Fashion,P100169,186210.89,18086.92,244,1532.96,31.7
+12/29/2024,CUST100170,ORD200170,Amit,amit170@gmail.com,9173490000,Bangalore,Body Wash,South,Karnataka,4,Minimalist,Accessories,P100170,147687.87,4903.08,327,4011.54,42.18
+12/30/2024,CUST100171,ORD200171,Harshita,harshita171@gmail.com,9192270000,Nagpur,Moisturizer,East,Maharashtra,3,Maybelline,Fashion,P100171,113316.18,10366.04,475,3938.35,13.06
+12/31/2024,CUST100172,ORD200172,Neha,neha172@gmail.com,9165920000,Bangalore,Serum,East,Karnataka,5,Minimalist,Wellness,P100172,177447.28,20885.71,47,1826.28,4.89
+1/1/2025,CUST100173,ORD200173,Vivaan,vivaan173@gmail.com,9179290000,Lucknow,Lip Balm,West,Uttar Pradesh,5,MAC,Wellness,P100173,133445.72,4120.36,249,1564.84,30.8
+2/1/2025,CUST100174,ORD200174,Neha,neha174@gmail.com,9176390000,Hyderabad,Shampoo,North,Telangana,4,MAC,Skincare,P100174,129816.77,22867.19,79,2843.14,21.73
+3/1/2025,CUST100175,ORD200175,Ananya,ananya175@gmail.com,9168540000,Chennai,Face Wash,East,Tamil Nadu,5,L'Oreal,Wellness,P100175,50027.9,15672.14,110,140.99,21.32
+4/1/2025,CUST100176,ORD200176,Sneha,sneha176@gmail.com,9167020000,Chandigarh,Serum,West,Punjab,5,Lakme,Fashion,P100176,79576.54,1487.17,13,505.07,26.34
+5/1/2025,CUST100177,ORD200177,Shreya,shreya177@gmail.com,9198190000,Bangalore,Serum,South,Karnataka,5,The Body Shop,Wellness,P100177,136977.43,17434.47,395,718.23,18.07
+6/1/2025,CUST100178,ORD200178,Ananya,ananya178@gmail.com,9186940000,Chennai,Shaving Cream,South,Tamil Nadu,3,Lakme,Beauty,P100178,178466.55,11317.49,380,1008.52,31.3
+7/1/2025,CUST100179,ORD200179,Priya,priya179@gmail.com,9186190000,Lucknow,Serum,North,Uttar Pradesh,3,Minimalist,Wellness,P100179,63793.95,2772.4,365,2608.89,1.53
+8/1/2025,CUST100180,ORD200180,Aditya,aditya180@gmail.com,9162370000,Jaipur,Deodorant,South,Rajasthan,3,Nykaa Cosmetics,Accessories,P100180,43881.64,11805.46,90,4961.99,48.49
+9/1/2025,CUST100181,ORD200181,Aditya,aditya181@gmail.com,9183170000,Nagpur,Aftershave,North,Maharashtra,5,Maybelline,Beauty,P100181,119145.5,11834.4,342,3297.81,46.24
+10/1/2025,CUST100182,ORD200182,Ishita,ishita182@gmail.com,9186320000,Mumbai,Aftershave,East,Maharashtra,2,Lakme,Skincare,P100182,14372.22,14267.44,348,400.36,46.76
+11/1/2025,CUST100183,ORD200183,Ishita,ishita183@gmail.com,9194080000,Bangalore,Toner,North,Karnataka,4,Huda Beauty,Accessories,P100183,143193.8,14722.35,280,2675.34,18.25
+12/1/2025,CUST100184,ORD200184,Diya,diya184@gmail.com,9193350000,Kolkata,Serum,East,West Bengal,5,Minimalist,Fashion,P100184,140924.57,17247.88,221,2533.56,26.59
+1/13/2025,CUST100185,ORD200185,Sanya,sanya185@gmail.com,9175200000,Jaipur,Lip Balm,South,Rajasthan,3,Maybelline,Fashion,P100185,71638.24,3769.13,73,806.42,47.71
+1/14/2025,CUST100186,ORD200186,Sneha,sneha186@gmail.com,9197450000,Delhi,Moisturizer,North,Delhi,4,MAC,Fashion,P100186,178642.85,310.58,234,4609.33,45.12
+1/15/2025,CUST100187,ORD200187,Rahul,rahul187@gmail.com,9179900000,Chandigarh,Conditioner,West,Punjab,5,Minimalist,Accessories,P100187,100934.05,29466.69,260,2259.75,39.51
+1/16/2025,CUST100188,ORD200188,Shreya,shreya188@gmail.com,9161930000,Jaipur,Shampoo,South,Rajasthan,3,Maybelline,Accessories,P100188,129507.23,13560.12,113,4973.34,20.37
+1/17/2025,CUST100189,ORD200189,Sneha,sneha189@gmail.com,9172150000,Kolkata,Hair Oil,South,West Bengal,4,Huda Beauty,Accessories,P100189,42706.12,24583.11,46,2158.35,28.22
+1/18/2025,CUST100190,ORD200190,Vikram,vikram190@gmail.com,9194730000,Kolkata,Lip Balm,South,West Bengal,3,L'Oreal,Beauty,P100190,84050.73,12350.69,274,3078.99,39.65
+1/19/2025,CUST100191,ORD200191,Priya,priya191@gmail.com,9188690000,Hyderabad,Body Lotion,South,Telangana,4,Huda Beauty,Haircare,P100191,172621.09,39369.07,43,613.34,13.65
+1/20/2025,CUST100192,ORD200192,Diya,diya192@gmail.com,9164730000,Kolkata,Face Cream,South,West Bengal,5,Huda Beauty,Beauty,P100192,43374.97,12685.45,208,2325.72,31.32
+1/21/2025,CUST100193,ORD200193,Amit,amit193@gmail.com,9171960000,Coimbatore,Hair Oil,West,Tamil Nadu,2,L'Oreal,Fashion,P100193,78724.3,24241.27,417,1269.95,41.4
+1/22/2025,CUST100194,ORD200194,Harshita,harshita194@gmail.com,9171890000,Indore,Lip Balm,West,Madhya Pradesh,5,L'Oreal,Haircare,P100194,64297.23,8876.85,349,4194.27,35.37
+1/23/2025,CUST100195,ORD200195,Neha,neha195@gmail.com,9191160000,Jaipur,Shampoo,West,Rajasthan,5,L'Oreal,Wellness,P100195,31070.93,20760.31,103,3941.21,23.97
+1/24/2025,CUST100196,ORD200196,Arjun,arjun196@gmail.com,9160260000,Bangalore,Face Cream,North,Karnataka,5,L'Oreal,Fashion,P100196,58653.87,23215.3,124,4138.48,29.23
+1/25/2025,CUST100197,ORD200197,Amit,amit197@gmail.com,9177790000,Coimbatore,Moisturizer,South,Tamil Nadu,4,L'Oreal,Skincare,P100197,47321.68,7394.68,10,3645.69,49.43
+1/26/2025,CUST100198,ORD200198,Aarav,aarav198@gmail.com,9166300000,Patna,Perfume,North,Bihar,4,Huda Beauty,Beauty,P100198,184795.13,5033.85,329,4180.15,30.1
+1/27/2025,CUST100199,ORD200199,Kavya,kavya199@gmail.com,9190060000,Jaipur,Face Mask,North,Rajasthan,5,Nykaa Cosmetics,Accessories,P100199,148474.68,38946.69,187,1084.06,39.28
+1/28/2025,CUST100200,ORD200200,Ishita,ishita200@gmail.com,9186370000,Chennai,Moisturizer,North,Tamil Nadu,2,Nykaa Cosmetics,Beauty,P100200,63904.21,35741.38,31,2315.01,36.33
+1/29/2025,CUST100201,ORD200201,Kavya,kavya201@gmail.com,9180750000,Bangalore,Body Lotion,South,Karnataka,5,Minimalist,Accessories,P100201,152904.47,26436.68,156,3490.05,35.07
+1/30/2025,CUST100202,ORD200202,Vikram,vikram202@gmail.com,9195890000,Mumbai,Face Mask,South,Maharashtra,5,Lakme,Haircare,P100202,5405.85,34456.07,60,3223.22,35.82
+1/31/2025,CUST100203,ORD200203,Kavya,kavya203@gmail.com,9175770000,Patna,Lip Balm,North,Bihar,4,Nykaa Cosmetics,Skincare,P100203,105778.42,3912.86,249,3610.14,22.72
+1/2/2025,CUST100204,ORD200204,Shreya,shreya204@gmail.com,9166160000,Coimbatore,Toner,South,Tamil Nadu,4,MAC,Haircare,P100204,50816.58,29202.11,387,1198.87,23.71
+2/2/2025,CUST100205,ORD200205,Sanya,sanya205@gmail.com,9178650000,Lucknow,Body Lotion,North,Uttar Pradesh,4,Nykaa Cosmetics,Skincare,P100205,23750.09,11495.61,374,582.33,23.39
+3/2/2025,CUST100206,ORD200206,Shreya,shreya206@gmail.com,9190700000,Kolkata,Face Cream,South,West Bengal,2,Huda Beauty,Beauty,P100206,176867.95,21625.78,439,4592.35,1.66
+4/2/2025,CUST100207,ORD200207,Harshita,harshita207@gmail.com,9168710000,Delhi,Aftershave,South,Delhi,4,L'Oreal,Accessories,P100207,40668.77,30616.08,270,2844.84,12.05
+5/2/2025,CUST100208,ORD200208,Kavya,kavya208@gmail.com,9187640000,Chandigarh,Conditioner,North,Punjab,5,Minimalist,Haircare,P100208,164655.83,1435.83,442,853.75,7.73
+6/2/2025,CUST100209,ORD200209,Vikram,vikram209@gmail.com,9189970000,Jaipur,Aftershave,West,Rajasthan,5,L'Oreal,Skincare,P100209,83231.31,27824.04,217,3987.84,44.32
+7/2/2025,CUST100210,ORD200210,Rahul,rahul210@gmail.com,9177990000,Nagpur,Serum,South,Maharashtra,5,The Body Shop,Fashion,P100210,3843.86,17451.18,399,4583.16,13.75
+8/2/2025,CUST100211,ORD200211,Meera,meera211@gmail.com,9168200000,Mumbai,Deodorant,North,Maharashtra,3,The Body Shop,Fashion,P100211,146774.03,17642.95,2,930.86,6.92
+9/2/2025,CUST100212,ORD200212,Priya,priya212@gmail.com,9168390000,Bangalore,Conditioner,North,Karnataka,3,The Body Shop,Haircare,P100212,119675.59,36300.4,24,4105.32,5.99
+10/2/2025,CUST100213,ORD200213,Vikram,vikram213@gmail.com,9177570000,Pune,Moisturizer,South,Maharashtra,5,Huda Beauty,Accessories,P100213,69490.2,34403.48,206,4672.8,35
+11/2/2025,CUST100214,ORD200214,Arjun,arjun214@gmail.com,9192210000,Chennai,Hair Oil,South,Tamil Nadu,3,MAC,Haircare,P100214,57027.64,2395.6,320,4697.97,0.3
+12/2/2025,CUST100215,ORD200215,Ishita,ishita215@gmail.com,9179070000,Nagpur,Perfume,North,Maharashtra,5,Nykaa Cosmetics,Beauty,P100215,15664.56,24770.79,496,4579.37,23.57
+2/13/2025,CUST100216,ORD200216,Neha,neha216@gmail.com,9173000000,Mumbai,Deodorant,North,Maharashtra,2,Huda Beauty,Skincare,P100216,188343.69,17490.26,199,2777.46,5.94
+2/14/2025,CUST100217,ORD200217,Ishita,ishita217@gmail.com,9167080000,Delhi,Hair Oil,North,Delhi,5,Lakme,Beauty,P100217,99302.99,4800.8,356,1845.44,42.48
+2/15/2025,CUST100218,ORD200218,Neha,neha218@gmail.com,9199530000,Hyderabad,Face Wash,East,Telangana,4,Minimalist,Fashion,P100218,18019.38,34056.95,114,135.64,47.92
+2/16/2025,CUST100219,ORD200219,Akshay,akshay219@gmail.com,9185330000,Kolkata,Sunscreen,South,West Bengal,4,L'Oreal,Skincare,P100219,173867.26,2953.29,280,398.47,47.94
+2/17/2025,CUST100220,ORD200220,Neha,neha220@gmail.com,9173600000,Chandigarh,Conditioner,East,Punjab,5,The Body Shop,Haircare,P100220,56487.8,1380.69,155,2201.31,22.1
+2/18/2025,CUST100221,ORD200221,Rahul,rahul221@gmail.com,9161200000,Chennai,Soap,North,Tamil Nadu,3,Maybelline,Beauty,P100221,41516.94,7980.87,165,2056.7,32.23
+2/19/2025,CUST100222,ORD200222,Shreya,shreya222@gmail.com,9185430000,Coimbatore,Soap,East,Tamil Nadu,2,Lakme,Wellness,P100222,56906.55,12204.83,486,1005.1,29.99
+2/20/2025,CUST100223,ORD200223,Diya,diya223@gmail.com,9195750000,Jaipur,Hand Sanitizer,West,Rajasthan,3,The Body Shop,Accessories,P100223,113349.72,2529.14,222,2037.85,17.5
+2/21/2025,CUST100224,ORD200224,Ishita,ishita224@gmail.com,9195450000,Mumbai,Shampoo,North,Maharashtra,4,MAC,Accessories,P100224,15737.24,25688.33,91,955.79,22.2
+2/22/2025,CUST100225,ORD200225,Arjun,arjun225@gmail.com,9191150000,Jaipur,Hair Oil,West,Rajasthan,1,Lakme,Wellness,P100225,96869.62,17542.29,167,4259.08,3.22
+2/23/2025,CUST100226,ORD200226,Amit,amit226@gmail.com,9198430000,Chandigarh,Moisturizer,East,Punjab,5,Huda Beauty,Fashion,P100226,179252.95,16546.34,447,1561.15,39.78
+2/24/2025,CUST100227,ORD200227,Priya,priya227@gmail.com,9194550000,Delhi,Face Cream,West,Delhi,4,Nykaa Cosmetics,Skincare,P100227,38446.15,5899.1,207,3032.97,12.04
+2/25/2025,CUST100228,ORD200228,Diya,diya228@gmail.com,9196890000,Coimbatore,Serum,East,Tamil Nadu,5,L'Oreal,Accessories,P100228,66906.57,17567.78,282,2563.93,23.03
+2/26/2025,CUST100229,ORD200229,Meera,meera229@gmail.com,9170980000,Indore,Body Wash,South,Madhya Pradesh,5,Minimalist,Wellness,P100229,79828.27,15667.62,65,354.22,24.03
+2/27/2025,CUST100230,ORD200230,Arjun,arjun230@gmail.com,9188830000,Ahmedabad,Toothpaste,South,Gujarat,4,MAC,Haircare,P100230,117657.92,15407.34,376,4716.95,28.04
+2/28/2025,CUST100231,ORD200231,Akshay,akshay231@gmail.com,9185000000,Nagpur,Toner,East,Maharashtra,3,MAC,Wellness,P100231,183931.6,8820.82,4,2683.41,40.89
+1/3/2025,CUST100232,ORD200232,Diya,diya232@gmail.com,9193240000,Jaipur,Face Wash,North,Rajasthan,5,Maybelline,Fashion,P100232,79513.3,3868.05,157,1692.78,34.59
+2/3/2025,CUST100233,ORD200233,Priya,priya233@gmail.com,9198440000,Pune,Sunscreen,South,Maharashtra,1,Lakme,Fashion,P100233,14761.42,10502.25,249,874.82,33.15
+3/3/2025,CUST100234,ORD200234,Neha,neha234@gmail.com,9173320000,Nagpur,Body Wash,East,Maharashtra,4,Maybelline,Beauty,P100234,70242.22,26724.08,257,1758.78,26.34
+4/3/2025,CUST100235,ORD200235,Aditya,aditya235@gmail.com,9166270000,Lucknow,Face Mask,North,Uttar Pradesh,5,Nykaa Cosmetics,Accessories,P100235,38827,3009.65,235,200.51,4.8
+5/3/2025,CUST100236,ORD200236,Arjun,arjun236@gmail.com,9179440000,Patna,Body Wash,South,Bihar,5,The Body Shop,Beauty,P100236,130703.12,15354.75,306,1881.43,20.1
+6/3/2025,CUST100237,ORD200237,Arjun,arjun237@gmail.com,9186050000,Pune,Moisturizer,East,Maharashtra,1,Nykaa Cosmetics,Wellness,P100237,6823.16,20623.61,366,2704.28,47.87
+7/3/2025,CUST100238,ORD200238,Priya,priya238@gmail.com,9195940000,Lucknow,Soap,North,Uttar Pradesh,5,The Body Shop,Skincare,P100238,59094.06,38529.76,470,4372.14,49.78
+8/3/2025,CUST100239,ORD200239,Ananya,ananya239@gmail.com,9190070000,Bangalore,Hand Sanitizer,North,Karnataka,3,Maybelline,Skincare,P100239,109489.53,33768.62,395,3468.13,36.52
+9/3/2025,CUST100240,ORD200240,Meera,meera240@gmail.com,9161560000,Indore,Hair Oil,East,Madhya Pradesh,4,L'Oreal,Fashion,P100240,56189.51,36672.87,74,646.75,11.38
+10/3/2025,CUST100241,ORD200241,Rahul,rahul241@gmail.com,9178330000,Chandigarh,Conditioner,West,Punjab,5,Nykaa Cosmetics,Skincare,P100241,110648.06,32818.06,187,823.96,5.09
+11/3/2025,CUST100242,ORD200242,Kavya,kavya242@gmail.com,9165610000,Chandigarh,Conditioner,West,Punjab,3,Maybelline,Skincare,P100242,23827.75,23605.67,62,2197.8,20.74
+12/3/2025,CUST100243,ORD200243,Vivaan,vivaan243@gmail.com,9179510000,Hyderabad,Conditioner,West,Telangana,5,Lakme,Skincare,P100243,188618.29,34445.39,337,1058.97,42.83
+3/13/2025,CUST100244,ORD200244,Harshita,harshita244@gmail.com,9188860000,Pune,Hand Sanitizer,West,Maharashtra,4,Maybelline,Wellness,P100244,58890.45,22653.37,164,236.46,36.09
+3/14/2025,CUST100245,ORD200245,Diya,diya245@gmail.com,9193470000,Kolkata,Moisturizer,North,West Bengal,3,Maybelline,Skincare,P100245,184677.17,14374.14,56,4044.57,44.19
+3/15/2025,CUST100246,ORD200246,Rahul,rahul246@gmail.com,9198690000,Chennai,Perfume,West,Tamil Nadu,2,Huda Beauty,Haircare,P100246,65841.25,14956.45,111,195.66,30.79
+3/16/2025,CUST100247,ORD200247,Sanya,sanya247@gmail.com,9185950000,Chandigarh,Shaving Cream,East,Punjab,4,Nykaa Cosmetics,Skincare,P100247,156586.2,22661.92,218,4170.38,6.52
+3/17/2025,CUST100248,ORD200248,Ishita,ishita248@gmail.com,9185900000,Coimbatore,Hair Oil,North,Tamil Nadu,3,Minimalist,Skincare,P100248,49991.28,32396.64,240,806.11,5.74
+3/18/2025,CUST100249,ORD200249,Aditya,aditya249@gmail.com,9174520000,Chandigarh,Toner,West,Punjab,4,L'Oreal,Beauty,P100249,134284.01,5432.74,21,4875.92,2.4
+3/19/2025,CUST100250,ORD200250,Shreya,shreya250@gmail.com,9161620000,Ahmedabad,Face Wash,East,Gujarat,4,L'Oreal,Wellness,P100250,65419.53,1666.68,141,3058.98,28.35
+3/20/2025,CUST100251,ORD200251,Vikram,vikram251@gmail.com,9171080000,Hyderabad,Body Wash,South,Telangana,4,Huda Beauty,Fashion,P100251,102322.67,31603.79,265,3701.42,12.14
+3/21/2025,CUST100252,ORD200252,Arjun,arjun252@gmail.com,9164930000,Delhi,Hair Oil,North,Delhi,5,The Body Shop,Beauty,P100252,135089.02,25938.92,139,641.37,36.72
+3/22/2025,CUST100253,ORD200253,Neha,neha253@gmail.com,9167240000,Mumbai,Shampoo,East,Maharashtra,2,MAC,Accessories,P100253,118187.62,32870.28,459,4324.31,34.31
+3/23/2025,CUST100254,ORD200254,Vikram,vikram254@gmail.com,9175790000,Kolkata,Shampoo,West,West Bengal,5,The Body Shop,Wellness,P100254,115679.84,39069.39,70,4212.04,15.91
+3/24/2025,CUST100255,ORD200255,Ishita,ishita255@gmail.com,9198230000,Nagpur,Face Mask,East,Maharashtra,4,L'Oreal,Haircare,P100255,14070.49,10130.62,385,3299.66,8.84
+3/25/2025,CUST100256,ORD200256,Arjun,arjun256@gmail.com,9197870000,Bangalore,Serum,North,Karnataka,5,Maybelline,Wellness,P100256,50566.29,7852.25,118,2561.15,5.12
+3/26/2025,CUST100257,ORD200257,Neha,neha257@gmail.com,9189020000,Jaipur,Soap,South,Rajasthan,5,Huda Beauty,Accessories,P100257,114796.02,13705.04,198,3635.3,36.87
+3/27/2025,CUST100258,ORD200258,Shreya,shreya258@gmail.com,9179450000,Chennai,Moisturizer,West,Tamil Nadu,4,Lakme,Accessories,P100258,4645.12,35130.7,205,129.05,22.52
+3/28/2025,CUST100259,ORD200259,Ananya,ananya259@gmail.com,9178820000,Delhi,Face Cream,East,Delhi,5,Nykaa Cosmetics,Accessories,P100259,50878.21,657.16,214,3002.96,16.18
+3/29/2025,CUST100260,ORD200260,Sneha,sneha260@gmail.com,9186580000,Ahmedabad,Face Mask,South,Gujarat,5,Nykaa Cosmetics,Fashion,P100260,46607.86,520.24,56,4252.29,42.83
+3/30/2025,CUST100261,ORD200261,Ananya,ananya261@gmail.com,9199370000,Pune,Deodorant,North,Maharashtra,4,Minimalist,Skincare,P100261,50721.37,8749.78,287,1848.81,29.68
+3/31/2025,CUST100262,ORD200262,Ananya,ananya262@gmail.com,9168280000,Pune,Body Lotion,West,Maharashtra,1,Nykaa Cosmetics,Wellness,P100262,107586.29,15099.06,470,630.62,25.9
+1/4/2025,CUST100263,ORD200263,Aarav,aarav263@gmail.com,9173810000,Coimbatore,Soap,South,Tamil Nadu,5,Maybelline,Skincare,P100263,116810.11,12163.61,293,2162.3,37.17
+2/4/2025,CUST100264,ORD200264,Kavya,kavya264@gmail.com,9184080000,Jaipur,Aftershave,North,Rajasthan,3,Lakme,Skincare,P100264,181890.6,33014.22,175,3662.81,40.78
+3/4/2025,CUST100265,ORD200265,Sanya,sanya265@gmail.com,9197760000,Indore,Shaving Cream,West,Madhya Pradesh,3,Huda Beauty,Haircare,P100265,77820.18,27619.92,347,625.78,34.3
+4/4/2025,CUST100266,ORD200266,Shreya,shreya266@gmail.com,9162700000,Delhi,Lip Balm,East,Delhi,1,Huda Beauty,Accessories,P100266,185389.2,33529.56,370,1109.64,22
+5/4/2025,CUST100267,ORD200267,Rahul,rahul267@gmail.com,9184320000,Mumbai,Shampoo,South,Maharashtra,5,Nykaa Cosmetics,Fashion,P100267,130738.91,15412.04,462,823,18.96
+6/4/2025,CUST100268,ORD200268,Diya,diya268@gmail.com,9189100000,Lucknow,Conditioner,North,Uttar Pradesh,4,Lakme,Haircare,P100268,182619.42,23872.83,128,4005.04,38.58
+7/4/2025,CUST100269,ORD200269,Ananya,ananya269@gmail.com,9186570000,Lucknow,Moisturizer,East,Uttar Pradesh,4,Lakme,Beauty,P100269,166860.95,20666.67,431,408.17,25.9
+8/4/2025,CUST100270,ORD200270,Rahul,rahul270@gmail.com,9180180000,Coimbatore,Hair Oil,West,Tamil Nadu,5,Lakme,Fashion,P100270,137828.91,19041.59,378,3464.27,35.22
+9/4/2025,CUST100271,ORD200271,Meera,meera271@gmail.com,9167680000,Ahmedabad,Conditioner,South,Gujarat,3,L'Oreal,Skincare,P100271,71865.07,11595.32,325,1895.64,44.52
+10/4/2025,CUST100272,ORD200272,Vikram,vikram272@gmail.com,9173170000,Mumbai,Serum,North,Maharashtra,4,L'Oreal,Fashion,P100272,48980.98,28397.9,442,3803.38,45.79
+11/4/2025,CUST100273,ORD200273,Aarav,aarav273@gmail.com,9180670000,Kolkata,Body Lotion,South,West Bengal,3,Nykaa Cosmetics,Accessories,P100273,45255.9,21008.78,292,4825.48,13.89
+12/4/2025,CUST100274,ORD200274,Aditya,aditya274@gmail.com,9185480000,Chennai,Sunscreen,East,Tamil Nadu,5,Lakme,Beauty,P100274,190482.59,3236.25,288,661.27,9.39
+4/13/2025,CUST100275,ORD200275,Amit,amit275@gmail.com,9190560000,Indore,Body Wash,East,Madhya Pradesh,5,MAC,Accessories,P100275,191756.19,120.84,226,1640.49,13.06
+4/14/2025,CUST100276,ORD200276,Sneha,sneha276@gmail.com,9170190000,Delhi,Hand Sanitizer,North,Delhi,5,Lakme,Beauty,P100276,145241.44,910.73,64,4069.61,37.57
+4/15/2025,CUST100277,ORD200277,Sanya,sanya277@gmail.com,9189670000,Hyderabad,Serum,South,Telangana,4,Huda Beauty,Haircare,P100277,176875.4,3130.41,455,1404.18,18.5
+4/16/2025,CUST100278,ORD200278,Kavya,kavya278@gmail.com,9172960000,Hyderabad,Shampoo,South,Telangana,5,Huda Beauty,Skincare,P100278,183880.24,14901.07,426,1154.09,8.67
+4/17/2025,CUST100279,ORD200279,Aditya,aditya279@gmail.com,9178360000,Ahmedabad,Perfume,East,Gujarat,5,Nykaa Cosmetics,Beauty,P100279,102799.68,12296.06,48,4144.35,4.92
+4/18/2025,CUST100280,ORD200280,Sanya,sanya280@gmail.com,9173200000,Mumbai,Aftershave,South,Maharashtra,4,MAC,Beauty,P100280,126182.88,6350.03,202,4936.7,16.37
+4/19/2025,CUST100281,ORD200281,Diya,diya281@gmail.com,9161600000,Coimbatore,Toner,South,Tamil Nadu,5,Lakme,Beauty,P100281,84332.15,20666.43,498,2828.71,6.81
+4/20/2025,CUST100282,ORD200282,Vikram,vikram282@gmail.com,9162270000,Mumbai,Serum,South,Maharashtra,4,The Body Shop,Fashion,P100282,84279.66,38810.24,337,1462.44,7.82
+4/21/2025,CUST100283,ORD200283,Shreya,shreya283@gmail.com,9162120000,Hyderabad,Face Wash,North,Telangana,2,MAC,Haircare,P100283,8647.35,6511.8,414,2052.97,34.19
+4/22/2025,CUST100284,ORD200284,Aditya,aditya284@gmail.com,9187530000,Hyderabad,Deodorant,East,Telangana,4,Minimalist,Fashion,P100284,87330.47,10098.6,405,933.64,0.99
+4/23/2025,CUST100285,ORD200285,Neha,neha285@gmail.com,9186090000,Mumbai,Body Lotion,West,Maharashtra,2,Nykaa Cosmetics,Skincare,P100285,135024.47,18537.91,60,3833.25,5.88
+4/24/2025,CUST100286,ORD200286,Vikram,vikram286@gmail.com,9167730000,Bangalore,Toner,North,Karnataka,5,Huda Beauty,Beauty,P100286,84974.45,25669.55,397,3890.02,42.22
+4/25/2025,CUST100287,ORD200287,Arjun,arjun287@gmail.com,9172320000,Chandigarh,Serum,East,Punjab,4,The Body Shop,Haircare,P100287,174609.53,24049.97,257,4388.09,42.25
+4/26/2025,CUST100288,ORD200288,Harshita,harshita288@gmail.com,9177680000,Nagpur,Deodorant,North,Maharashtra,5,Huda Beauty,Haircare,P100288,67180.03,20895.85,65,230.35,16.46
+4/27/2025,CUST100289,ORD200289,Sneha,sneha289@gmail.com,9191490000,Pune,Perfume,West,Maharashtra,5,L'Oreal,Wellness,P100289,27403.73,29517,239,2853.71,4.4
+4/28/2025,CUST100290,ORD200290,Diya,diya290@gmail.com,9173410000,Hyderabad,Body Wash,North,Telangana,3,Nykaa Cosmetics,Skincare,P100290,162500.18,33853.23,289,1149.85,35.25
+4/29/2025,CUST100291,ORD200291,Harshita,harshita291@gmail.com,9169960000,Indore,Aftershave,North,Madhya Pradesh,3,Nykaa Cosmetics,Haircare,P100291,135115.64,39958.78,38,1770.33,18.01
+4/30/2025,CUST100292,ORD200292,Sanya,sanya292@gmail.com,9175560000,Ahmedabad,Face Cream,West,Gujarat,2,Lakme,Beauty,P100292,49122.08,18673.87,25,3946.28,2.27
+1/5/2025,CUST100293,ORD200293,Shreya,shreya293@gmail.com,9193720000,Pune,Moisturizer,South,Maharashtra,4,Lakme,Beauty,P100293,107753.8,39798.77,410,1040.96,7.89
+2/5/2025,CUST100294,ORD200294,Shreya,shreya294@gmail.com,9164400000,Ahmedabad,Soap,East,Gujarat,4,L'Oreal,Haircare,P100294,80968.62,29246.93,461,3227.87,6.86
+3/5/2025,CUST100295,ORD200295,Ishita,ishita295@gmail.com,9198130000,Kolkata,Body Lotion,West,West Bengal,1,The Body Shop,Fashion,P100295,187833.1,26327.94,59,3307.37,29.46
+4/5/2025,CUST100296,ORD200296,Aditya,aditya296@gmail.com,9191410000,Chandigarh,Shampoo,North,Punjab,4,Minimalist,Skincare,P100296,121859.09,25623.35,476,4775.06,44.91
+5/5/2025,CUST100297,ORD200297,Rahul,rahul297@gmail.com,9197120000,Bangalore,Toner,South,Karnataka,4,Maybelline,Beauty,P100297,32519.46,36438.7,417,3898.29,39.65
+6/5/2025,CUST100298,ORD200298,Vivaan,vivaan298@gmail.com,9191170000,Lucknow,Face Mask,North,Uttar Pradesh,1,MAC,Haircare,P100298,100927.54,37922.58,357,4037.81,27.33
+7/5/2025,CUST100299,ORD200299,Ishita,ishita299@gmail.com,9194870000,Ahmedabad,Deodorant,South,Gujarat,4,Maybelline,Beauty,P100299,172648.81,7221.88,383,2704.84,21.11
+8/5/2025,CUST100300,ORD200300,Rahul,rahul300@gmail.com,9176350000,Kolkata,Body Wash,North,West Bengal,5,Maybelline,Haircare,P100300,134627.84,19787.61,297,1015.23,30.93
+9/5/2025,CUST100301,ORD200301,Sanya,sanya301@gmail.com,9178520000,Bangalore,Toothpaste,East,Karnataka,1,Nykaa Cosmetics,Skincare,P100301,168647.96,37663.85,158,2185.26,22.19
+10/5/2025,CUST100302,ORD200302,Rahul,rahul302@gmail.com,9175600000,Jaipur,Shaving Cream,East,Rajasthan,3,MAC,Haircare,P100302,50829.46,15346.3,57,2792.5,12.3
+11/5/2025,CUST100303,ORD200303,Harshita,harshita303@gmail.com,9180640000,Coimbatore,Moisturizer,North,Tamil Nadu,2,Nykaa Cosmetics,Wellness,P100303,177781.92,9383.79,433,3424.25,33.96
+12/5/2025,CUST100304,ORD200304,Meera,meera304@gmail.com,9179160000,Bangalore,Body Lotion,West,Karnataka,2,Minimalist,Haircare,P100304,151366.66,4195.86,48,3077.77,43.66
+5/13/2025,CUST100305,ORD200305,Kavya,kavya305@gmail.com,9182450000,Ahmedabad,Hand Sanitizer,North,Gujarat,3,MAC,Haircare,P100305,146053.84,23928.98,328,2030.49,18.64
+5/14/2025,CUST100306,ORD200306,Shreya,shreya306@gmail.com,9186010000,Bangalore,Face Wash,North,Karnataka,4,Huda Beauty,Skincare,P100306,69961.67,28040.89,433,1400.03,42.08
+5/15/2025,CUST100307,ORD200307,Sneha,sneha307@gmail.com,9164200000,Indore,Toner,West,Madhya Pradesh,1,Nykaa Cosmetics,Haircare,P100307,177643.95,7902.36,431,924.33,21.55
+5/16/2025,CUST100308,ORD200308,Vikram,vikram308@gmail.com,9181230000,Delhi,Body Lotion,West,Delhi,4,Nykaa Cosmetics,Skincare,P100308,127957.9,26978.16,56,3499.84,20.07
+5/17/2025,CUST100309,ORD200309,Rohan,rohan309@gmail.com,9188620000,Jaipur,Hair Oil,North,Rajasthan,4,Nykaa Cosmetics,Wellness,P100309,170516.06,35994.81,65,3262.45,1.42
+5/18/2025,CUST100310,ORD200310,Harshita,harshita310@gmail.com,9179620000,Chennai,Toothpaste,South,Tamil Nadu,4,The Body Shop,Skincare,P100310,72833.32,9818.82,268,3468.13,34.76
+5/19/2025,CUST100311,ORD200311,Arjun,arjun311@gmail.com,9188520000,Mumbai,Moisturizer,East,Maharashtra,3,L'Oreal,Beauty,P100311,29984.77,4967.8,69,1925.38,40.38
+5/20/2025,CUST100312,ORD200312,Vikram,vikram312@gmail.com,9164770000,Ahmedabad,Perfume,South,Gujarat,1,Nykaa Cosmetics,Skincare,P100312,67135.1,33433.42,216,1385.8,33.18
+5/21/2025,CUST100313,ORD200313,Vivaan,vivaan313@gmail.com,9167270000,Ahmedabad,Sunscreen,West,Gujarat,3,Minimalist,Wellness,P100313,91597.61,36666.21,390,3822.63,7.57
+5/22/2025,CUST100314,ORD200314,Rahul,rahul314@gmail.com,9176690000,Chennai,Hair Oil,East,Tamil Nadu,5,Lakme,Accessories,P100314,107148.07,8672.99,89,3890.87,5.16
+5/23/2025,CUST100315,ORD200315,Ishita,ishita315@gmail.com,9179470000,Chandigarh,Perfume,North,Punjab,3,Lakme,Haircare,P100315,102651.03,28883.08,449,2332.52,28.64
+5/24/2025,CUST100316,ORD200316,Sanya,sanya316@gmail.com,9199140000,Lucknow,Face Mask,East,Uttar Pradesh,2,MAC,Skincare,P100316,109664.86,23677.69,281,3098.33,20.08
+5/25/2025,CUST100317,ORD200317,Priya,priya317@gmail.com,9161810000,Chandigarh,Hand Sanitizer,North,Punjab,1,Huda Beauty,Haircare,P100317,168499.45,9643.94,257,1930.25,21.45
+5/26/2025,CUST100318,ORD200318,Ishita,ishita318@gmail.com,9193140000,Delhi,Toothpaste,North,Delhi,3,L'Oreal,Fashion,P100318,34850.15,32963.94,160,3539.54,48.39
+5/27/2025,CUST100319,ORD200319,Meera,meera319@gmail.com,9162370000,Chennai,Deodorant,West,Tamil Nadu,4,The Body Shop,Beauty,P100319,63894.21,18870.45,490,4195.04,36.2
+5/28/2025,CUST100320,ORD200320,Harshita,harshita320@gmail.com,9196270000,Pune,Sunscreen,South,Maharashtra,2,MAC,Beauty,P100320,177833.09,28043.32,234,3472.34,20.59
+5/29/2025,CUST100321,ORD200321,Sanya,sanya321@gmail.com,9187030000,Indore,Aftershave,West,Madhya Pradesh,5,Lakme,Fashion,P100321,112531.18,12126.77,131,2611.65,0.95
+5/30/2025,CUST100322,ORD200322,Sanya,sanya322@gmail.com,9192290000,Nagpur,Body Wash,West,Maharashtra,3,L'Oreal,Fashion,P100322,117094.58,32649.69,49,2347.42,1.7
+5/31/2025,CUST100323,ORD200323,Ishita,ishita323@gmail.com,9175790000,Nagpur,Shaving Cream,East,Maharashtra,4,L'Oreal,Skincare,P100323,96134.45,10645.01,147,3247.37,34.24
+1/6/2025,CUST100324,ORD200324,Neha,neha324@gmail.com,9165220000,Kolkata,Face Cream,South,West Bengal,4,Huda Beauty,Fashion,P100324,110245.95,14655.01,316,3431.07,41.89
+2/6/2025,CUST100325,ORD200325,Diya,diya325@gmail.com,9169370000,Coimbatore,Sunscreen,South,Tamil Nadu,5,Minimalist,Accessories,P100325,40417.87,15719.62,491,2837.77,35.39
+3/6/2025,CUST100326,ORD200326,Amit,amit326@gmail.com,9164960000,Chennai,Body Wash,South,Tamil Nadu,4,L'Oreal,Haircare,P100326,109826.51,8336.43,413,3162.22,20.29
+4/6/2025,CUST100327,ORD200327,Neha,neha327@gmail.com,9179100000,Ahmedabad,Face Cream,South,Gujarat,5,Nykaa Cosmetics,Haircare,P100327,199437.45,34987.34,434,573.28,1.56
+5/6/2025,CUST100328,ORD200328,Ishita,ishita328@gmail.com,9162570000,Hyderabad,Face Mask,East,Telangana,5,L'Oreal,Wellness,P100328,113643.47,4628.16,2,4763.65,48.37
+6/6/2025,CUST100329,ORD200329,Vikram,vikram329@gmail.com,9177470000,Delhi,Soap,East,Delhi,2,Huda Beauty,Fashion,P100329,9836.09,22568.85,329,3974.79,49.32
+7/6/2025,CUST100330,ORD200330,Ananya,ananya330@gmail.com,9195720000,Mumbai,Toothpaste,West,Maharashtra,3,MAC,Fashion,P100330,159490.69,32584.62,440,1932.25,27.47
+8/6/2025,CUST100331,ORD200331,Sneha,sneha331@gmail.com,9195260000,Ahmedabad,Hair Oil,West,Gujarat,4,Huda Beauty,Accessories,P100331,79898.61,23278.11,145,2857.78,3.53
+9/6/2025,CUST100332,ORD200332,Harshita,harshita332@gmail.com,9191410000,Hyderabad,Shaving Cream,South,Telangana,3,The Body Shop,Beauty,P100332,31581.55,13143.17,444,331.89,27.05
+10/6/2025,CUST100333,ORD200333,Sanya,sanya333@gmail.com,9191540000,Chennai,Hand Sanitizer,West,Tamil Nadu,4,Huda Beauty,Beauty,P100333,172641.44,31276.07,366,302.02,44.62
+11/6/2025,CUST100334,ORD200334,Diya,diya334@gmail.com,9174570000,Delhi,Face Mask,East,Delhi,3,Lakme,Haircare,P100334,40396.68,20017.18,420,1328.91,34
+12/6/2025,CUST100335,ORD200335,Harshita,harshita335@gmail.com,9171440000,Patna,Perfume,West,Bihar,5,Nykaa Cosmetics,Haircare,P100335,184232.71,6604.21,61,3479.54,36
+6/13/2025,CUST100336,ORD200336,Amit,amit336@gmail.com,9173190000,Indore,Face Wash,North,Madhya Pradesh,4,Minimalist,Skincare,P100336,88917.5,12742.84,273,4275.52,4.25
+6/14/2025,CUST100337,ORD200337,Aarav,aarav337@gmail.com,9188150000,Indore,Face Mask,West,Madhya Pradesh,5,Lakme,Accessories,P100337,148815.38,23718.4,49,2840.01,5.33
+6/15/2025,CUST100338,ORD200338,Aditya,aditya338@gmail.com,9167110000,Jaipur,Conditioner,East,Rajasthan,2,MAC,Wellness,P100338,109852.17,26385.18,332,2707.45,6.37
+6/16/2025,CUST100339,ORD200339,Sneha,sneha339@gmail.com,9180800000,Hyderabad,Lip Balm,South,Telangana,3,Maybelline,Wellness,P100339,52068.73,21970.47,444,2071.32,45.22
+6/17/2025,CUST100340,ORD200340,Rahul,rahul340@gmail.com,9191860000,Kolkata,Hair Oil,North,West Bengal,1,MAC,Accessories,P100340,134546.94,10953.18,404,891.83,26.29
+6/18/2025,CUST100341,ORD200341,Rahul,rahul341@gmail.com,9170840000,Lucknow,Deodorant,North,Uttar Pradesh,5,Nykaa Cosmetics,Wellness,P100341,191624.6,23790.73,434,679.94,39.58
+6/19/2025,CUST100342,ORD200342,Rohan,rohan342@gmail.com,9199420000,Bangalore,Perfume,North,Karnataka,5,L'Oreal,Beauty,P100342,154157.76,13364.82,131,3827.33,5.76
+6/20/2025,CUST100343,ORD200343,Ananya,ananya343@gmail.com,9175410000,Ahmedabad,Hand Sanitizer,West,Gujarat,4,Huda Beauty,Wellness,P100343,121199.58,9074.35,43,4644.77,46.38
+6/21/2025,CUST100344,ORD200344,Meera,meera344@gmail.com,9183690000,Patna,Body Lotion,West,Bihar,5,Maybelline,Wellness,P100344,198134.99,37826.59,57,2345.59,41.06
+6/22/2025,CUST100345,ORD200345,Neha,neha345@gmail.com,9178600000,Pune,Body Wash,North,Maharashtra,5,Nykaa Cosmetics,Accessories,P100345,53800.01,12663.45,50,3331.28,11.24
+6/23/2025,CUST100346,ORD200346,Sanya,sanya346@gmail.com,9168660000,Bangalore,Face Mask,North,Karnataka,3,Lakme,Accessories,P100346,13405.96,13491.26,452,4580.84,43.71
+6/24/2025,CUST100347,ORD200347,Kavya,kavya347@gmail.com,9182010000,Patna,Hair Oil,South,Bihar,3,Huda Beauty,Wellness,P100347,7394.04,35881.38,465,541.56,13.17
+6/25/2025,CUST100348,ORD200348,Amit,amit348@gmail.com,9189570000,Coimbatore,Face Mask,South,Tamil Nadu,4,MAC,Fashion,P100348,142426.89,5793.45,178,3875.36,10.27
+6/26/2025,CUST100349,ORD200349,Shreya,shreya349@gmail.com,9161250000,Hyderabad,Hair Oil,North,Telangana,3,Lakme,Accessories,P100349,166216.24,23425.34,293,3122.4,13.21
+6/27/2025,CUST100350,ORD200350,Arjun,arjun350@gmail.com,9191430000,Pune,Face Wash,South,Maharashtra,2,Nykaa Cosmetics,Skincare,P100350,127385.01,31370.05,46,3033.32,45.5
+6/28/2025,CUST100351,ORD200351,Akshay,akshay351@gmail.com,9194760000,Delhi,Body Lotion,East,Delhi,4,Nykaa Cosmetics,Skincare,P100351,181100.29,11019.25,170,1533.45,45.78
+6/29/2025,CUST100352,ORD200352,Akshay,akshay352@gmail.com,9161520000,Pune,Toothpaste,West,Maharashtra,4,MAC,Beauty,P100352,139897.23,33778.83,271,3451.08,16.45
+6/30/2025,CUST100353,ORD200353,Rahul,rahul353@gmail.com,9189240000,Ahmedabad,Sunscreen,South,Gujarat,4,Maybelline,Wellness,P100353,74819.97,30808.99,417,3994.51,35.27
+1/7/2025,CUST100354,ORD200354,Akshay,akshay354@gmail.com,9182880000,Kolkata,Hair Oil,East,West Bengal,4,MAC,Fashion,P100354,37070.4,19495.15,336,653.01,33.79
+2/7/2025,CUST100355,ORD200355,Rahul,rahul355@gmail.com,9181990000,Nagpur,Hair Oil,West,Maharashtra,1,L'Oreal,Beauty,P100355,185004.85,4836.76,139,2714.26,40.33
+3/7/2025,CUST100356,ORD200356,Aarav,aarav356@gmail.com,9182880000,Nagpur,Shampoo,South,Maharashtra,1,Lakme,Wellness,P100356,21615.83,38807.28,247,596.2,14.83
+4/7/2025,CUST100357,ORD200357,Neha,neha357@gmail.com,9169680000,Delhi,Body Lotion,West,Delhi,2,Maybelline,Accessories,P100357,109054.69,25006.79,148,4375.61,25.51
+5/7/2025,CUST100358,ORD200358,Neha,neha358@gmail.com,9168520000,Bangalore,Perfume,East,Karnataka,4,Huda Beauty,Skincare,P100358,63487.58,20732.23,230,2587.42,33.38
+6/7/2025,CUST100359,ORD200359,Vivaan,vivaan359@gmail.com,9192500000,Delhi,Serum,East,Delhi,3,The Body Shop,Haircare,P100359,55011.59,35429.44,280,4059.03,1.31
+7/7/2025,CUST100360,ORD200360,Sanya,sanya360@gmail.com,9194200000,Nagpur,Hair Oil,West,Maharashtra,4,L'Oreal,Fashion,P100360,129521.14,16912.11,125,1903.62,18.84
+8/7/2025,CUST100361,ORD200361,Sneha,sneha361@gmail.com,9172610000,Mumbai,Hand Sanitizer,North,Maharashtra,4,Maybelline,Haircare,P100361,47016.15,22589.29,192,712.88,34.79
+9/7/2025,CUST100362,ORD200362,Vivaan,vivaan362@gmail.com,9189460000,Indore,Conditioner,South,Madhya Pradesh,5,The Body Shop,Skincare,P100362,183356.66,34350.68,374,303.35,12.63
+10/7/2025,CUST100363,ORD200363,Neha,neha363@gmail.com,9160830000,Lucknow,Toner,North,Uttar Pradesh,5,The Body Shop,Haircare,P100363,81802.74,15779.59,80,1479.4,47.89
+11/7/2025,CUST100364,ORD200364,Amit,amit364@gmail.com,9168440000,Pune,Toothpaste,East,Maharashtra,5,Lakme,Accessories,P100364,135797.69,30918.42,94,1296.75,1.51
+12/7/2025,CUST100365,ORD200365,Aarav,aarav365@gmail.com,9178580000,Lucknow,Body Lotion,West,Uttar Pradesh,4,Nykaa Cosmetics,Wellness,P100365,145823.39,10319.9,226,2845.72,47.9
+7/13/2025,CUST100366,ORD200366,Ishita,ishita366@gmail.com,9195990000,Chandigarh,Face Wash,South,Punjab,5,Huda Beauty,Accessories,P100366,136905.4,28124.37,65,206.52,10.84
+7/14/2025,CUST100367,ORD200367,Priya,priya367@gmail.com,9167130000,Bangalore,Lip Balm,South,Karnataka,5,MAC,Haircare,P100367,180776.65,20466.35,88,2650.8,2.44
+7/15/2025,CUST100368,ORD200368,Arjun,arjun368@gmail.com,9190740000,Chandigarh,Perfume,North,Punjab,4,Lakme,Accessories,P100368,46995.04,6679.78,88,2019.68,14.62
+7/16/2025,CUST100369,ORD200369,Ananya,ananya369@gmail.com,9164410000,Chandigarh,Body Wash,South,Punjab,5,L'Oreal,Skincare,P100369,18124.85,5526.7,201,2927.9,39.31
+7/17/2025,CUST100370,ORD200370,Sanya,sanya370@gmail.com,9187030000,Delhi,Conditioner,South,Delhi,5,Minimalist,Fashion,P100370,12037.67,18361.76,214,3541.85,37.62
+7/18/2025,CUST100371,ORD200371,Akshay,akshay371@gmail.com,9164550000,Patna,Body Wash,South,Bihar,5,The Body Shop,Accessories,P100371,175690.99,28462.8,204,3207.05,10.44
+7/19/2025,CUST100372,ORD200372,Ishita,ishita372@gmail.com,9191280000,Mumbai,Lip Balm,East,Maharashtra,5,L'Oreal,Skincare,P100372,194684.12,24171.51,401,4924.76,9.84
+7/20/2025,CUST100373,ORD200373,Ananya,ananya373@gmail.com,9169740000,Patna,Deodorant,North,Bihar,5,The Body Shop,Fashion,P100373,61202.78,34203.53,382,777.5,32.13
+7/21/2025,CUST100374,ORD200374,Rohan,rohan374@gmail.com,9199530000,Kolkata,Shaving Cream,East,West Bengal,4,Nykaa Cosmetics,Wellness,P100374,139009.27,15647.5,89,2205.71,22.9
+7/22/2025,CUST100375,ORD200375,Amit,amit375@gmail.com,9184680000,Chennai,Body Wash,West,Tamil Nadu,1,Minimalist,Haircare,P100375,2773.64,33761.32,476,2181.67,39.61
+7/23/2025,CUST100376,ORD200376,Vivaan,vivaan376@gmail.com,9183560000,Pune,Lip Balm,West,Maharashtra,4,Nykaa Cosmetics,Wellness,P100376,38537.67,1577.44,61,2143.56,1.21
+7/24/2025,CUST100377,ORD200377,Rohan,rohan377@gmail.com,9167870000,Coimbatore,Body Wash,North,Tamil Nadu,5,Huda Beauty,Beauty,P100377,138165.6,14695.6,271,3352.61,30.52
+7/25/2025,CUST100378,ORD200378,Akshay,akshay378@gmail.com,9197080000,Indore,Face Wash,West,Madhya Pradesh,2,MAC,Skincare,P100378,14111.54,3012.02,94,2500.16,36.53
+7/26/2025,CUST100379,ORD200379,Priya,priya379@gmail.com,9181020000,Chandigarh,Soap,East,Punjab,5,Huda Beauty,Fashion,P100379,94233.5,36777.84,307,2635.42,49.67
+7/27/2025,CUST100380,ORD200380,Rohan,rohan380@gmail.com,9189790000,Jaipur,Body Lotion,East,Rajasthan,4,Nykaa Cosmetics,Accessories,P100380,132854.07,19064.96,27,2218.54,33.94
+7/28/2025,CUST100381,ORD200381,Diya,diya381@gmail.com,9160210000,Mumbai,Hand Sanitizer,East,Maharashtra,4,Nykaa Cosmetics,Wellness,P100381,153425.68,12714.64,214,4959.33,11.59
+7/29/2025,CUST100382,ORD200382,Akshay,akshay382@gmail.com,9167610000,Coimbatore,Moisturizer,East,Tamil Nadu,5,L'Oreal,Fashion,P100382,91309.37,19750.26,74,4645.05,5.41
+7/30/2025,CUST100383,ORD200383,Ishita,ishita383@gmail.com,9191630000,Chandigarh,Face Cream,North,Punjab,3,Nykaa Cosmetics,Skincare,P100383,126426.52,21360.56,61,1607.85,32.05
+7/31/2025,CUST100384,ORD200384,Neha,neha384@gmail.com,9162880000,Kolkata,Aftershave,South,West Bengal,4,Minimalist,Beauty,P100384,108375.55,33864.68,186,646.81,26.16
+1/8/2025,CUST100385,ORD200385,Diya,diya385@gmail.com,9160590000,Pune,Conditioner,West,Maharashtra,3,Minimalist,Wellness,P100385,11408.85,21742.87,31,4214.85,44.96
+2/8/2025,CUST100386,ORD200386,Aditya,aditya386@gmail.com,9176910000,Nagpur,Toothpaste,North,Maharashtra,4,Maybelline,Haircare,P100386,148818.13,17312.12,219,4986.13,36.33
+3/8/2025,CUST100387,ORD200387,Priya,priya387@gmail.com,9170800000,Jaipur,Shaving Cream,South,Rajasthan,2,The Body Shop,Fashion,P100387,35300.02,38458.04,12,1533.78,25.49
+4/8/2025,CUST100388,ORD200388,Ishita,ishita388@gmail.com,9173880000,Pune,Conditioner,North,Maharashtra,5,Lakme,Haircare,P100388,7329.3,38745.47,302,1853.15,20.18
+5/8/2025,CUST100389,ORD200389,Meera,meera389@gmail.com,9174270000,Lucknow,Shaving Cream,West,Uttar Pradesh,3,Nykaa Cosmetics,Fashion,P100389,90782.42,1632.83,415,4714,20.22
+6/8/2025,CUST100390,ORD200390,Aarav,aarav390@gmail.com,9185020000,Hyderabad,Deodorant,North,Telangana,2,Huda Beauty,Fashion,P100390,173261.88,28303.15,32,3584.53,11.32
+7/8/2025,CUST100391,ORD200391,Arjun,arjun391@gmail.com,9187660000,Coimbatore,Face Wash,West,Tamil Nadu,3,MAC,Skincare,P100391,31015.06,14933.15,160,1548.63,0.87
+8/8/2025,CUST100392,ORD200392,Sneha,sneha392@gmail.com,9169890000,Chennai,Perfume,North,Tamil Nadu,4,The Body Shop,Skincare,P100392,3558.65,27040.47,489,2947.13,28.75
+9/8/2025,CUST100393,ORD200393,Rohan,rohan393@gmail.com,9190060000,Nagpur,Face Cream,North,Maharashtra,3,The Body Shop,Skincare,P100393,22885.87,25513.2,237,4726.72,10.62
+10/8/2025,CUST100394,ORD200394,Rahul,rahul394@gmail.com,9179720000,Nagpur,Moisturizer,East,Maharashtra,5,MAC,Accessories,P100394,73368.16,13271.17,227,4077.88,10.42
+11/8/2025,CUST100395,ORD200395,Sanya,sanya395@gmail.com,9171590000,Delhi,Deodorant,North,Delhi,4,MAC,Fashion,P100395,116454.2,39467.68,181,3734.98,6.27
+12/8/2025,CUST100396,ORD200396,Neha,neha396@gmail.com,9194740000,Indore,Sunscreen,North,Madhya Pradesh,4,The Body Shop,Wellness,P100396,39409.41,14348.67,317,3711.28,9.48
+8/13/2025,CUST100397,ORD200397,Sanya,sanya397@gmail.com,9161130000,Jaipur,Aftershave,South,Rajasthan,3,Maybelline,Haircare,P100397,160590.84,25316.07,46,972.3,1.59
+8/14/2025,CUST100398,ORD200398,Diya,diya398@gmail.com,9168210000,Pune,Perfume,East,Maharashtra,4,Huda Beauty,Skincare,P100398,150906.13,32554.12,341,4140.94,33.71
+8/15/2025,CUST100399,ORD200399,Sneha,sneha399@gmail.com,9195230000,Kolkata,Toothpaste,West,West Bengal,5,Maybelline,Skincare,P100399,139476.86,5904.05,458,1452.98,20.07
+8/16/2025,CUST100400,ORD200400,Sneha,sneha400@gmail.com,9160270000,Chennai,Face Cream,East,Tamil Nadu,5,Nykaa Cosmetics,Haircare,P100400,98006.49,12092.68,80,4658.8,28.08
+8/17/2025,CUST100401,ORD200401,Amit,amit401@gmail.com,9168040000,Delhi,Face Mask,North,Delhi,5,Lakme,Haircare,P100401,73678.17,8039.01,135,1886.74,31.85
+8/18/2025,CUST100402,ORD200402,Sneha,sneha402@gmail.com,9168970000,Chandigarh,Moisturizer,West,Punjab,2,MAC,Fashion,P100402,75741.74,31294.71,260,4302.54,48.62
+8/19/2025,CUST100403,ORD200403,Neha,neha403@gmail.com,9162270000,Ahmedabad,Aftershave,North,Gujarat,4,Minimalist,Skincare,P100403,101111.04,32068.22,475,1404.54,3.41
+8/20/2025,CUST100404,ORD200404,Harshita,harshita404@gmail.com,9184770000,Patna,Face Wash,East,Bihar,4,Huda Beauty,Haircare,P100404,16385.62,10312.16,308,2621.18,20.9
+8/21/2025,CUST100405,ORD200405,Akshay,akshay405@gmail.com,9195450000,Lucknow,Conditioner,East,Uttar Pradesh,1,MAC,Accessories,P100405,136778.79,264.79,247,623.74,12.29
+8/22/2025,CUST100406,ORD200406,Diya,diya406@gmail.com,9176370000,Hyderabad,Face Mask,North,Telangana,2,Maybelline,Accessories,P100406,70950,16991.68,473,3334.58,23.84
+8/23/2025,CUST100407,ORD200407,Aditya,aditya407@gmail.com,9164380000,Patna,Face Cream,North,Bihar,4,L'Oreal,Skincare,P100407,45727,27516.79,159,4196.79,46.02
+8/24/2025,CUST100408,ORD200408,Neha,neha408@gmail.com,9193110000,Patna,Deodorant,North,Bihar,4,Nykaa Cosmetics,Haircare,P100408,56387.09,24937.84,203,3620.39,36.2
+8/25/2025,CUST100409,ORD200409,Ananya,ananya409@gmail.com,9173950000,Nagpur,Face Cream,South,Maharashtra,5,Lakme,Fashion,P100409,36878.56,17883.42,112,2663.97,33.1
+8/26/2025,CUST100410,ORD200410,Aarav,aarav410@gmail.com,9189850000,Ahmedabad,Hand Sanitizer,East,Gujarat,5,Nykaa Cosmetics,Fashion,P100410,180412.05,12147.47,468,321.07,22.06
+8/27/2025,CUST100411,ORD200411,Kavya,kavya411@gmail.com,9172340000,Indore,Body Lotion,South,Madhya Pradesh,4,L'Oreal,Fashion,P100411,34638.47,19028.05,292,4673.86,33.56
+8/28/2025,CUST100412,ORD200412,Priya,priya412@gmail.com,9184960000,Chennai,Shampoo,East,Tamil Nadu,5,Lakme,Beauty,P100412,176702.3,702.6,438,3556.9,1.62
+8/29/2025,CUST100413,ORD200413,Ananya,ananya413@gmail.com,9199900000,Kolkata,Soap,East,West Bengal,2,L'Oreal,Skincare,P100413,114876.44,3047.44,310,3754.73,29.31
+8/30/2025,CUST100414,ORD200414,Shreya,shreya414@gmail.com,9173090000,Hyderabad,Sunscreen,West,Telangana,4,Nykaa Cosmetics,Fashion,P100414,173622.74,6590.8,119,3993.93,27.69
+8/31/2025,CUST100415,ORD200415,Sneha,sneha415@gmail.com,9160140000,Jaipur,Perfume,West,Rajasthan,5,Maybelline,Accessories,P100415,95338.78,25053.67,383,3763.94,17.33
+1/9/2025,CUST100416,ORD200416,Aarav,aarav416@gmail.com,9165580000,Mumbai,Face Wash,East,Maharashtra,3,The Body Shop,Haircare,P100416,185599.11,8830.09,17,2261.47,10.08
+2/9/2025,CUST100417,ORD200417,Rohan,rohan417@gmail.com,9171240000,Ahmedabad,Toner,West,Gujarat,3,Nykaa Cosmetics,Wellness,P100417,43086.66,16992.82,493,3694.75,40.38
+3/9/2025,CUST100418,ORD200418,Ananya,ananya418@gmail.com,9163670000,Nagpur,Face Wash,East,Maharashtra,3,Nykaa Cosmetics,Wellness,P100418,111383.66,24894.29,331,3162.63,2.69
+4/9/2025,CUST100419,ORD200419,Akshay,akshay419@gmail.com,9188240000,Kolkata,Deodorant,East,West Bengal,3,Nykaa Cosmetics,Fashion,P100419,26041.9,33240.01,414,4284.68,3.48
+5/9/2025,CUST100420,ORD200420,Aarav,aarav420@gmail.com,9191030000,Ahmedabad,Face Cream,North,Gujarat,3,Huda Beauty,Wellness,P100420,89996.84,22031.3,227,4032.05,22.03
+6/9/2025,CUST100421,ORD200421,Ishita,ishita421@gmail.com,9179080000,Jaipur,Face Cream,West,Rajasthan,4,L'Oreal,Wellness,P100421,114410.84,7167.35,361,302.73,12.63
+7/9/2025,CUST100422,ORD200422,Arjun,arjun422@gmail.com,9172480000,Hyderabad,Toothpaste,South,Telangana,5,Minimalist,Beauty,P100422,121529.37,38074.41,486,1956.55,37.27
+8/9/2025,CUST100423,ORD200423,Neha,neha423@gmail.com,9182340000,Mumbai,Face Wash,South,Maharashtra,4,L'Oreal,Accessories,P100423,73740.23,3691.6,406,270.11,31.71
+9/9/2025,CUST100424,ORD200424,Diya,diya424@gmail.com,9175910000,Lucknow,Face Cream,West,Uttar Pradesh,4,MAC,Accessories,P100424,16190.79,14748.06,117,600.17,38.63
+10/9/2025,CUST100425,ORD200425,Diya,diya425@gmail.com,9193240000,Delhi,Face Cream,East,Delhi,5,L'Oreal,Beauty,P100425,131409.89,36860.83,43,3046.91,16.23
+11/9/2025,CUST100426,ORD200426,Diya,diya426@gmail.com,9185800000,Chandigarh,Moisturizer,South,Punjab,5,MAC,Beauty,P100426,98197.94,24133.11,368,4381.73,37.03
+12/9/2025,CUST100427,ORD200427,Vivaan,vivaan427@gmail.com,9167620000,Chandigarh,Face Wash,West,Punjab,1,Huda Beauty,Wellness,P100427,28238.89,26539.83,115,687.14,43.12
+9/13/2025,CUST100428,ORD200428,Vivaan,vivaan428@gmail.com,9195870000,Chandigarh,Shampoo,South,Punjab,4,Maybelline,Skincare,P100428,187239.32,12137.54,283,2310.34,17.26
+9/14/2025,CUST100429,ORD200429,Aarav,aarav429@gmail.com,9189030000,Bangalore,Face Mask,North,Karnataka,5,MAC,Haircare,P100429,191178.06,3233.69,37,4563.31,16.99
+9/15/2025,CUST100430,ORD200430,Kavya,kavya430@gmail.com,9191430000,Delhi,Hand Sanitizer,East,Delhi,5,Nykaa Cosmetics,Haircare,P100430,171464.65,14693.86,302,4090.07,45
+9/16/2025,CUST100431,ORD200431,Sanya,sanya431@gmail.com,9161240000,Bangalore,Face Cream,North,Karnataka,4,Maybelline,Wellness,P100431,168929.79,16146.08,113,2646.37,2.49
+9/17/2025,CUST100432,ORD200432,Sneha,sneha432@gmail.com,9188190000,Patna,Body Lotion,South,Bihar,5,The Body Shop,Haircare,P100432,20635.58,10883.87,35,3880.7,17.51
+9/18/2025,CUST100433,ORD200433,Sanya,sanya433@gmail.com,9180230000,Jaipur,Perfume,East,Rajasthan,4,Huda Beauty,Beauty,P100433,198690.6,8697.87,132,2661.2,5.93
+9/19/2025,CUST100434,ORD200434,Ananya,ananya434@gmail.com,9199740000,Jaipur,Body Lotion,East,Rajasthan,5,L'Oreal,Accessories,P100434,80675.76,14284.8,336,874.65,1.45
+9/20/2025,CUST100435,ORD200435,Rohan,rohan435@gmail.com,9177410000,Lucknow,Lip Balm,East,Uttar Pradesh,5,MAC,Haircare,P100435,33461.1,25612.73,336,711.21,5.64
+9/21/2025,CUST100436,ORD200436,Sanya,sanya436@gmail.com,9190380000,Chennai,Face Wash,West,Tamil Nadu,5,Minimalist,Wellness,P100436,162608.24,37966.49,469,1023,21.56
+9/22/2025,CUST100437,ORD200437,Rahul,rahul437@gmail.com,9164490000,Nagpur,Shaving Cream,West,Maharashtra,2,Nykaa Cosmetics,Skincare,P100437,45920.42,28180.85,410,1819.52,34.35
+9/23/2025,CUST100438,ORD200438,Diya,diya438@gmail.com,9180050000,Kolkata,Moisturizer,East,West Bengal,4,Lakme,Wellness,P100438,105708.89,31206.16,377,4659.59,14.46
+9/24/2025,CUST100439,ORD200439,Kavya,kavya439@gmail.com,9179870000,Jaipur,Serum,East,Rajasthan,5,The Body Shop,Fashion,P100439,26475.2,12312.07,228,4018.42,42.48
+9/25/2025,CUST100440,ORD200440,Priya,priya440@gmail.com,9196920000,Mumbai,Body Lotion,East,Maharashtra,2,Lakme,Wellness,P100440,95454.5,4277.23,147,2220.73,21.88
+9/26/2025,CUST100441,ORD200441,Aarav,aarav441@gmail.com,9184610000,Nagpur,Conditioner,North,Maharashtra,5,Maybelline,Beauty,P100441,112070.16,11731.39,122,2516.08,48.41
+9/27/2025,CUST100442,ORD200442,Kavya,kavya442@gmail.com,9174470000,Chennai,Soap,North,Tamil Nadu,5,L'Oreal,Accessories,P100442,89738.87,16165.9,81,1401.49,47.71
+9/28/2025,CUST100443,ORD200443,Neha,neha443@gmail.com,9186630000,Indore,Face Cream,South,Madhya Pradesh,5,Minimalist,Accessories,P100443,14827.88,27626.27,173,3551.33,38.66
+9/29/2025,CUST100444,ORD200444,Harshita,harshita444@gmail.com,9195200000,Coimbatore,Body Wash,East,Tamil Nadu,5,Lakme,Haircare,P100444,97502.87,37580.41,154,4033.55,46.62
+9/30/2025,CUST100445,ORD200445,Neha,neha445@gmail.com,9164120000,Delhi,Toner,East,Delhi,5,Maybelline,Beauty,P100445,94319.63,32390.77,150,1270.63,35.35
+1/10/2025,CUST100446,ORD200446,Sneha,sneha446@gmail.com,9196900000,Nagpur,Soap,North,Maharashtra,1,Huda Beauty,Fashion,P100446,53062.44,10729.37,375,304.93,44.78
+2/10/2025,CUST100447,ORD200447,Arjun,arjun447@gmail.com,9198590000,Delhi,Face Wash,South,Delhi,5,Maybelline,Beauty,P100447,184398.72,32830,58,3157.06,11.82
+3/10/2025,CUST100448,ORD200448,Shreya,shreya448@gmail.com,9187420000,Bangalore,Face Wash,South,Karnataka,4,The Body Shop,Wellness,P100448,84140.67,16528.7,63,2856.31,17.27
+4/10/2025,CUST100449,ORD200449,Diya,diya449@gmail.com,9175290000,Coimbatore,Body Lotion,East,Tamil Nadu,4,Minimalist,Beauty,P100449,172959.04,7100.01,156,2070.44,37.65
+5/10/2025,CUST100450,ORD200450,Arjun,arjun450@gmail.com,9193160000,Kolkata,Sunscreen,West,West Bengal,5,Minimalist,Beauty,P100450,22823.1,18504.01,449,3255.08,21.23
+6/10/2025,CUST100451,ORD200451,Ishita,ishita451@gmail.com,9187520000,Hyderabad,Shaving Cream,South,Telangana,5,Maybelline,Fashion,P100451,64456.58,22572.5,428,2798.01,41.87
+7/10/2025,CUST100452,ORD200452,Priya,priya452@gmail.com,9179380000,Coimbatore,Body Wash,South,Tamil Nadu,4,The Body Shop,Wellness,P100452,36089.84,30559.86,356,1327.85,43.88
+8/10/2025,CUST100453,ORD200453,Akshay,akshay453@gmail.com,9160600000,Jaipur,Perfume,East,Rajasthan,4,Maybelline,Skincare,P100453,82273.75,14060.87,427,2048.87,14.99
+9/10/2025,CUST100454,ORD200454,Vikram,vikram454@gmail.com,9190760000,Pune,Soap,East,Maharashtra,3,Minimalist,Skincare,P100454,23215.7,5956.49,421,2197.76,41.17
+10/10/2025,CUST100455,ORD200455,Meera,meera455@gmail.com,9186370000,Jaipur,Hair Oil,East,Rajasthan,3,Minimalist,Accessories,P100455,88765.93,3864.71,322,4413.22,7.71
+11/10/2025,CUST100456,ORD200456,Rohan,rohan456@gmail.com,9195240000,Nagpur,Hair Oil,North,Maharashtra,4,Nykaa Cosmetics,Haircare,P100456,71420.28,4586.59,401,4808.43,16.71
+12/10/2025,CUST100457,ORD200457,Akshay,akshay457@gmail.com,9196720000,Patna,Soap,East,Bihar,4,Maybelline,Beauty,P100457,45439.69,38005.93,168,4475.71,25.9
+10/13/2025,CUST100458,ORD200458,Diya,diya458@gmail.com,9164550000,Bangalore,Conditioner,West,Karnataka,5,MAC,Accessories,P100458,128793.7,38074.88,166,3623.97,11.32
+10/14/2025,CUST100459,ORD200459,Shreya,shreya459@gmail.com,9191720000,Chennai,Soap,West,Tamil Nadu,4,Maybelline,Fashion,P100459,190231.39,38753.38,85,2966.46,28.96
+10/15/2025,CUST100460,ORD200460,Sanya,sanya460@gmail.com,9198690000,Kolkata,Sunscreen,South,West Bengal,3,Minimalist,Skincare,P100460,42215.58,12169.31,445,3477.38,28.93
+10/16/2025,CUST100461,ORD200461,Vivaan,vivaan461@gmail.com,9188370000,Lucknow,Body Wash,North,Uttar Pradesh,5,Nykaa Cosmetics,Beauty,P100461,142646.38,7745.42,137,4701.64,10.35
+10/17/2025,CUST100462,ORD200462,Arjun,arjun462@gmail.com,9173150000,Mumbai,Deodorant,South,Maharashtra,4,Nykaa Cosmetics,Fashion,P100462,148733.8,39238.49,461,1324.99,39.78
+10/18/2025,CUST100463,ORD200463,Priya,priya463@gmail.com,9170790000,Bangalore,Perfume,North,Karnataka,4,Huda Beauty,Haircare,P100463,100125.98,39531.74,459,2722.09,31.58
+10/19/2025,CUST100464,ORD200464,Neha,neha464@gmail.com,9193750000,Indore,Shampoo,East,Madhya Pradesh,3,The Body Shop,Fashion,P100464,179636,3226.18,189,3479.08,15.89
+10/20/2025,CUST100465,ORD200465,Akshay,akshay465@gmail.com,9165470000,Chennai,Shaving Cream,South,Tamil Nadu,3,L'Oreal,Beauty,P100465,193311.62,30125.87,464,3428.31,11.61
+10/21/2025,CUST100466,ORD200466,Aarav,aarav466@gmail.com,9194780000,Kolkata,Face Cream,West,West Bengal,3,Lakme,Haircare,P100466,73087.04,11617.69,400,1336.17,43.94
+10/22/2025,CUST100467,ORD200467,Meera,meera467@gmail.com,9183320000,Jaipur,Toothpaste,North,Rajasthan,5,Lakme,Fashion,P100467,130555.63,36381.02,379,2974.98,41.79
+10/23/2025,CUST100468,ORD200468,Akshay,akshay468@gmail.com,9177680000,Bangalore,Aftershave,South,Karnataka,3,Maybelline,Haircare,P100468,132780.31,3660.08,2,3999.97,11.49
+10/24/2025,CUST100469,ORD200469,Arjun,arjun469@gmail.com,9194970000,Chennai,Sunscreen,West,Tamil Nadu,3,Huda Beauty,Beauty,P100469,81323.47,35554.25,106,2427.89,1.78
+10/25/2025,CUST100470,ORD200470,Neha,neha470@gmail.com,9175780000,Delhi,Deodorant,West,Delhi,5,Maybelline,Beauty,P100470,64041.42,204.59,364,3987.16,40.23
+10/26/2025,CUST100471,ORD200471,Rahul,rahul471@gmail.com,9190330000,Chandigarh,Aftershave,East,Punjab,4,Lakme,Haircare,P100471,186815.1,20926.92,72,1863.42,30.78
+10/27/2025,CUST100472,ORD200472,Rahul,rahul472@gmail.com,9178510000,Jaipur,Body Wash,North,Rajasthan,5,The Body Shop,Wellness,P100472,158206.33,13489,427,4699.92,5.04
+10/28/2025,CUST100473,ORD200473,Neha,neha473@gmail.com,9186250000,Nagpur,Toner,South,Maharashtra,2,Minimalist,Accessories,P100473,23778.45,17150.62,126,2716.25,29.37
+10/29/2025,CUST100474,ORD200474,Akshay,akshay474@gmail.com,9171770000,Bangalore,Body Wash,West,Karnataka,5,The Body Shop,Fashion,P100474,24856.93,17408,170,3020.14,22.61
+10/30/2025,CUST100475,ORD200475,Sanya,sanya475@gmail.com,9182200000,Mumbai,Body Wash,North,Maharashtra,5,The Body Shop,Fashion,P100475,184586.01,26178.77,205,253.67,38.73
+10/31/2025,CUST100476,ORD200476,Amit,amit476@gmail.com,9194560000,Hyderabad,Aftershave,East,Telangana,4,Nykaa Cosmetics,Wellness,P100476,17200.54,1021.58,313,934.32,10.45
+1/11/2025,CUST100477,ORD200477,Rahul,rahul477@gmail.com,9182430000,Chennai,Soap,North,Tamil Nadu,2,Minimalist,Wellness,P100477,137995.85,27685.43,337,3201.38,22.66
+2/11/2025,CUST100478,ORD200478,Ishita,ishita478@gmail.com,9196380000,Nagpur,Conditioner,North,Maharashtra,5,L'Oreal,Wellness,P100478,46124.89,985.71,487,2157.36,7.81
+3/11/2025,CUST100479,ORD200479,Neha,neha479@gmail.com,9168550000,Patna,Deodorant,South,Bihar,5,Minimalist,Skincare,P100479,8001.88,7492.42,472,2590,47.88
+4/11/2025,CUST100480,ORD200480,Neha,neha480@gmail.com,9175810000,Chennai,Shampoo,North,Tamil Nadu,5,Huda Beauty,Skincare,P100480,12867.87,24308.99,195,408.56,38.94
+5/11/2025,CUST100481,ORD200481,Ananya,ananya481@gmail.com,9180540000,Patna,Face Wash,East,Bihar,4,Nykaa Cosmetics,Haircare,P100481,75330.9,3548.85,158,4187.26,36.84
+6/11/2025,CUST100482,ORD200482,Meera,meera482@gmail.com,9188440000,Indore,Face Wash,West,Madhya Pradesh,2,L'Oreal,Skincare,P100482,16440.1,39637.06,141,3944.08,34.51
+7/11/2025,CUST100483,ORD200483,Vivaan,vivaan483@gmail.com,9160560000,Mumbai,Aftershave,South,Maharashtra,2,Huda Beauty,Beauty,P100483,119731.2,31396.93,275,1008.23,21.17
+8/11/2025,CUST100484,ORD200484,Rohan,rohan484@gmail.com,9172980000,Pune,Sunscreen,West,Maharashtra,5,Huda Beauty,Haircare,P100484,129803.65,28256.07,7,3208.21,46.16
+9/11/2025,CUST100485,ORD200485,Meera,meera485@gmail.com,9195710000,Jaipur,Perfume,North,Rajasthan,5,Lakme,Fashion,P100485,75320.25,10780.47,393,4109.74,3.65
+10/11/2025,CUST100486,ORD200486,Harshita,harshita486@gmail.com,9163060000,Pune,Shaving Cream,East,Maharashtra,4,Nykaa Cosmetics,Accessories,P100486,148832.74,2037.74,467,3240.19,40.16
+11/11/2025,CUST100487,ORD200487,Diya,diya487@gmail.com,9177860000,Lucknow,Sunscreen,West,Uttar Pradesh,5,Huda Beauty,Beauty,P100487,98518.46,39153.36,493,1620.95,10.76
+12/11/2025,CUST100488,ORD200488,Aditya,aditya488@gmail.com,9163800000,Indore,Sunscreen,East,Madhya Pradesh,4,MAC,Fashion,P100488,86615.47,5999.15,54,3314.94,16.2
+11/13/2025,CUST100489,ORD200489,Amit,amit489@gmail.com,9160470000,Coimbatore,Conditioner,North,Tamil Nadu,5,The Body Shop,Fashion,P100489,81990.63,33239.64,104,1131.26,25.97
+11/14/2025,CUST100490,ORD200490,Harshita,harshita490@gmail.com,9161740000,Chandigarh,Shampoo,North,Punjab,5,Huda Beauty,Haircare,P100490,86790.19,7980.94,342,1659.45,39.13
+11/15/2025,CUST100491,ORD200491,Ishita,ishita491@gmail.com,9173620000,Pune,Lip Balm,West,Maharashtra,2,L'Oreal,Wellness,P100491,193609.64,15026.41,338,1276.34,41.93
+11/16/2025,CUST100492,ORD200492,Sneha,sneha492@gmail.com,9161590000,Lucknow,Conditioner,South,Uttar Pradesh,5,Lakme,Wellness,P100492,136600,27774.22,61,2828.93,29.19
+11/17/2025,CUST100493,ORD200493,Sneha,sneha493@gmail.com,9165350000,Mumbai,Face Wash,East,Maharashtra,4,Maybelline,Beauty,P100493,63726.76,37820.06,87,630.31,20.15
+11/18/2025,CUST100494,ORD200494,Meera,meera494@gmail.com,9197290000,Ahmedabad,Shampoo,East,Gujarat,5,The Body Shop,Wellness,P100494,147038.11,889.32,258,4673.22,47.33
+11/19/2025,CUST100495,ORD200495,Priya,priya495@gmail.com,9180340000,Nagpur,Hand Sanitizer,East,Maharashtra,4,Lakme,Fashion,P100495,66723.21,10504.65,178,1734.21,12.33
+11/20/2025,CUST100496,ORD200496,Rohan,rohan496@gmail.com,9171700000,Lucknow,Face Wash,North,Uttar Pradesh,5,Maybelline,Wellness,P100496,26017.27,30622.13,242,1172.95,40.15
+11/21/2025,CUST100497,ORD200497,Kavya,kavya497@gmail.com,9189560000,Patna,Shaving Cream,North,Bihar,5,Nykaa Cosmetics,Skincare,P100497,95596.71,7018.41,203,2533.09,30.6
+11/22/2025,CUST100498,ORD200498,Ananya,ananya498@gmail.com,9186530000,Ahmedabad,Body Lotion,West,Gujarat,4,Nykaa Cosmetics,Wellness,P100498,150453.75,4547.06,31,1457.29,18.84
+11/23/2025,CUST100499,ORD200499,Kavya,kavya499@gmail.com,9167240000,Lucknow,Perfume,West,Uttar Pradesh,5,Huda Beauty,Fashion,P100499,76154.32,1942.77,289,2721.03,0.07
+11/24/2025,CUST100500,ORD200500,Harshita,harshita500@gmail.com,9192120000,Chandigarh,Lip Balm,North,Punjab,3,MAC,Haircare,P100500,173965.65,20149.35,462,1807.69,22.33
+11/25/2025,CUST100501,ORD200501,Neha,neha501@gmail.com,9183610000,Mumbai,Perfume,South,Maharashtra,5,Nykaa Cosmetics,Beauty,P100501,78003.59,30732.57,80,747.13,13.84
+11/26/2025,CUST100502,ORD200502,Vivaan,vivaan502@gmail.com,9198210000,Kolkata,Face Cream,East,West Bengal,1,Minimalist,Accessories,P100502,70617.97,38473.21,11,1402.89,5.22
+11/27/2025,CUST100503,ORD200503,Rahul,rahul503@gmail.com,9183870000,Nagpur,Moisturizer,East,Maharashtra,5,Huda Beauty,Wellness,P100503,199650.54,10772.69,417,2248.36,3.76
+11/28/2025,CUST100504,ORD200504,Akshay,akshay504@gmail.com,9188870000,Mumbai,Face Cream,North,Maharashtra,4,The Body Shop,Fashion,P100504,97011.93,4942.76,254,248.44,17.38
+11/29/2025,CUST100505,ORD200505,Rahul,rahul505@gmail.com,9184040000,Patna,Toothpaste,South,Bihar,3,Lakme,Accessories,P100505,161239.02,16161.88,384,3876.15,30.74
+11/30/2025,CUST100506,ORD200506,Aarav,aarav506@gmail.com,9175230000,Lucknow,Shampoo,South,Uttar Pradesh,3,Nykaa Cosmetics,Accessories,P100506,161192.62,2312.07,391,3146.94,41.88
+1/12/2025,CUST100507,ORD200507,Amit,amit507@gmail.com,9165230000,Chandigarh,Soap,South,Punjab,5,Minimalist,Skincare,P100507,185347.5,13321.25,384,3046.66,9.18
+2/12/2025,CUST100508,ORD200508,Vikram,vikram508@gmail.com,9186650000,Coimbatore,Shaving Cream,South,Tamil Nadu,2,Lakme,Accessories,P100508,17894.12,25758.89,287,2775.64,21.23
+3/12/2025,CUST100509,ORD200509,Rahul,rahul509@gmail.com,9176540000,Lucknow,Shaving Cream,South,Uttar Pradesh,5,Lakme,Haircare,P100509,54972.84,6809.82,176,2992.53,19.6
+4/12/2025,CUST100510,ORD200510,Ananya,ananya510@gmail.com,9193690000,Nagpur,Sunscreen,West,Maharashtra,5,MAC,Fashion,P100510,153781.87,25311.88,126,4679.79,25.67
+5/12/2025,CUST100511,ORD200511,Shreya,shreya511@gmail.com,9196330000,Delhi,Perfume,North,Delhi,4,Nykaa Cosmetics,Fashion,P100511,112957.7,38880.77,494,141.99,40.48
+6/12/2025,CUST100512,ORD200512,Harshita,harshita512@gmail.com,9170540000,Ahmedabad,Serum,North,Gujarat,1,Lakme,Wellness,P100512,112363.37,34581.58,47,334.22,27.68
+7/12/2025,CUST100513,ORD200513,Meera,meera513@gmail.com,9172670000,Coimbatore,Lip Balm,North,Tamil Nadu,5,MAC,Wellness,P100513,34076.85,14337.71,206,1038.32,42.33
+8/12/2025,CUST100514,ORD200514,Akshay,akshay514@gmail.com,9177950000,Patna,Sunscreen,East,Bihar,4,MAC,Wellness,P100514,56949.45,16917.7,476,919.78,25.93
+9/12/2025,CUST100515,ORD200515,Sanya,sanya515@gmail.com,9192920000,Nagpur,Toner,South,Maharashtra,3,Nykaa Cosmetics,Haircare,P100515,104745.48,16830.9,437,987.85,30.19
+10/12/2025,CUST100516,ORD200516,Meera,meera516@gmail.com,9164010000,Chandigarh,Lip Balm,South,Punjab,3,MAC,Accessories,P100516,56159.09,34410.05,107,3392.53,21.87
+11/12/2025,CUST100517,ORD200517,Neha,neha517@gmail.com,9168600000,Pune,Perfume,East,Maharashtra,4,Nykaa Cosmetics,Accessories,P100517,42846.28,39753.7,464,2351.47,41.15
+12/12/2025,CUST100518,ORD200518,Sanya,sanya518@gmail.com,9177590000,Chandigarh,Lip Balm,South,Punjab,5,Minimalist,Skincare,P100518,18463.46,33053.24,275,4959.72,46.19
+12/13/2025,CUST100519,ORD200519,Aarav,aarav519@gmail.com,9163860000,Delhi,Sunscreen,South,Delhi,4,Nykaa Cosmetics,Haircare,P100519,31989.48,22368.92,337,1211.74,31.96
+12/14/2025,CUST100520,ORD200520,Ishita,ishita520@gmail.com,9171230000,Chandigarh,Face Wash,South,Punjab,2,Maybelline,Wellness,P100520,154004.68,3984.91,123,1623.07,41.04
+12/15/2025,CUST100521,ORD200521,Rohan,rohan521@gmail.com,9176010000,Pune,Moisturizer,South,Maharashtra,3,Lakme,Beauty,P100521,144037.06,38183.92,474,4922.78,2.95
+12/16/2025,CUST100522,ORD200522,Neha,neha522@gmail.com,9175300000,Bangalore,Serum,South,Karnataka,4,Minimalist,Skincare,P100522,10120.9,34415.83,134,4175.61,45.31
+12/17/2025,CUST100523,ORD200523,Rohan,rohan523@gmail.com,9195040000,Lucknow,Body Lotion,West,Uttar Pradesh,4,L'Oreal,Beauty,P100523,41453.53,33672.29,107,2402.02,9.45
+12/18/2025,CUST100524,ORD200524,Ananya,ananya524@gmail.com,9174090000,Lucknow,Face Cream,North,Uttar Pradesh,4,Nykaa Cosmetics,Accessories,P100524,112530.61,15733.53,305,2817.52,12.83
+12/19/2025,CUST100525,ORD200525,Neha,neha525@gmail.com,9184570000,Delhi,Toner,West,Delhi,4,Lakme,Skincare,P100525,65202.94,17942.14,329,4231.57,2.67
+12/20/2025,CUST100526,ORD200526,Rahul,rahul526@gmail.com,9172190000,Patna,Conditioner,South,Bihar,5,The Body Shop,Skincare,P100526,164826.67,4874.5,50,2456.8,48.27
+12/21/2025,CUST100527,ORD200527,Arjun,arjun527@gmail.com,9184920000,Chennai,Serum,North,Tamil Nadu,3,MAC,Fashion,P100527,157212.87,37521.13,337,1109.52,42.6
+12/22/2025,CUST100528,ORD200528,Meera,meera528@gmail.com,9170370000,Chandigarh,Hair Oil,North,Punjab,3,Huda Beauty,Accessories,P100528,178424.53,37735.05,95,4159.38,45.66
+12/23/2025,CUST100529,ORD200529,Kavya,kavya529@gmail.com,9198000000,Chandigarh,Shampoo,North,Punjab,3,Nykaa Cosmetics,Accessories,P100529,113023.32,10252.21,268,2735.09,42.36
+12/24/2025,CUST100530,ORD200530,Rohan,rohan530@gmail.com,9191160000,Chennai,Deodorant,North,Tamil Nadu,2,MAC,Haircare,P100530,71063.22,27870.71,23,849.91,23.98
+12/25/2025,CUST100531,ORD200531,Shreya,shreya531@gmail.com,9187700000,Indore,Shampoo,East,Madhya Pradesh,5,MAC,Skincare,P100531,121606.87,8219.24,54,2577.37,46.2
+12/26/2025,CUST100532,ORD200532,Ananya,ananya532@gmail.com,9172280000,Delhi,Conditioner,North,Delhi,5,MAC,Accessories,P100532,18738.2,15778.59,374,2124.7,48.47
+12/27/2025,CUST100533,ORD200533,Aditya,aditya533@gmail.com,9181090000,Chandigarh,Lip Balm,East,Punjab,5,MAC,Skincare,P100533,2907.62,12165.02,254,4396.53,25.13
+12/28/2025,CUST100534,ORD200534,Shreya,shreya534@gmail.com,9184800000,Jaipur,Shaving Cream,East,Rajasthan,5,MAC,Haircare,P100534,4401.61,15644.68,453,717.67,8.78
+12/29/2025,CUST100535,ORD200535,Vivaan,vivaan535@gmail.com,9172230000,Nagpur,Shampoo,North,Maharashtra,4,Nykaa Cosmetics,Haircare,P100535,82101.04,12428.01,235,4388.53,32.93
+12/30/2025,CUST100536,ORD200536,Rahul,rahul536@gmail.com,9175840000,Kolkata,Sunscreen,South,West Bengal,3,The Body Shop,Fashion,P100536,46387.44,13877.12,484,2609.83,48.77
+12/31/2025,CUST100537,ORD200537,Rohan,rohan537@gmail.com,9172200000,Delhi,Soap,South,Delhi,4,L'Oreal,Skincare,P100537,32310.2,31663.3,59,2081.39,43.61
+1/1/2026,CUST100538,ORD200538,Akshay,akshay538@gmail.com,9190880000,Patna,Soap,North,Bihar,5,Maybelline,Accessories,P100538,123449.88,12071.08,164,893.64,43.09
+2/1/2026,CUST100539,ORD200539,Arjun,arjun539@gmail.com,9190530000,Patna,Sunscreen,North,Bihar,5,MAC,Accessories,P100539,199023.91,32606.35,259,3534.01,46.69
+3/1/2026,CUST100540,ORD200540,Sanya,sanya540@gmail.com,9192720000,Indore,Soap,East,Madhya Pradesh,2,MAC,Skincare,P100540,36372.89,22760.09,314,4641.35,44.7
+4/1/2026,CUST100541,ORD200541,Priya,priya541@gmail.com,9163190000,Chandigarh,Sunscreen,West,Punjab,5,Maybelline,Skincare,P100541,109737.86,31239.75,216,1939.35,38.81
+5/1/2026,CUST100542,ORD200542,Shreya,shreya542@gmail.com,9172420000,Hyderabad,Shampoo,East,Telangana,1,The Body Shop,Skincare,P100542,24825.78,36763.74,183,1283.77,35.91
+6/1/2026,CUST100543,ORD200543,Aditya,aditya543@gmail.com,9190230000,Kolkata,Shampoo,South,West Bengal,4,Minimalist,Wellness,P100543,186913.05,5623.16,57,2818.85,13.24
+7/1/2026,CUST100544,ORD200544,Akshay,akshay544@gmail.com,9199140000,Patna,Face Wash,West,Bihar,5,The Body Shop,Accessories,P100544,59059.28,13821.22,145,4001.31,31.07
+8/1/2026,CUST100545,ORD200545,Priya,priya545@gmail.com,9182550000,Patna,Deodorant,West,Bihar,3,Minimalist,Haircare,P100545,175789.62,2316.74,423,118.46,26.07
+9/1/2026,CUST100546,ORD200546,Meera,meera546@gmail.com,9172550000,Delhi,Body Wash,West,Delhi,4,Nykaa Cosmetics,Accessories,P100546,57332.21,16335.71,90,3193.75,43.1
+10/1/2026,CUST100547,ORD200547,Aditya,aditya547@gmail.com,9192960000,Mumbai,Face Cream,East,Maharashtra,4,Lakme,Wellness,P100547,161404.44,9572.38,452,3022.93,24.59
+11/1/2026,CUST100548,ORD200548,Sneha,sneha548@gmail.com,9186890000,Bangalore,Conditioner,East,Karnataka,5,Huda Beauty,Skincare,P100548,42666.89,22909.98,311,1658.95,6.39
+12/1/2026,CUST100549,ORD200549,Ishita,ishita549@gmail.com,9167710000,Jaipur,Body Wash,North,Rajasthan,4,Huda Beauty,Fashion,P100549,59265.1,31357.26,45,2311.97,0.25
+1/13/2026,CUST100550,ORD200550,Rohan,rohan550@gmail.com,9196590000,Hyderabad,Body Lotion,East,Telangana,5,Lakme,Skincare,P100550,39302.6,19506,460,1310.12,33.89
+1/14/2026,CUST100551,ORD200551,Aditya,aditya551@gmail.com,9187620000,Nagpur,Shampoo,East,Maharashtra,3,Nykaa Cosmetics,Skincare,P100551,53587.72,13411.54,257,3970.44,27.5
+1/15/2026,CUST100552,ORD200552,Shreya,shreya552@gmail.com,9166980000,Bangalore,Aftershave,West,Karnataka,4,Huda Beauty,Wellness,P100552,167138.29,6187,21,3209.22,16.55
+1/16/2026,CUST100553,ORD200553,Sneha,sneha553@gmail.com,9190260000,Ahmedabad,Hand Sanitizer,West,Gujarat,5,The Body Shop,Accessories,P100553,128167.47,1170.52,467,2710.29,8.45
+1/17/2026,CUST100554,ORD200554,Priya,priya554@gmail.com,9190460000,Delhi,Shaving Cream,East,Delhi,4,Maybelline,Skincare,P100554,81770.05,27147.53,21,2023.38,23.34
+1/18/2026,CUST100555,ORD200555,Amit,amit555@gmail.com,9174100000,Chennai,Face Mask,South,Tamil Nadu,5,Lakme,Accessories,P100555,194332.68,1318.78,52,1527.78,5.01
+1/19/2026,CUST100556,ORD200556,Rohan,rohan556@gmail.com,9176290000,Coimbatore,Conditioner,West,Tamil Nadu,5,The Body Shop,Beauty,P100556,93507.44,36841.46,338,4131.41,16.81
+1/20/2026,CUST100557,ORD200557,Sanya,sanya557@gmail.com,9179380000,Nagpur,Moisturizer,North,Maharashtra,4,L'Oreal,Haircare,P100557,193982.23,23809.78,171,2311.9,18.96
+1/21/2026,CUST100558,ORD200558,Amit,amit558@gmail.com,9176630000,Lucknow,Perfume,South,Uttar Pradesh,5,Nykaa Cosmetics,Accessories,P100558,40120.8,14196.48,436,2557.09,23.28
+1/22/2026,CUST100559,ORD200559,Amit,amit559@gmail.com,9169570000,Bangalore,Deodorant,West,Karnataka,4,Lakme,Fashion,P100559,181023.05,1772.35,67,2652.06,23.33
+1/23/2026,CUST100560,ORD200560,Ananya,ananya560@gmail.com,9185360000,Indore,Deodorant,North,Madhya Pradesh,4,Huda Beauty,Haircare,P100560,3750.62,16598.11,113,2297,12.85
+1/24/2026,CUST100561,ORD200561,Meera,meera561@gmail.com,9193460000,Ahmedabad,Toner,West,Gujarat,4,Nykaa Cosmetics,Fashion,P100561,109515.34,34705.25,300,1354.83,42.51
+1/25/2026,CUST100562,ORD200562,Diya,diya562@gmail.com,9194230000,Bangalore,Conditioner,North,Karnataka,5,Maybelline,Skincare,P100562,85187.43,38795.95,160,689.67,17.78
+1/26/2026,CUST100563,ORD200563,Aarav,aarav563@gmail.com,9191380000,Pune,Serum,West,Maharashtra,4,Nykaa Cosmetics,Haircare,P100563,105492.48,3488.64,266,582.83,11.48
+1/27/2026,CUST100564,ORD200564,Kavya,kavya564@gmail.com,9180350000,Chennai,Shaving Cream,West,Tamil Nadu,5,Nykaa Cosmetics,Accessories,P100564,111135.52,31107.81,320,3811.57,8.79
+1/28/2026,CUST100565,ORD200565,Ishita,ishita565@gmail.com,9195380000,Lucknow,Moisturizer,East,Uttar Pradesh,1,Maybelline,Haircare,P100565,78417.24,10408.47,232,1195.29,16.13
+1/29/2026,CUST100566,ORD200566,Neha,neha566@gmail.com,9172130000,Ahmedabad,Toner,South,Gujarat,1,MAC,Skincare,P100566,199641.37,15239.53,463,372.8,3.38
+1/30/2026,CUST100567,ORD200567,Shreya,shreya567@gmail.com,9197130000,Bangalore,Shaving Cream,South,Karnataka,2,Maybelline,Wellness,P100567,195324.93,21952.14,325,4007.84,1.65
+1/31/2026,CUST100568,ORD200568,Ishita,ishita568@gmail.com,9175770000,Ahmedabad,Shampoo,East,Gujarat,4,The Body Shop,Fashion,P100568,192387.33,39789.68,68,854.9,30.26
+1/2/2026,CUST100569,ORD200569,Meera,meera569@gmail.com,9193410000,Bangalore,Sunscreen,West,Karnataka,4,Nykaa Cosmetics,Skincare,P100569,195837.92,8431.71,28,3163.22,30.96
+2/2/2026,CUST100570,ORD200570,Arjun,arjun570@gmail.com,9184600000,Delhi,Perfume,South,Delhi,5,Minimalist,Wellness,P100570,158809.47,5306.89,437,1759.35,26.48
+3/2/2026,CUST100571,ORD200571,Amit,amit571@gmail.com,9198750000,Chennai,Aftershave,North,Tamil Nadu,4,Maybelline,Haircare,P100571,197729.51,23839.58,116,719.75,38.11
+4/2/2026,CUST100572,ORD200572,Akshay,akshay572@gmail.com,9186110000,Bangalore,Serum,North,Karnataka,5,MAC,Haircare,P100572,178579.68,34136.66,51,2130.96,1.96
+5/2/2026,CUST100573,ORD200573,Kavya,kavya573@gmail.com,9168860000,Indore,Aftershave,West,Madhya Pradesh,4,The Body Shop,Skincare,P100573,83770.59,25963.81,181,172.56,46.8
+6/2/2026,CUST100574,ORD200574,Aarav,aarav574@gmail.com,9194820000,Chandigarh,Conditioner,West,Punjab,3,Minimalist,Accessories,P100574,157170.64,13968.3,260,4221.12,4.75
+7/2/2026,CUST100575,ORD200575,Kavya,kavya575@gmail.com,9161220000,Chennai,Sunscreen,North,Tamil Nadu,5,Minimalist,Haircare,P100575,182501.5,39081.6,79,2616.14,33.7
+8/2/2026,CUST100576,ORD200576,Sneha,sneha576@gmail.com,9194970000,Mumbai,Serum,West,Maharashtra,3,Lakme,Accessories,P100576,142808.61,39801.78,273,781.88,6.67
+9/2/2026,CUST100577,ORD200577,Priya,priya577@gmail.com,9172870000,Indore,Sunscreen,East,Madhya Pradesh,5,Maybelline,Accessories,P100577,85133.69,30848.9,108,1261.2,44
+10/2/2026,CUST100578,ORD200578,Aarav,aarav578@gmail.com,9170380000,Delhi,Moisturizer,South,Delhi,4,Maybelline,Accessories,P100578,14092.26,32116.41,451,2295.08,25.54
+11/2/2026,CUST100579,ORD200579,Sneha,sneha579@gmail.com,9168300000,Nagpur,Lip Balm,North,Maharashtra,4,Nykaa Cosmetics,Beauty,P100579,162129.69,30457.58,74,1025.46,4.11
+12/2/2026,CUST100580,ORD200580,Ishita,ishita580@gmail.com,9176910000,Indore,Soap,East,Madhya Pradesh,5,The Body Shop,Wellness,P100580,190595.83,10380.67,175,1416.14,30.84
+2/13/2026,CUST100581,ORD200581,Amit,amit581@gmail.com,9161030000,Chennai,Hand Sanitizer,North,Tamil Nadu,1,Lakme,Wellness,P100581,73130.19,6095.54,490,2718.49,0.46
+2/14/2026,CUST100582,ORD200582,Vivaan,vivaan582@gmail.com,9183520000,Indore,Deodorant,North,Madhya Pradesh,2,L'Oreal,Haircare,P100582,31229.3,22218.7,184,4179.78,38.8
+2/15/2026,CUST100583,ORD200583,Meera,meera583@gmail.com,9167890000,Indore,Face Cream,West,Madhya Pradesh,5,L'Oreal,Haircare,P100583,65974.26,38170.43,23,2069.01,32.53
+2/16/2026,CUST100584,ORD200584,Diya,diya584@gmail.com,9178130000,Delhi,Hair Oil,South,Delhi,5,Huda Beauty,Accessories,P100584,116941.85,35143.86,274,3613.18,10.63
+2/17/2026,CUST100585,ORD200585,Sneha,sneha585@gmail.com,9186330000,Mumbai,Perfume,East,Maharashtra,4,Maybelline,Beauty,P100585,64068.87,4363.7,129,4395.75,18.74
+2/18/2026,CUST100586,ORD200586,Aarav,aarav586@gmail.com,9167600000,Chandigarh,Shampoo,North,Punjab,4,Maybelline,Accessories,P100586,122513.13,2373.95,291,1159.87,0.39
+2/19/2026,CUST100587,ORD200587,Aditya,aditya587@gmail.com,9192060000,Mumbai,Lip Balm,North,Maharashtra,4,Lakme,Beauty,P100587,193403.59,34963.45,320,4055.24,34.68
+2/20/2026,CUST100588,ORD200588,Amit,amit588@gmail.com,9175680000,Lucknow,Body Wash,West,Uttar Pradesh,1,MAC,Accessories,P100588,134476.16,24559.3,186,3811.27,16.13
+2/21/2026,CUST100589,ORD200589,Rohan,rohan589@gmail.com,9161820000,Patna,Deodorant,East,Bihar,4,L'Oreal,Fashion,P100589,73169.21,12242.41,479,1848.99,28.58
+2/22/2026,CUST100590,ORD200590,Harshita,harshita590@gmail.com,9172300000,Indore,Deodorant,West,Madhya Pradesh,3,Huda Beauty,Fashion,P100590,187214.84,22514.55,59,4948.65,47.84
+2/23/2026,CUST100591,ORD200591,Ananya,ananya591@gmail.com,9186360000,Bangalore,Shaving Cream,West,Karnataka,1,Lakme,Skincare,P100591,113561.42,8944.58,492,1386.6,14.97
+2/24/2026,CUST100592,ORD200592,Sanya,sanya592@gmail.com,9181270000,Chandigarh,Lip Balm,East,Punjab,4,Maybelline,Accessories,P100592,26546.11,37883.38,1,1348.54,49.51
+2/25/2026,CUST100593,ORD200593,Neha,neha593@gmail.com,9184220000,Indore,Face Mask,South,Madhya Pradesh,4,L'Oreal,Haircare,P100593,100297.22,33105.19,131,3884.07,31.64
+2/26/2026,CUST100594,ORD200594,Diya,diya594@gmail.com,9188270000,Coimbatore,Conditioner,West,Tamil Nadu,4,The Body Shop,Wellness,P100594,131073.65,38493.3,67,2229.82,12.1
+2/27/2026,CUST100595,ORD200595,Ananya,ananya595@gmail.com,9175080000,Hyderabad,Hair Oil,North,Telangana,4,Huda Beauty,Skincare,P100595,167812.62,7563.58,293,1720.9,21.84
+2/28/2026,CUST100596,ORD200596,Aarav,aarav596@gmail.com,9181610000,Chandigarh,Conditioner,South,Punjab,5,Nykaa Cosmetics,Haircare,P100596,187358.88,33762.45,467,975.45,37.02
+1/3/2026,CUST100597,ORD200597,Kavya,kavya597@gmail.com,9170030000,Bangalore,Conditioner,North,Karnataka,3,L'Oreal,Fashion,P100597,64165.81,22455.4,285,3850.13,22.32
+2/3/2026,CUST100598,ORD200598,Harshita,harshita598@gmail.com,9180210000,Delhi,Shampoo,South,Delhi,4,Huda Beauty,Accessories,P100598,31946.96,13067.18,89,3952.98,3.43
+3/3/2026,CUST100599,ORD200599,Aditya,aditya599@gmail.com,9179100000,Lucknow,Toothpaste,North,Uttar Pradesh,5,Lakme,Skincare,P100599,15691.9,19238.57,417,2876.16,8.43
+4/3/2026,CUST100600,ORD200600,Aditya,aditya600@gmail.com,9167260000,Jaipur,Serum,West,Rajasthan,5,Nykaa Cosmetics,Accessories,P100600,147932.57,37780.92,100,4790.84,39.56
+5/3/2026,CUST100601,ORD200601,Amit,amit601@gmail.com,9191780000,Mumbai,Toothpaste,West,Maharashtra,2,Huda Beauty,Fashion,P100601,159236.49,27688.97,189,1659,32.42
+6/3/2026,CUST100602,ORD200602,Rahul,rahul602@gmail.com,9185800000,Patna,Face Cream,West,Bihar,3,Huda Beauty,Skincare,P100602,82465.25,14460.63,477,1176.13,28.49
+7/3/2026,CUST100603,ORD200603,Diya,diya603@gmail.com,9197930000,Patna,Shaving Cream,East,Bihar,5,Minimalist,Fashion,P100603,79789.16,39996,378,3419.59,8.38
+8/3/2026,CUST100604,ORD200604,Ananya,ananya604@gmail.com,9174680000,Coimbatore,Body Wash,West,Tamil Nadu,1,Minimalist,Beauty,P100604,190893.17,13895.14,346,3816.2,41.89
+9/3/2026,CUST100605,ORD200605,Meera,meera605@gmail.com,9197890000,Patna,Lip Balm,South,Bihar,4,Minimalist,Fashion,P100605,183419.58,32567.42,388,1202.04,48.04
+10/3/2026,CUST100606,ORD200606,Harshita,harshita606@gmail.com,9169520000,Pune,Hair Oil,West,Maharashtra,1,Maybelline,Accessories,P100606,47419.91,31396.66,241,475.39,2.04
+11/3/2026,CUST100607,ORD200607,Kavya,kavya607@gmail.com,9164570000,Ahmedabad,Soap,East,Gujarat,5,MAC,Wellness,P100607,156380.72,28944.77,270,4071.53,3.9
+12/3/2026,CUST100608,ORD200608,Priya,priya608@gmail.com,9175830000,Pune,Face Wash,North,Maharashtra,5,L'Oreal,Fashion,P100608,124917.38,26810.51,498,4884.86,44.24
+3/13/2026,CUST100609,ORD200609,Priya,priya609@gmail.com,9168290000,Hyderabad,Hair Oil,East,Telangana,3,Maybelline,Haircare,P100609,31690.33,4435.75,219,3258.89,40.78
+3/14/2026,CUST100610,ORD200610,Akshay,akshay610@gmail.com,9182530000,Delhi,Soap,South,Delhi,4,The Body Shop,Wellness,P100610,71997.44,39798.74,417,1461.55,30.9
+3/15/2026,CUST100611,ORD200611,Arjun,arjun611@gmail.com,9163610000,Chandigarh,Shaving Cream,South,Punjab,4,Nykaa Cosmetics,Beauty,P100611,36317.12,6525.61,406,4983.7,47.25
+3/16/2026,CUST100612,ORD200612,Aditya,aditya612@gmail.com,9167090000,Bangalore,Body Lotion,East,Karnataka,4,MAC,Skincare,P100612,59736.05,23885.75,176,4477.01,32.32
+3/17/2026,CUST100613,ORD200613,Vikram,vikram613@gmail.com,9184230000,Ahmedabad,Toothpaste,North,Gujarat,3,Huda Beauty,Skincare,P100613,123444.93,10041,387,2615.57,10.8
+3/18/2026,CUST100614,ORD200614,Priya,priya614@gmail.com,9183790000,Pune,Soap,West,Maharashtra,5,Maybelline,Wellness,P100614,75677.83,6834.22,471,4144.07,36.43
+3/19/2026,CUST100615,ORD200615,Aditya,aditya615@gmail.com,9162790000,Lucknow,Perfume,South,Uttar Pradesh,3,Minimalist,Skincare,P100615,79417.84,22422.67,341,4097.52,32.29
+3/20/2026,CUST100616,ORD200616,Rahul,rahul616@gmail.com,9190270000,Patna,Shaving Cream,West,Bihar,5,MAC,Fashion,P100616,108389.81,33470.13,233,4680.51,49.29
+3/21/2026,CUST100617,ORD200617,Aarav,aarav617@gmail.com,9199170000,Coimbatore,Soap,North,Tamil Nadu,4,The Body Shop,Wellness,P100617,18357.6,15140.13,151,4220.53,10.69
+3/22/2026,CUST100618,ORD200618,Akshay,akshay618@gmail.com,9199120000,Lucknow,Face Wash,South,Uttar Pradesh,4,L'Oreal,Accessories,P100618,148020.66,3179.04,452,3254.03,29.89
+3/23/2026,CUST100619,ORD200619,Rahul,rahul619@gmail.com,9185580000,Ahmedabad,Face Wash,North,Gujarat,5,The Body Shop,Fashion,P100619,80940.2,24987.98,277,3085.59,39.01
+3/24/2026,CUST100620,ORD200620,Arjun,arjun620@gmail.com,9197400000,Lucknow,Lip Balm,North,Uttar Pradesh,5,Nykaa Cosmetics,Fashion,P100620,96599.02,30680.57,229,2390.05,16.95
+3/25/2026,CUST100621,ORD200621,Priya,priya621@gmail.com,9172180000,Mumbai,Shaving Cream,East,Maharashtra,4,Lakme,Fashion,P100621,194885.65,11913.77,171,3169.78,18.98
+3/26/2026,CUST100622,ORD200622,Rohan,rohan622@gmail.com,9175290000,Lucknow,Aftershave,North,Uttar Pradesh,3,Maybelline,Accessories,P100622,69529.01,27654.53,223,3996.56,44.4
+3/27/2026,CUST100623,ORD200623,Vivaan,vivaan623@gmail.com,9176090000,Ahmedabad,Aftershave,South,Gujarat,4,Minimalist,Beauty,P100623,129995.57,3124.03,213,4848.28,20.21
+3/28/2026,CUST100624,ORD200624,Arjun,arjun624@gmail.com,9197840000,Mumbai,Shampoo,East,Maharashtra,4,Nykaa Cosmetics,Haircare,P100624,79108.36,14520.99,282,2389.71,31.24
+3/29/2026,CUST100625,ORD200625,Shreya,shreya625@gmail.com,9192920000,Pune,Moisturizer,South,Maharashtra,5,Lakme,Skincare,P100625,178962.26,19017.84,41,2910.9,44.46
+3/30/2026,CUST100626,ORD200626,Arjun,arjun626@gmail.com,9184820000,Ahmedabad,Moisturizer,East,Gujarat,3,Minimalist,Wellness,P100626,169504.5,31300.35,122,2279.55,10.49
+3/31/2026,CUST100627,ORD200627,Sneha,sneha627@gmail.com,9173620000,Indore,Sunscreen,East,Madhya Pradesh,4,Minimalist,Beauty,P100627,49083.23,13591.85,227,3375.59,49.09
+1/4/2026,CUST100628,ORD200628,Ananya,ananya628@gmail.com,9160110000,Hyderabad,Conditioner,North,Telangana,5,Minimalist,Wellness,P100628,138657.4,18202.62,294,3186.61,35.1
+2/4/2026,CUST100629,ORD200629,Ananya,ananya629@gmail.com,9196690000,Bangalore,Serum,North,Karnataka,5,Maybelline,Skincare,P100629,13969.23,25171.33,88,187.39,24.81
+3/4/2026,CUST100630,ORD200630,Meera,meera630@gmail.com,9186660000,Delhi,Soap,West,Delhi,5,Nykaa Cosmetics,Accessories,P100630,192673.89,25000.79,267,2751.69,21.55
+4/4/2026,CUST100631,ORD200631,Sneha,sneha631@gmail.com,9185570000,Indore,Lip Balm,South,Madhya Pradesh,5,Minimalist,Fashion,P100631,70449.03,20758.63,489,533.59,47.72
+5/4/2026,CUST100632,ORD200632,Priya,priya632@gmail.com,9186310000,Kolkata,Aftershave,South,West Bengal,5,The Body Shop,Fashion,P100632,166536.71,13206.14,29,229.28,10.29
+6/4/2026,CUST100633,ORD200633,Amit,amit633@gmail.com,9176960000,Chennai,Conditioner,West,Tamil Nadu,4,Nykaa Cosmetics,Accessories,P100633,64367.84,26829.99,495,3976.87,15.58
+7/4/2026,CUST100634,ORD200634,Harshita,harshita634@gmail.com,9168400000,Chandigarh,Lip Balm,North,Punjab,2,MAC,Beauty,P100634,126921.38,33502.46,247,1367.38,15.39
+8/4/2026,CUST100635,ORD200635,Harshita,harshita635@gmail.com,9180390000,Lucknow,Aftershave,South,Uttar Pradesh,4,The Body Shop,Beauty,P100635,196734.57,6237.18,316,1769.21,14.45
+9/4/2026,CUST100636,ORD200636,Amit,amit636@gmail.com,9188480000,Chennai,Shaving Cream,South,Tamil Nadu,4,Maybelline,Wellness,P100636,175473.22,13684.43,451,414.01,23.43
+10/4/2026,CUST100637,ORD200637,Sneha,sneha637@gmail.com,9197110000,Chandigarh,Conditioner,North,Punjab,2,Minimalist,Accessories,P100637,32912.82,26783.06,449,979.55,49.46
+11/4/2026,CUST100638,ORD200638,Amit,amit638@gmail.com,9199160000,Lucknow,Face Mask,East,Uttar Pradesh,4,Nykaa Cosmetics,Beauty,P100638,109950.2,30255.44,244,3851.46,44.44
+12/4/2026,CUST100639,ORD200639,Ishita,ishita639@gmail.com,9172540000,Chennai,Face Mask,North,Tamil Nadu,5,Huda Beauty,Accessories,P100639,70357.82,31280.24,61,2518.3,16.4
+4/13/2026,CUST100640,ORD200640,Harshita,harshita640@gmail.com,9164820000,Nagpur,Moisturizer,West,Maharashtra,5,Maybelline,Skincare,P100640,87433.43,26165.55,147,4415.28,21.14
+4/14/2026,CUST100641,ORD200641,Harshita,harshita641@gmail.com,9178510000,Nagpur,Shaving Cream,South,Maharashtra,5,Nykaa Cosmetics,Fashion,P100641,67701.44,19182.98,174,2046.49,33.47
+4/15/2026,CUST100642,ORD200642,Harshita,harshita642@gmail.com,9191820000,Nagpur,Hand Sanitizer,East,Maharashtra,5,MAC,Fashion,P100642,67855.89,25867.4,433,1416.63,0.86
+4/16/2026,CUST100643,ORD200643,Harshita,harshita643@gmail.com,9186780000,Coimbatore,Soap,West,Tamil Nadu,5,Minimalist,Fashion,P100643,108968.1,5488.28,278,1803.24,41.01
+4/17/2026,CUST100644,ORD200644,Sneha,sneha644@gmail.com,9164630000,Indore,Lip Balm,North,Madhya Pradesh,5,Lakme,Accessories,P100644,39200.84,8389.67,334,3592.58,43.99
+4/18/2026,CUST100645,ORD200645,Vivaan,vivaan645@gmail.com,9183800000,Ahmedabad,Face Cream,East,Gujarat,3,Minimalist,Accessories,P100645,107941.69,37108.49,369,2819.53,42.86
+4/19/2026,CUST100646,ORD200646,Harshita,harshita646@gmail.com,9186120000,Lucknow,Serum,South,Uttar Pradesh,2,Lakme,Wellness,P100646,56514.12,36894.62,441,4530.54,18.75
+4/20/2026,CUST100647,ORD200647,Akshay,akshay647@gmail.com,9194130000,Chennai,Body Lotion,East,Tamil Nadu,4,Huda Beauty,Fashion,P100647,58507.6,28982.96,379,3050.63,23.1
+4/21/2026,CUST100648,ORD200648,Ishita,ishita648@gmail.com,9176210000,Chandigarh,Serum,South,Punjab,5,Maybelline,Wellness,P100648,148010.86,13149.18,142,2515.79,0.62
+4/22/2026,CUST100649,ORD200649,Priya,priya649@gmail.com,9189240000,Hyderabad,Soap,North,Telangana,4,MAC,Fashion,P100649,6889.13,25988.72,44,3950.19,19.97
+4/23/2026,CUST100650,ORD200650,Sanya,sanya650@gmail.com,9167270000,Hyderabad,Body Lotion,East,Telangana,4,Nykaa Cosmetics,Wellness,P100650,76808.21,27542.89,144,4742.92,23.02
+4/24/2026,CUST100651,ORD200651,Harshita,harshita651@gmail.com,9187860000,Lucknow,Shampoo,East,Uttar Pradesh,5,Nykaa Cosmetics,Wellness,P100651,82099.34,20653.09,353,1843.64,45.35
+4/25/2026,CUST100652,ORD200652,Neha,neha652@gmail.com,9181890000,Lucknow,Toothpaste,East,Uttar Pradesh,4,Lakme,Skincare,P100652,97536.92,29966.18,333,1324.39,44.7
+4/26/2026,CUST100653,ORD200653,Meera,meera653@gmail.com,9196460000,Ahmedabad,Shampoo,South,Gujarat,4,MAC,Wellness,P100653,134133.19,1284.67,486,3119.47,48.3
+4/27/2026,CUST100654,ORD200654,Arjun,arjun654@gmail.com,9164460000,Jaipur,Shampoo,North,Rajasthan,4,The Body Shop,Accessories,P100654,74567.67,10323.21,497,2544.48,44.26
+4/28/2026,CUST100655,ORD200655,Rahul,rahul655@gmail.com,9184610000,Coimbatore,Shaving Cream,North,Tamil Nadu,2,Huda Beauty,Wellness,P100655,43414.28,31798.57,396,4947.01,0.41
+4/29/2026,CUST100656,ORD200656,Aditya,aditya656@gmail.com,9193090000,Chennai,Soap,South,Tamil Nadu,1,Lakme,Fashion,P100656,177089.7,37554.15,55,2365.57,32.07
+4/30/2026,CUST100657,ORD200657,Aditya,aditya657@gmail.com,9166430000,Coimbatore,Face Mask,East,Tamil Nadu,5,Lakme,Wellness,P100657,196226.69,35055.9,307,464.22,3.41
+1/5/2026,CUST100658,ORD200658,Neha,neha658@gmail.com,9178820000,Ahmedabad,Body Lotion,South,Gujarat,3,Huda Beauty,Beauty,P100658,4982.92,28688.09,358,4889.11,13.63
+2/5/2026,CUST100659,ORD200659,Aarav,aarav659@gmail.com,9164670000,Bangalore,Deodorant,South,Karnataka,1,Maybelline,Haircare,P100659,109746.9,6703.32,423,4233.58,28.92
+3/5/2026,CUST100660,ORD200660,Diya,diya660@gmail.com,9195220000,Coimbatore,Sunscreen,West,Tamil Nadu,2,Nykaa Cosmetics,Fashion,P100660,68998.77,14811.91,417,973.43,35.03
+4/5/2026,CUST100661,ORD200661,Shreya,shreya661@gmail.com,9190270000,Lucknow,Face Mask,North,Uttar Pradesh,5,Maybelline,Beauty,P100661,56120.93,2103.49,161,4532.57,32.73
+5/5/2026,CUST100662,ORD200662,Vikram,vikram662@gmail.com,9187050000,Chandigarh,Soap,South,Punjab,5,MAC,Fashion,P100662,67805.57,25630.49,285,1769.27,2.45
+6/5/2026,CUST100663,ORD200663,Rahul,rahul663@gmail.com,9172920000,Lucknow,Serum,East,Uttar Pradesh,5,The Body Shop,Accessories,P100663,128136.67,18049.54,325,1947.85,5.18
+7/5/2026,CUST100664,ORD200664,Diya,diya664@gmail.com,9177810000,Delhi,Hair Oil,South,Delhi,5,Minimalist,Haircare,P100664,38952.49,22963.17,198,4541.32,6.43
+8/5/2026,CUST100665,ORD200665,Meera,meera665@gmail.com,9179830000,Patna,Serum,South,Bihar,4,L'Oreal,Haircare,P100665,182659.28,39176.18,159,2697.57,4.57
+9/5/2026,CUST100666,ORD200666,Diya,diya666@gmail.com,9181640000,Kolkata,Moisturizer,South,West Bengal,2,L'Oreal,Accessories,P100666,93756.79,16149.87,80,775.04,8.91
+10/5/2026,CUST100667,ORD200667,Rahul,rahul667@gmail.com,9161610000,Ahmedabad,Toner,East,Gujarat,4,L'Oreal,Haircare,P100667,65789.79,12337.74,31,1908.38,34.42
+11/5/2026,CUST100668,ORD200668,Vivaan,vivaan668@gmail.com,9192200000,Ahmedabad,Shaving Cream,West,Gujarat,5,Huda Beauty,Accessories,P100668,153340.73,6109.12,473,3638.28,41.54
+12/5/2026,CUST100669,ORD200669,Meera,meera669@gmail.com,9191740000,Nagpur,Toothpaste,South,Maharashtra,3,Lakme,Beauty,P100669,4252.99,5830.03,112,953.5,20.44
+5/13/2026,CUST100670,ORD200670,Sanya,sanya670@gmail.com,9196070000,Nagpur,Serum,North,Maharashtra,4,The Body Shop,Skincare,P100670,86938.72,20791.09,46,2992.13,34.64
+5/14/2026,CUST100671,ORD200671,Aditya,aditya671@gmail.com,9165230000,Delhi,Toothpaste,South,Delhi,4,Maybelline,Fashion,P100671,71705.42,29994.2,353,3506.84,10
+5/15/2026,CUST100672,ORD200672,Shreya,shreya672@gmail.com,9192760000,Kolkata,Body Wash,West,West Bengal,3,Minimalist,Accessories,P100672,68303.77,22622.05,205,1784.88,48.66
+5/16/2026,CUST100673,ORD200673,Harshita,harshita673@gmail.com,9193530000,Lucknow,Sunscreen,South,Uttar Pradesh,2,Nykaa Cosmetics,Fashion,P100673,68077.2,34944.38,52,3500.02,17.5
+5/17/2026,CUST100674,ORD200674,Rahul,rahul674@gmail.com,9178690000,Coimbatore,Shampoo,North,Tamil Nadu,4,L'Oreal,Beauty,P100674,7223,12703.31,138,4432.62,42.29
+5/18/2026,CUST100675,ORD200675,Neha,neha675@gmail.com,9163850000,Bangalore,Face Wash,West,Karnataka,4,Maybelline,Skincare,P100675,31271.16,23842.36,472,2413.37,47.27
+5/19/2026,CUST100676,ORD200676,Aditya,aditya676@gmail.com,9172570000,Bangalore,Face Wash,North,Karnataka,4,L'Oreal,Beauty,P100676,29235.15,26483.54,74,1976.26,43.24
+5/20/2026,CUST100677,ORD200677,Sneha,sneha677@gmail.com,9172410000,Indore,Toner,North,Madhya Pradesh,5,The Body Shop,Haircare,P100677,197733.49,11299.54,41,1330.68,3.35
+5/21/2026,CUST100678,ORD200678,Aditya,aditya678@gmail.com,9184830000,Coimbatore,Face Cream,North,Tamil Nadu,5,L'Oreal,Fashion,P100678,5410.99,15912.53,479,3060.61,32.52
+5/22/2026,CUST100679,ORD200679,Shreya,shreya679@gmail.com,9190360000,Chennai,Lip Balm,West,Tamil Nadu,4,Nykaa Cosmetics,Skincare,P100679,34247.66,23678.5,77,4411.28,6
+5/23/2026,CUST100680,ORD200680,Sanya,sanya680@gmail.com,9187350000,Chandigarh,Serum,West,Punjab,5,Minimalist,Haircare,P100680,194860.73,935.13,387,1690.84,0.28
+5/24/2026,CUST100681,ORD200681,Sneha,sneha681@gmail.com,9194770000,Hyderabad,Serum,North,Telangana,4,MAC,Skincare,P100681,126023.06,35475.78,187,2041.55,2.59
+5/25/2026,CUST100682,ORD200682,Aditya,aditya682@gmail.com,9178950000,Lucknow,Aftershave,North,Uttar Pradesh,4,MAC,Haircare,P100682,90682.76,4531.46,370,2092.47,45.81
+5/26/2026,CUST100683,ORD200683,Meera,meera683@gmail.com,9166270000,Bangalore,Serum,East,Karnataka,5,The Body Shop,Beauty,P100683,16673.43,1997.56,52,2847.98,45.42
+5/27/2026,CUST100684,ORD200684,Vivaan,vivaan684@gmail.com,9197260000,Kolkata,Face Cream,West,West Bengal,5,MAC,Accessories,P100684,134262.57,8679.91,418,1219.2,11.29
+5/28/2026,CUST100685,ORD200685,Ananya,ananya685@gmail.com,9192940000,Mumbai,Perfume,South,Maharashtra,5,Huda Beauty,Fashion,P100685,28422.79,20142.49,433,4128.83,27.35
+5/29/2026,CUST100686,ORD200686,Kavya,kavya686@gmail.com,9161100000,Ahmedabad,Deodorant,West,Gujarat,3,Lakme,Wellness,P100686,134566.04,13215.03,412,1548.45,47.75
+5/30/2026,CUST100687,ORD200687,Meera,meera687@gmail.com,9188750000,Patna,Hair Oil,East,Bihar,5,Huda Beauty,Wellness,P100687,195856.12,17661.81,467,3556.28,24.84
+5/31/2026,CUST100688,ORD200688,Priya,priya688@gmail.com,9176230000,Jaipur,Face Mask,East,Rajasthan,5,Maybelline,Beauty,P100688,106862.56,3462.42,87,2614.76,19.68
+1/6/2026,CUST100689,ORD200689,Diya,diya689@gmail.com,9182890000,Lucknow,Aftershave,North,Uttar Pradesh,3,Huda Beauty,Fashion,P100689,43602.85,9400.87,109,2970.9,24.16
+2/6/2026,CUST100690,ORD200690,Aditya,aditya690@gmail.com,9178160000,Chennai,Face Wash,West,Tamil Nadu,5,Maybelline,Fashion,P100690,125431.47,3996.67,480,980.08,39.51
+3/6/2026,CUST100691,ORD200691,Vivaan,vivaan691@gmail.com,9163540000,Bangalore,Deodorant,South,Karnataka,4,Maybelline,Beauty,P100691,103073.01,9265.29,397,3701.61,23.86
+4/6/2026,CUST100692,ORD200692,Sneha,sneha692@gmail.com,9181510000,Pune,Aftershave,West,Maharashtra,3,Lakme,Fashion,P100692,107094.91,28162.03,225,1024.24,39.16
+5/6/2026,CUST100693,ORD200693,Amit,amit693@gmail.com,9188470000,Hyderabad,Body Wash,East,Telangana,5,Nykaa Cosmetics,Accessories,P100693,96143.28,23054.1,482,656.02,21.58
+6/6/2026,CUST100694,ORD200694,Vivaan,vivaan694@gmail.com,9197300000,Pune,Body Lotion,South,Maharashtra,4,Minimalist,Beauty,P100694,135074.37,13425.44,481,2778.73,12.6
+7/6/2026,CUST100695,ORD200695,Aarav,aarav695@gmail.com,9169210000,Chandigarh,Perfume,South,Punjab,3,The Body Shop,Accessories,P100695,114817.13,10522.97,248,3575.56,16.32
+8/6/2026,CUST100696,ORD200696,Akshay,akshay696@gmail.com,9192000000,Nagpur,Body Lotion,North,Maharashtra,3,Lakme,Fashion,P100696,197412.02,39901.36,69,345.18,3.89
+9/6/2026,CUST100697,ORD200697,Neha,neha697@gmail.com,9193080000,Lucknow,Face Mask,West,Uttar Pradesh,3,The Body Shop,Beauty,P100697,165346.82,30737.92,120,440.04,24.87
+10/6/2026,CUST100698,ORD200698,Vivaan,vivaan698@gmail.com,9161670000,Pune,Hair Oil,West,Maharashtra,4,MAC,Fashion,P100698,53674.98,32899.56,67,4033.13,7.41
+11/6/2026,CUST100699,ORD200699,Diya,diya699@gmail.com,9195800000,Jaipur,Face Wash,West,Rajasthan,3,MAC,Beauty,P100699,145425.55,1151.95,61,4064.26,40.58
+12/6/2026,CUST100700,ORD200700,Aditya,aditya700@gmail.com,9188470000,Lucknow,Perfume,South,Uttar Pradesh,2,Huda Beauty,Fashion,P100700,43645.77,2477.51,444,1301.99,21.03
+6/13/2026,CUST100701,ORD200701,Aarav,aarav701@gmail.com,9185930000,Coimbatore,Perfume,East,Tamil Nadu,5,Maybelline,Accessories,P100701,156686.94,28533.32,327,3114.62,38.25
+6/14/2026,CUST100702,ORD200702,Arjun,arjun702@gmail.com,9162600000,Indore,Face Mask,East,Madhya Pradesh,3,L'Oreal,Accessories,P100702,30363.97,7754.13,408,2271.58,47.72
+6/15/2026,CUST100703,ORD200703,Shreya,shreya703@gmail.com,9195790000,Nagpur,Lip Balm,North,Maharashtra,3,L'Oreal,Fashion,P100703,95237.21,17083.65,191,3200.21,42.47
+6/16/2026,CUST100704,ORD200704,Sneha,sneha704@gmail.com,9172750000,Indore,Perfume,East,Madhya Pradesh,4,The Body Shop,Beauty,P100704,158330.63,7448.25,470,4328.11,47.57
+6/17/2026,CUST100705,ORD200705,Meera,meera705@gmail.com,9180530000,Chandigarh,Shaving Cream,West,Punjab,3,Maybelline,Wellness,P100705,56742.43,7165.17,493,491.3,28.4
+6/18/2026,CUST100706,ORD200706,Rahul,rahul706@gmail.com,9182860000,Patna,Toner,North,Bihar,2,The Body Shop,Accessories,P100706,167586.71,4452.17,189,3912.12,8.27
+6/19/2026,CUST100707,ORD200707,Akshay,akshay707@gmail.com,9197040000,Hyderabad,Shampoo,East,Telangana,5,Lakme,Accessories,P100707,129185.99,23810.98,151,2515.84,46.77
+6/20/2026,CUST100708,ORD200708,Akshay,akshay708@gmail.com,9165890000,Lucknow,Moisturizer,East,Uttar Pradesh,5,Nykaa Cosmetics,Haircare,P100708,80106.94,29598.12,286,2864.22,43.43
+6/21/2026,CUST100709,ORD200709,Vikram,vikram709@gmail.com,9161240000,Hyderabad,Conditioner,North,Telangana,4,Minimalist,Wellness,P100709,85259.93,2368.1,444,3304.26,43.22
+6/22/2026,CUST100710,ORD200710,Rohan,rohan710@gmail.com,9177190000,Bangalore,Toner,South,Karnataka,5,Lakme,Fashion,P100710,185272.32,11094.52,402,4620.85,34.66
+6/23/2026,CUST100711,ORD200711,Ananya,ananya711@gmail.com,9178770000,Bangalore,Body Lotion,North,Karnataka,3,Maybelline,Beauty,P100711,44340.41,26368.9,96,377.93,31.25
+6/24/2026,CUST100712,ORD200712,Vivaan,vivaan712@gmail.com,9171380000,Hyderabad,Face Wash,South,Telangana,5,Maybelline,Haircare,P100712,138979.16,15753.41,312,244.43,0.74
+6/25/2026,CUST100713,ORD200713,Sanya,sanya713@gmail.com,9173310000,Delhi,Body Wash,West,Delhi,3,Nykaa Cosmetics,Fashion,P100713,141751.55,28216.17,309,973.48,37.4
+6/26/2026,CUST100714,ORD200714,Sneha,sneha714@gmail.com,9168620000,Indore,Lip Balm,South,Madhya Pradesh,5,The Body Shop,Skincare,P100714,184567.49,30393.21,263,4933.59,4.58
+6/27/2026,CUST100715,ORD200715,Rohan,rohan715@gmail.com,9164770000,Delhi,Toner,North,Delhi,3,Huda Beauty,Accessories,P100715,142919.69,1388.53,97,3603.87,12.99
+6/28/2026,CUST100716,ORD200716,Akshay,akshay716@gmail.com,9169860000,Jaipur,Perfume,West,Rajasthan,5,Huda Beauty,Skincare,P100716,117309.02,15296.31,453,3111.74,27.57
+6/29/2026,CUST100717,ORD200717,Ishita,ishita717@gmail.com,9163750000,Lucknow,Conditioner,North,Uttar Pradesh,2,Nykaa Cosmetics,Accessories,P100717,180601.99,29192.64,113,330.49,22.59
+6/30/2026,CUST100718,ORD200718,Sanya,sanya718@gmail.com,9180410000,Coimbatore,Body Lotion,North,Tamil Nadu,5,Huda Beauty,Accessories,P100718,165997.27,15198.8,476,4407.64,0.79
+1/7/2026,CUST100719,ORD200719,Akshay,akshay719@gmail.com,9183550000,Mumbai,Body Lotion,South,Maharashtra,4,L'Oreal,Skincare,P100719,143638.51,332.74,125,4082.51,41.2
+2/7/2026,CUST100720,ORD200720,Sanya,sanya720@gmail.com,9181050000,Hyderabad,Hand Sanitizer,South,Telangana,4,Huda Beauty,Skincare,P100720,7483.1,13518.49,456,3357.52,43.94
+3/7/2026,CUST100721,ORD200721,Harshita,harshita721@gmail.com,9167310000,Delhi,Hair Oil,South,Delhi,2,Huda Beauty,Fashion,P100721,75330.56,34918.84,463,1761.74,34.09
+4/7/2026,CUST100722,ORD200722,Rohan,rohan722@gmail.com,9182360000,Bangalore,Toner,West,Karnataka,4,Huda Beauty,Haircare,P100722,126746.04,38082.36,436,445.47,27.05
+5/7/2026,CUST100723,ORD200723,Ishita,ishita723@gmail.com,9179080000,Ahmedabad,Shaving Cream,South,Gujarat,5,L'Oreal,Haircare,P100723,104927.85,22464.61,132,2942.19,48.04
+6/7/2026,CUST100724,ORD200724,Vivaan,vivaan724@gmail.com,9179140000,Mumbai,Toner,West,Maharashtra,4,The Body Shop,Skincare,P100724,64544.35,12323.77,418,3626.5,6
+7/7/2026,CUST100725,ORD200725,Ananya,ananya725@gmail.com,9191080000,Bangalore,Lip Balm,North,Karnataka,4,Huda Beauty,Fashion,P100725,29740.36,18695.96,453,561.78,36.9
+8/7/2026,CUST100726,ORD200726,Harshita,harshita726@gmail.com,9173250000,Mumbai,Face Wash,North,Maharashtra,5,MAC,Haircare,P100726,111046.32,9524.52,417,3205.46,6.42
+9/7/2026,CUST100727,ORD200727,Amit,amit727@gmail.com,9164940000,Coimbatore,Toner,South,Tamil Nadu,5,L'Oreal,Fashion,P100727,57897.6,6808.22,121,1503.19,19.09
+10/7/2026,CUST100728,ORD200728,Rohan,rohan728@gmail.com,9163700000,Bangalore,Hand Sanitizer,East,Karnataka,5,Nykaa Cosmetics,Fashion,P100728,47367.1,19792.06,197,3844.8,29.27
+11/7/2026,CUST100729,ORD200729,Arjun,arjun729@gmail.com,9169280000,Delhi,Shampoo,North,Delhi,5,Lakme,Accessories,P100729,80392.69,29493.69,294,2744.12,36.85
+12/7/2026,CUST100730,ORD200730,Shreya,shreya730@gmail.com,9199490000,Ahmedabad,Perfume,East,Gujarat,3,Nykaa Cosmetics,Haircare,P100730,157312.8,8976.35,482,732.28,0.19
+7/13/2026,CUST100731,ORD200731,Vivaan,vivaan731@gmail.com,9198850000,Pune,Face Mask,East,Maharashtra,5,Lakme,Haircare,P100731,98082.85,36390.54,122,2679.95,13.03
+7/14/2026,CUST100732,ORD200732,Aarav,aarav732@gmail.com,9173160000,Chennai,Serum,East,Tamil Nadu,3,Minimalist,Accessories,P100732,44081.95,6812.28,282,2039.11,26.91
+7/15/2026,CUST100733,ORD200733,Aarav,aarav733@gmail.com,9192500000,Jaipur,Aftershave,South,Rajasthan,4,Nykaa Cosmetics,Skincare,P100733,24263.73,22380.62,385,983.74,26.64
+7/16/2026,CUST100734,ORD200734,Sneha,sneha734@gmail.com,9197710000,Patna,Body Wash,West,Bihar,5,MAC,Accessories,P100734,100298.47,31077.69,260,4223.43,31.88
+7/17/2026,CUST100735,ORD200735,Vivaan,vivaan735@gmail.com,9177920000,Hyderabad,Lip Balm,North,Telangana,4,Lakme,Haircare,P100735,159078.91,8614.2,39,154.04,15.19
+7/18/2026,CUST100736,ORD200736,Arjun,arjun736@gmail.com,9192220000,Coimbatore,Shaving Cream,East,Tamil Nadu,4,Lakme,Haircare,P100736,130910.79,11928.13,54,1629.43,27.03
+7/19/2026,CUST100737,ORD200737,Harshita,harshita737@gmail.com,9197840000,Chandigarh,Deodorant,West,Punjab,5,Maybelline,Skincare,P100737,47197.63,2154.22,474,161.72,9.49
+7/20/2026,CUST100738,ORD200738,Akshay,akshay738@gmail.com,9194170000,Jaipur,Lip Balm,South,Rajasthan,5,Lakme,Accessories,P100738,87904.61,37763.54,161,570.43,9.34
+7/21/2026,CUST100739,ORD200739,Sneha,sneha739@gmail.com,9165030000,Patna,Aftershave,North,Bihar,5,Lakme,Beauty,P100739,171190.84,19530.19,289,1555.77,28.83
+7/22/2026,CUST100740,ORD200740,Akshay,akshay740@gmail.com,9170660000,Lucknow,Serum,West,Uttar Pradesh,3,Maybelline,Beauty,P100740,36353.53,2665.82,200,365.93,34.27
+7/23/2026,CUST100741,ORD200741,Diya,diya741@gmail.com,9189680000,Nagpur,Hair Oil,South,Maharashtra,4,Huda Beauty,Skincare,P100741,106884.03,33222.06,276,3023.49,6.02
+7/24/2026,CUST100742,ORD200742,Aarav,aarav742@gmail.com,9173360000,Bangalore,Serum,North,Karnataka,5,Huda Beauty,Accessories,P100742,71890.07,22816.83,16,525.63,6.14
+7/25/2026,CUST100743,ORD200743,Ananya,ananya743@gmail.com,9183230000,Patna,Face Mask,North,Bihar,2,Maybelline,Accessories,P100743,25711.77,2305.86,405,3538.4,28.27
+7/26/2026,CUST100744,ORD200744,Priya,priya744@gmail.com,9191100000,Coimbatore,Face Cream,South,Tamil Nadu,5,L'Oreal,Fashion,P100744,10930.88,18090.77,173,357.95,13.5
+7/27/2026,CUST100745,ORD200745,Vivaan,vivaan745@gmail.com,9199370000,Indore,Face Mask,East,Madhya Pradesh,5,Minimalist,Haircare,P100745,111618.41,17432.68,248,390.61,19.62
+7/28/2026,CUST100746,ORD200746,Sanya,sanya746@gmail.com,9188040000,Mumbai,Face Mask,North,Maharashtra,5,Lakme,Wellness,P100746,5129.03,5928.66,383,1596.1,20.04
+7/29/2026,CUST100747,ORD200747,Meera,meera747@gmail.com,9190350000,Indore,Lip Balm,North,Madhya Pradesh,3,Lakme,Skincare,P100747,21585.78,16872.88,218,4493.2,8.93
+7/30/2026,CUST100748,ORD200748,Kavya,kavya748@gmail.com,9188880000,Coimbatore,Sunscreen,East,Tamil Nadu,5,Maybelline,Wellness,P100748,70165.29,11384,87,3242.83,0.07
+7/31/2026,CUST100749,ORD200749,Priya,priya749@gmail.com,9190030000,Nagpur,Body Lotion,West,Maharashtra,4,Maybelline,Wellness,P100749,9660.52,28027.68,82,3873.64,42.66
+1/8/2026,CUST100750,ORD200750,Shreya,shreya750@gmail.com,9193250000,Chandigarh,Hair Oil,North,Punjab,5,L'Oreal,Skincare,P100750,80688.6,319.13,62,793.61,35.75
+2/8/2026,CUST100751,ORD200751,Priya,priya751@gmail.com,9169960000,Lucknow,Conditioner,West,Uttar Pradesh,2,MAC,Accessories,P100751,26942.64,4344.4,287,4187.21,34.53
+3/8/2026,CUST100752,ORD200752,Shreya,shreya752@gmail.com,9196900000,Mumbai,Conditioner,East,Maharashtra,5,Huda Beauty,Skincare,P100752,70624.75,36754.09,42,139.92,27.33
+4/8/2026,CUST100753,ORD200753,Ananya,ananya753@gmail.com,9168270000,Hyderabad,Conditioner,North,Telangana,5,Nykaa Cosmetics,Wellness,P100753,158440.78,17390,12,1143.98,35.05
+5/8/2026,CUST100754,ORD200754,Sanya,sanya754@gmail.com,9193030000,Jaipur,Hair Oil,East,Rajasthan,4,MAC,Haircare,P100754,125646.5,7129.66,321,3118.85,46.78
+6/8/2026,CUST100755,ORD200755,Vivaan,vivaan755@gmail.com,9182490000,Jaipur,Toothpaste,North,Rajasthan,3,The Body Shop,Haircare,P100755,89634.81,31749.73,234,1938.71,33.28
+7/8/2026,CUST100756,ORD200756,Meera,meera756@gmail.com,9162750000,Bangalore,Hair Oil,North,Karnataka,5,Huda Beauty,Haircare,P100756,19274.83,34078.54,329,4922.55,13.25
+8/8/2026,CUST100757,ORD200757,Meera,meera757@gmail.com,9182510000,Kolkata,Conditioner,North,West Bengal,4,Lakme,Accessories,P100757,124210.78,8527.44,131,248.66,28.53
+9/8/2026,CUST100758,ORD200758,Shreya,shreya758@gmail.com,9199110000,Chandigarh,Toothpaste,East,Punjab,1,The Body Shop,Beauty,P100758,33578.22,28572.64,115,4993.13,22.12
+10/8/2026,CUST100759,ORD200759,Diya,diya759@gmail.com,9189740000,Nagpur,Body Lotion,North,Maharashtra,3,MAC,Skincare,P100759,16240.68,24643.91,218,3155.78,27.82
+11/8/2026,CUST100760,ORD200760,Rohan,rohan760@gmail.com,9190640000,Pune,Hair Oil,West,Maharashtra,5,Maybelline,Haircare,P100760,133135.21,29827.76,137,2837.66,25.88
+12/8/2026,CUST100761,ORD200761,Vivaan,vivaan761@gmail.com,9184790000,Ahmedabad,Face Wash,South,Gujarat,4,L'Oreal,Skincare,P100761,182499.92,31537.15,106,391.61,42.94
+8/13/2026,CUST100762,ORD200762,Vikram,vikram762@gmail.com,9167510000,Coimbatore,Hair Oil,South,Tamil Nadu,4,Huda Beauty,Haircare,P100762,92658.09,26471.34,179,1439.31,32.59
+8/14/2026,CUST100763,ORD200763,Arjun,arjun763@gmail.com,9179920000,Coimbatore,Moisturizer,South,Tamil Nadu,3,L'Oreal,Accessories,P100763,9158.19,38253.06,16,4630.85,9.44
+8/15/2026,CUST100764,ORD200764,Aarav,aarav764@gmail.com,9185530000,Jaipur,Face Cream,West,Rajasthan,4,The Body Shop,Beauty,P100764,176179.25,34582.63,472,1835.81,3.15
+8/16/2026,CUST100765,ORD200765,Sanya,sanya765@gmail.com,9166950000,Mumbai,Serum,North,Maharashtra,3,Huda Beauty,Beauty,P100765,14327.78,9235.96,242,3342.1,21.22
+8/17/2026,CUST100766,ORD200766,Sanya,sanya766@gmail.com,9186690000,Coimbatore,Deodorant,East,Tamil Nadu,1,Minimalist,Haircare,P100766,173635.14,36551.28,334,4997.53,0.78
+8/18/2026,CUST100767,ORD200767,Sneha,sneha767@gmail.com,9163280000,Patna,Shaving Cream,East,Bihar,4,Minimalist,Accessories,P100767,78972.06,14447.93,381,1389.04,15.91
+8/19/2026,CUST100768,ORD200768,Sanya,sanya768@gmail.com,9195080000,Chandigarh,Perfume,North,Punjab,4,MAC,Fashion,P100768,73713.51,29089.02,387,2922.8,18.4
+8/20/2026,CUST100769,ORD200769,Arjun,arjun769@gmail.com,9179150000,Mumbai,Toner,West,Maharashtra,1,Lakme,Skincare,P100769,109016.68,33935.61,226,3512.55,18.78
+8/21/2026,CUST100770,ORD200770,Kavya,kavya770@gmail.com,9183840000,Mumbai,Deodorant,South,Maharashtra,3,Minimalist,Skincare,P100770,191459.88,17511.18,481,906.67,48.97
+8/22/2026,CUST100771,ORD200771,Meera,meera771@gmail.com,9184810000,Chennai,Face Cream,West,Tamil Nadu,5,Minimalist,Wellness,P100771,179849.37,2155.19,242,828.5,15.2
+8/23/2026,CUST100772,ORD200772,Sanya,sanya772@gmail.com,9162600000,Indore,Serum,West,Madhya Pradesh,5,Nykaa Cosmetics,Accessories,P100772,94595.69,37991.49,408,2335.91,13.26
+8/24/2026,CUST100773,ORD200773,Meera,meera773@gmail.com,9167960000,Kolkata,Toothpaste,East,West Bengal,4,L'Oreal,Wellness,P100773,139468.82,2991.95,457,1990.48,6.47
+8/25/2026,CUST100774,ORD200774,Ananya,ananya774@gmail.com,9195430000,Coimbatore,Hand Sanitizer,North,Tamil Nadu,5,L'Oreal,Haircare,P100774,116505.42,13989.57,141,3599.66,25.55
+8/26/2026,CUST100775,ORD200775,Diya,diya775@gmail.com,9196320000,Kolkata,Body Lotion,East,West Bengal,5,Minimalist,Wellness,P100775,138998.85,23898.25,386,440.59,7.68
+8/27/2026,CUST100776,ORD200776,Sanya,sanya776@gmail.com,9160570000,Chandigarh,Aftershave,South,Punjab,4,Nykaa Cosmetics,Beauty,P100776,166036.16,4789.71,199,4863.62,30.81
+8/28/2026,CUST100777,ORD200777,Rahul,rahul777@gmail.com,9171980000,Mumbai,Hair Oil,South,Maharashtra,4,L'Oreal,Skincare,P100777,7864.27,33544.43,112,169.96,7.76
+8/29/2026,CUST100778,ORD200778,Harshita,harshita778@gmail.com,9175300000,Ahmedabad,Moisturizer,East,Gujarat,4,L'Oreal,Wellness,P100778,65826.21,8216.54,127,3046.45,28.83
+8/30/2026,CUST100779,ORD200779,Kavya,kavya779@gmail.com,9187980000,Jaipur,Perfume,North,Rajasthan,1,Huda Beauty,Beauty,P100779,191906.49,39441.55,21,2856.9,41.31
+8/31/2026,CUST100780,ORD200780,Neha,neha780@gmail.com,9166250000,Pune,Face Cream,North,Maharashtra,4,Huda Beauty,Accessories,P100780,189917.93,36665.69,147,760.11,2.13
+1/9/2026,CUST100781,ORD200781,Sanya,sanya781@gmail.com,9161440000,Mumbai,Soap,West,Maharashtra,3,Nykaa Cosmetics,Wellness,P100781,3232.96,24221.79,89,839.49,20.99
+2/9/2026,CUST100782,ORD200782,Amit,amit782@gmail.com,9170820000,Bangalore,Face Cream,West,Karnataka,2,The Body Shop,Haircare,P100782,41086.59,26434.4,303,3984.12,23.05
+3/9/2026,CUST100783,ORD200783,Harshita,harshita783@gmail.com,9171590000,Ahmedabad,Soap,East,Gujarat,4,Lakme,Haircare,P100783,198760.24,21390.9,406,4449.06,39.55
+4/9/2026,CUST100784,ORD200784,Vivaan,vivaan784@gmail.com,9174550000,Hyderabad,Lip Balm,South,Telangana,2,MAC,Haircare,P100784,99072.19,15705.05,203,1486.78,23.4
+5/9/2026,CUST100785,ORD200785,Rahul,rahul785@gmail.com,9168440000,Coimbatore,Body Wash,North,Tamil Nadu,4,Minimalist,Skincare,P100785,115000.33,14133.15,417,2246.02,28.38
+6/9/2026,CUST100786,ORD200786,Vivaan,vivaan786@gmail.com,9185550000,Lucknow,Hair Oil,East,Uttar Pradesh,5,Minimalist,Wellness,P100786,34117.62,35677.03,416,1839.48,39.56
+7/9/2026,CUST100787,ORD200787,Rahul,rahul787@gmail.com,9163460000,Delhi,Toothpaste,East,Delhi,4,MAC,Accessories,P100787,178972.79,23107.13,448,455.48,27.99
+8/9/2026,CUST100788,ORD200788,Diya,diya788@gmail.com,9189110000,Kolkata,Toothpaste,South,West Bengal,4,Minimalist,Wellness,P100788,47021.6,32949.42,85,3398.7,17.91
+9/9/2026,CUST100789,ORD200789,Kavya,kavya789@gmail.com,9196710000,Mumbai,Body Wash,West,Maharashtra,4,Minimalist,Skincare,P100789,38739.88,20611.43,167,4143.45,4.29
+10/9/2026,CUST100790,ORD200790,Sanya,sanya790@gmail.com,9177980000,Chennai,Moisturizer,South,Tamil Nadu,4,The Body Shop,Beauty,P100790,46396.36,12350.29,384,1593.91,36.5
+11/9/2026,CUST100791,ORD200791,Rohan,rohan791@gmail.com,9186320000,Chandigarh,Serum,West,Punjab,3,L'Oreal,Skincare,P100791,184004.72,3761.2,468,4951.86,43.56
+12/9/2026,CUST100792,ORD200792,Ishita,ishita792@gmail.com,9183140000,Patna,Soap,West,Bihar,5,Lakme,Haircare,P100792,140866.49,13015.5,72,471.67,48.5
+9/13/2026,CUST100793,ORD200793,Priya,priya793@gmail.com,9188680000,Nagpur,Body Lotion,North,Maharashtra,3,Minimalist,Beauty,P100793,153950.68,35216.69,298,3342.77,46.33
+9/14/2026,CUST100794,ORD200794,Kavya,kavya794@gmail.com,9163950000,Delhi,Face Wash,North,Delhi,4,Nykaa Cosmetics,Haircare,P100794,76030.24,28507.25,485,2296.32,39.87
+9/15/2026,CUST100795,ORD200795,Aarav,aarav795@gmail.com,9165690000,Mumbai,Perfume,West,Maharashtra,2,The Body Shop,Fashion,P100795,181926.23,31454.61,9,2288.35,32.17
+9/16/2026,CUST100796,ORD200796,Ishita,ishita796@gmail.com,9177970000,Hyderabad,Deodorant,West,Telangana,5,Minimalist,Skincare,P100796,158092.18,30960.03,281,2342.46,39.07
+9/17/2026,CUST100797,ORD200797,Harshita,harshita797@gmail.com,9174530000,Patna,Face Mask,North,Bihar,4,Nykaa Cosmetics,Skincare,P100797,150368.88,4886.9,473,1367.54,21.6
+9/18/2026,CUST100798,ORD200798,Akshay,akshay798@gmail.com,9180810000,Coimbatore,Face Cream,West,Tamil Nadu,5,Huda Beauty,Accessories,P100798,194217.12,6438.54,481,3606.26,29.74
+9/19/2026,CUST100799,ORD200799,Arjun,arjun799@gmail.com,9180530000,Jaipur,Hair Oil,West,Rajasthan,2,L'Oreal,Wellness,P100799,73873.17,12757.85,258,3635.72,17.43
+9/20/2026,CUST100800,ORD200800,Arjun,arjun800@gmail.com,9197100000,Ahmedabad,Face Mask,West,Gujarat,3,Maybelline,Beauty,P100800,122583.76,12111.05,275,1483.75,16.34
+9/21/2026,CUST100801,ORD200801,Akshay,akshay801@gmail.com,9174750000,Jaipur,Shaving Cream,South,Rajasthan,5,Minimalist,Beauty,P100801,182076.01,2736.63,238,4193,37.83
+9/22/2026,CUST100802,ORD200802,Aditya,aditya802@gmail.com,9187160000,Indore,Perfume,East,Madhya Pradesh,4,Nykaa Cosmetics,Accessories,P100802,158386.9,6223.51,20,1652.54,22.7
+9/23/2026,CUST100803,ORD200803,Sneha,sneha803@gmail.com,9166750000,Coimbatore,Face Wash,West,Tamil Nadu,1,The Body Shop,Accessories,P100803,113112.41,34263.59,490,3652.96,10.61
+9/24/2026,CUST100804,ORD200804,Sneha,sneha804@gmail.com,9177110000,Nagpur,Hair Oil,North,Maharashtra,4,L'Oreal,Wellness,P100804,16166.52,23602.89,233,692.9,10.1
+9/25/2026,CUST100805,ORD200805,Rahul,rahul805@gmail.com,9170020000,Ahmedabad,Lip Balm,West,Gujarat,3,Lakme,Haircare,P100805,130891.96,13757.09,490,926.64,42.96
+9/26/2026,CUST100806,ORD200806,Aditya,aditya806@gmail.com,9168080000,Patna,Hair Oil,West,Bihar,5,The Body Shop,Wellness,P100806,105784.56,21106.47,221,1647.4,33.89
+9/27/2026,CUST100807,ORD200807,Rahul,rahul807@gmail.com,9182810000,Bangalore,Deodorant,North,Karnataka,3,Huda Beauty,Skincare,P100807,37651.91,10526.4,326,3009.98,27.3
+9/28/2026,CUST100808,ORD200808,Amit,amit808@gmail.com,9167660000,Indore,Hair Oil,North,Madhya Pradesh,5,MAC,Haircare,P100808,176568.37,23395.31,17,3263.01,20.05
+9/29/2026,CUST100809,ORD200809,Ananya,ananya809@gmail.com,9195860000,Delhi,Aftershave,West,Delhi,4,Minimalist,Fashion,P100809,69306.47,3077.77,380,2042.15,21.54
+9/30/2026,CUST100810,ORD200810,Kavya,kavya810@gmail.com,9185400000,Chennai,Moisturizer,East,Tamil Nadu,3,Lakme,Wellness,P100810,78108.5,36115.76,89,481.41,2.87
+1/10/2026,CUST100811,ORD200811,Vivaan,vivaan811@gmail.com,9169250000,Kolkata,Aftershave,North,West Bengal,5,Nykaa Cosmetics,Accessories,P100811,134807.91,9693.82,486,1930.81,22.75
+2/10/2026,CUST100812,ORD200812,Shreya,shreya812@gmail.com,9177150000,Pune,Conditioner,North,Maharashtra,4,Minimalist,Haircare,P100812,98270.95,32781.11,196,3474.96,39.77
+3/10/2026,CUST100813,ORD200813,Akshay,akshay813@gmail.com,9190540000,Mumbai,Moisturizer,South,Maharashtra,4,Nykaa Cosmetics,Wellness,P100813,18766.93,26433.95,350,3387.88,19.4
+4/10/2026,CUST100814,ORD200814,Akshay,akshay814@gmail.com,9181690000,Mumbai,Sunscreen,West,Maharashtra,5,Lakme,Beauty,P100814,78100.88,20967.98,84,884.96,19.18
+5/10/2026,CUST100815,ORD200815,Akshay,akshay815@gmail.com,9199140000,Chandigarh,Face Cream,South,Punjab,4,Nykaa Cosmetics,Fashion,P100815,19798.76,37198.88,387,138.14,0.79
+6/10/2026,CUST100816,ORD200816,Sanya,sanya816@gmail.com,9189150000,Mumbai,Toner,South,Maharashtra,5,The Body Shop,Skincare,P100816,38959.33,6356.85,87,3789.61,22.89
+7/10/2026,CUST100817,ORD200817,Amit,amit817@gmail.com,9198340000,Coimbatore,Hand Sanitizer,East,Tamil Nadu,5,L'Oreal,Beauty,P100817,2427.71,4859.17,307,621.2,1.27
+8/10/2026,CUST100818,ORD200818,Kavya,kavya818@gmail.com,9195490000,Indore,Face Cream,West,Madhya Pradesh,5,Nykaa Cosmetics,Beauty,P100818,37081.3,12942.22,338,503.51,28.52
+9/10/2026,CUST100819,ORD200819,Sanya,sanya819@gmail.com,9166330000,Nagpur,Toothpaste,West,Maharashtra,2,Huda Beauty,Fashion,P100819,66759.02,33225.83,154,113.24,25.34
+10/10/2026,CUST100820,ORD200820,Sanya,sanya820@gmail.com,9162430000,Ahmedabad,Lip Balm,South,Gujarat,4,L'Oreal,Skincare,P100820,108105.47,1504.54,440,2219.75,42
+11/10/2026,CUST100821,ORD200821,Harshita,harshita821@gmail.com,9171300000,Mumbai,Body Lotion,North,Maharashtra,5,The Body Shop,Accessories,P100821,183936.17,9652.29,228,2565.99,29.09
+12/10/2026,CUST100822,ORD200822,Priya,priya822@gmail.com,9165620000,Lucknow,Hair Oil,North,Uttar Pradesh,5,Minimalist,Haircare,P100822,108525.05,17045.62,448,3224.55,16.17
+10/13/2026,CUST100823,ORD200823,Ananya,ananya823@gmail.com,9182300000,Patna,Deodorant,West,Bihar,4,Maybelline,Skincare,P100823,141415.1,28546.35,264,1550.71,25.81
+10/14/2026,CUST100824,ORD200824,Sneha,sneha824@gmail.com,9188710000,Delhi,Aftershave,East,Delhi,4,Minimalist,Wellness,P100824,72177.74,12042.59,465,3581.08,34.99
+10/15/2026,CUST100825,ORD200825,Aarav,aarav825@gmail.com,9186580000,Hyderabad,Toothpaste,East,Telangana,1,Nykaa Cosmetics,Beauty,P100825,150574.53,17979.69,223,929.73,4.7
+10/16/2026,CUST100826,ORD200826,Shreya,shreya826@gmail.com,9191190000,Chennai,Conditioner,West,Tamil Nadu,2,Nykaa Cosmetics,Wellness,P100826,124473.28,13540.33,421,4176.75,31.05
+10/17/2026,CUST100827,ORD200827,Shreya,shreya827@gmail.com,9195390000,Bangalore,Face Wash,North,Karnataka,3,Huda Beauty,Accessories,P100827,92499.01,3773.2,493,2902.06,45.83
+10/18/2026,CUST100828,ORD200828,Ananya,ananya828@gmail.com,9195570000,Chennai,Face Wash,East,Tamil Nadu,5,The Body Shop,Wellness,P100828,39559.99,29573.17,121,2961.06,14.96
+10/19/2026,CUST100829,ORD200829,Rahul,rahul829@gmail.com,9165280000,Nagpur,Sunscreen,West,Maharashtra,5,Huda Beauty,Skincare,P100829,61404.64,18509.04,481,1127.9,31.33
+10/20/2026,CUST100830,ORD200830,Ananya,ananya830@gmail.com,9164670000,Hyderabad,Face Wash,West,Telangana,2,MAC,Wellness,P100830,124568.27,32519.23,411,463.13,41.07
+10/21/2026,CUST100831,ORD200831,Amit,amit831@gmail.com,9165150000,Chennai,Aftershave,North,Tamil Nadu,5,The Body Shop,Accessories,P100831,85785.21,27818.25,173,2377.15,25.59
+10/22/2026,CUST100832,ORD200832,Kavya,kavya832@gmail.com,9183290000,Jaipur,Hand Sanitizer,South,Rajasthan,4,Lakme,Accessories,P100832,177987.92,2406.83,4,3116.5,35.9
+10/23/2026,CUST100833,ORD200833,Sanya,sanya833@gmail.com,9194560000,Pune,Hair Oil,North,Maharashtra,3,Lakme,Accessories,P100833,47733.21,20053.03,342,565.73,15.55
+10/24/2026,CUST100834,ORD200834,Aditya,aditya834@gmail.com,9199960000,Ahmedabad,Lip Balm,East,Gujarat,4,Lakme,Skincare,P100834,15541.46,39635.14,128,4757.62,15.3
+10/25/2026,CUST100835,ORD200835,Arjun,arjun835@gmail.com,9183580000,Chandigarh,Toner,South,Punjab,5,Huda Beauty,Accessories,P100835,118280.37,12384.02,474,4904.03,33.38
+10/26/2026,CUST100836,ORD200836,Diya,diya836@gmail.com,9175380000,Jaipur,Face Cream,North,Rajasthan,5,Lakme,Beauty,P100836,177324.12,19769.03,480,2772.74,35.27
+10/27/2026,CUST100837,ORD200837,Priya,priya837@gmail.com,9180900000,Chennai,Hair Oil,East,Tamil Nadu,4,The Body Shop,Accessories,P100837,73583.07,26116.09,472,4755.34,46.85
+10/28/2026,CUST100838,ORD200838,Kavya,kavya838@gmail.com,9188440000,Lucknow,Moisturizer,East,Uttar Pradesh,5,Lakme,Wellness,P100838,129894.56,8170.4,110,979.28,11.24
+10/29/2026,CUST100839,ORD200839,Diya,diya839@gmail.com,9179540000,Patna,Lip Balm,South,Bihar,5,Maybelline,Haircare,P100839,47051.11,28130.04,355,224.56,23.41
+10/30/2026,CUST100840,ORD200840,Kavya,kavya840@gmail.com,9178590000,Nagpur,Toner,North,Maharashtra,5,Lakme,Wellness,P100840,112135.91,26425.09,37,293.11,12.53
+10/31/2026,CUST100841,ORD200841,Sneha,sneha841@gmail.com,9195430000,Chennai,Hair Oil,North,Tamil Nadu,4,Nykaa Cosmetics,Haircare,P100841,157571.63,15060.92,480,2978.81,4
+1/11/2026,CUST100842,ORD200842,Kavya,kavya842@gmail.com,9175930000,Indore,Perfume,East,Madhya Pradesh,5,MAC,Wellness,P100842,173539.29,11449.13,71,402.05,20.16
+2/11/2026,CUST100843,ORD200843,Harshita,harshita843@gmail.com,9172510000,Mumbai,Hair Oil,West,Maharashtra,3,Huda Beauty,Skincare,P100843,21918.71,36772.2,289,4796.87,18.7
+3/11/2026,CUST100844,ORD200844,Rahul,rahul844@gmail.com,9178710000,Chandigarh,Perfume,West,Punjab,3,L'Oreal,Wellness,P100844,71918.53,5168.24,31,795.47,13.52
+4/11/2026,CUST100845,ORD200845,Aarav,aarav845@gmail.com,9168240000,Jaipur,Deodorant,South,Rajasthan,4,MAC,Skincare,P100845,128289.24,17338.03,439,1593.14,14.85
+5/11/2026,CUST100846,ORD200846,Rohan,rohan846@gmail.com,9185610000,Indore,Face Wash,North,Madhya Pradesh,3,Maybelline,Skincare,P100846,7909.85,30702.65,381,4130.34,18.02
+6/11/2026,CUST100847,ORD200847,Shreya,shreya847@gmail.com,9174500000,Coimbatore,Face Wash,West,Tamil Nadu,4,Huda Beauty,Accessories,P100847,138432.42,6010.67,268,1171.83,49.44
+7/11/2026,CUST100848,ORD200848,Kavya,kavya848@gmail.com,9190850000,Coimbatore,Face Mask,South,Tamil Nadu,3,The Body Shop,Beauty,P100848,106078.74,37323.81,11,1290.55,39.15
+8/11/2026,CUST100849,ORD200849,Shreya,shreya849@gmail.com,9176990000,Bangalore,Hand Sanitizer,East,Karnataka,4,Minimalist,Haircare,P100849,58424.69,21097.47,344,3247.31,3.57
+9/11/2026,CUST100850,ORD200850,Priya,priya850@gmail.com,9186600000,Mumbai,Moisturizer,West,Maharashtra,3,Huda Beauty,Accessories,P100850,163116.24,20242.14,328,1452.82,43.62
+10/11/2026,CUST100851,ORD200851,Vikram,vikram851@gmail.com,9162340000,Chennai,Lip Balm,North,Tamil Nadu,3,Nykaa Cosmetics,Accessories,P100851,58720.09,17028.67,32,1165.49,31.67
+11/11/2026,CUST100852,ORD200852,Akshay,akshay852@gmail.com,9189260000,Coimbatore,Sunscreen,East,Tamil Nadu,2,The Body Shop,Skincare,P100852,198291.59,34711.26,57,1345.47,44.53
+12/11/2026,CUST100853,ORD200853,Ishita,ishita853@gmail.com,9178920000,Lucknow,Moisturizer,North,Uttar Pradesh,5,MAC,Skincare,P100853,163457.67,37942.81,166,2504.17,17.09
+11/13/2026,CUST100854,ORD200854,Harshita,harshita854@gmail.com,9163400000,Jaipur,Face Cream,East,Rajasthan,3,MAC,Haircare,P100854,141888.12,15264.71,188,4833.89,23.23
+11/14/2026,CUST100855,ORD200855,Amit,amit855@gmail.com,9168870000,Kolkata,Face Mask,North,West Bengal,5,Lakme,Wellness,P100855,13208.16,21741.51,342,4177.97,44.81
+11/15/2026,CUST100856,ORD200856,Aditya,aditya856@gmail.com,9191120000,Bangalore,Sunscreen,South,Karnataka,3,The Body Shop,Wellness,P100856,180957.76,12685.38,482,1494.59,13.63
+11/16/2026,CUST100857,ORD200857,Rohan,rohan857@gmail.com,9193990000,Coimbatore,Face Wash,North,Tamil Nadu,2,Minimalist,Accessories,P100857,158221.01,14783.87,19,1880.53,45.78
+11/17/2026,CUST100858,ORD200858,Ananya,ananya858@gmail.com,9167590000,Kolkata,Deodorant,North,West Bengal,1,Nykaa Cosmetics,Fashion,P100858,46575.99,1230.51,116,2376.11,41.42
+11/18/2026,CUST100859,ORD200859,Rahul,rahul859@gmail.com,9187770000,Nagpur,Sunscreen,East,Maharashtra,4,Lakme,Fashion,P100859,79057.39,31458.83,468,4896.76,49.03
+11/19/2026,CUST100860,ORD200860,Aarav,aarav860@gmail.com,9189890000,Jaipur,Body Wash,North,Rajasthan,5,Lakme,Wellness,P100860,54457.68,38776.39,184,944.71,16.21
+11/20/2026,CUST100861,ORD200861,Amit,amit861@gmail.com,9166120000,Hyderabad,Hand Sanitizer,North,Telangana,5,Minimalist,Fashion,P100861,196898.79,30804.11,270,1851.67,11.79
+11/21/2026,CUST100862,ORD200862,Akshay,akshay862@gmail.com,9185200000,Indore,Face Cream,North,Madhya Pradesh,4,Huda Beauty,Wellness,P100862,170985.09,20776.64,33,3674.19,16.54
+11/22/2026,CUST100863,ORD200863,Rahul,rahul863@gmail.com,9174660000,Patna,Deodorant,East,Bihar,1,MAC,Skincare,P100863,186114.84,33117.65,10,4823.32,47.73
+11/23/2026,CUST100864,ORD200864,Neha,neha864@gmail.com,9173710000,Nagpur,Face Cream,West,Maharashtra,4,Lakme,Accessories,P100864,157966.07,34329.37,80,862.81,16.65
+11/24/2026,CUST100865,ORD200865,Akshay,akshay865@gmail.com,9180690000,Lucknow,Perfume,West,Uttar Pradesh,4,Maybelline,Beauty,P100865,91813.3,21826.45,192,1214.16,28.26
+11/25/2026,CUST100866,ORD200866,Vivaan,vivaan866@gmail.com,9193890000,Nagpur,Toner,West,Maharashtra,4,Maybelline,Accessories,P100866,41881.42,37492.58,320,1205.9,20.18
+11/26/2026,CUST100867,ORD200867,Rahul,rahul867@gmail.com,9198000000,Chennai,Body Wash,North,Tamil Nadu,4,MAC,Wellness,P100867,42407.95,1303.79,190,202.57,19.81
+11/27/2026,CUST100868,ORD200868,Aarav,aarav868@gmail.com,9180840000,Chandigarh,Toner,South,Punjab,5,Maybelline,Wellness,P100868,31184.89,502.83,68,3060.17,9.67
+11/28/2026,CUST100869,ORD200869,Sneha,sneha869@gmail.com,9189490000,Hyderabad,Conditioner,South,Telangana,5,Minimalist,Accessories,P100869,109783.26,3350.23,475,3386.45,26.85
+11/29/2026,CUST100870,ORD200870,Meera,meera870@gmail.com,9173670000,Chennai,Aftershave,East,Tamil Nadu,4,Huda Beauty,Haircare,P100870,184073.34,2408.52,348,3052.38,42.47
+11/30/2026,CUST100871,ORD200871,Meera,meera871@gmail.com,9166840000,Ahmedabad,Body Lotion,West,Gujarat,4,Nykaa Cosmetics,Wellness,P100871,198367.82,17041.98,125,449.48,2.47
+1/12/2026,CUST100872,ORD200872,Shreya,shreya872@gmail.com,9195230000,Pune,Moisturizer,North,Maharashtra,3,L'Oreal,Fashion,P100872,58172.66,37618.81,427,439.23,44.46
+2/12/2026,CUST100873,ORD200873,Sanya,sanya873@gmail.com,9160970000,Coimbatore,Moisturizer,East,Tamil Nadu,2,Lakme,Fashion,P100873,139765.59,27041.42,336,1130.89,33.27
+3/12/2026,CUST100874,ORD200874,Priya,priya874@gmail.com,9189880000,Ahmedabad,Toothpaste,North,Gujarat,5,L'Oreal,Wellness,P100874,119822.51,26412.17,59,1522.44,30.84
+4/12/2026,CUST100875,ORD200875,Amit,amit875@gmail.com,9192360000,Indore,Deodorant,East,Madhya Pradesh,3,Nykaa Cosmetics,Wellness,P100875,98298.29,15456.95,436,3954.06,31.3
+5/12/2026,CUST100876,ORD200876,Shreya,shreya876@gmail.com,9198480000,Nagpur,Hand Sanitizer,West,Maharashtra,5,Nykaa Cosmetics,Haircare,P100876,133487.96,21397.28,97,881.01,14.81
+6/12/2026,CUST100877,ORD200877,Meera,meera877@gmail.com,9168200000,Pune,Deodorant,North,Maharashtra,5,Minimalist,Fashion,P100877,74901.24,12236.57,496,316.05,20.76
+7/12/2026,CUST100878,ORD200878,Vikram,vikram878@gmail.com,9173540000,Ahmedabad,Body Wash,West,Gujarat,2,Huda Beauty,Wellness,P100878,188952.47,20761.73,275,2030.54,39.96
+8/12/2026,CUST100879,ORD200879,Shreya,shreya879@gmail.com,9165910000,Pune,Conditioner,West,Maharashtra,4,Maybelline,Wellness,P100879,141384.32,29891.77,149,2140.32,15.32
+9/12/2026,CUST100880,ORD200880,Vikram,vikram880@gmail.com,9160740000,Patna,Soap,North,Bihar,3,Maybelline,Haircare,P100880,151086.02,22391.83,278,2309.45,23.5
+10/12/2026,CUST100881,ORD200881,Amit,amit881@gmail.com,9172660000,Chandigarh,Deodorant,West,Punjab,3,Minimalist,Haircare,P100881,49242,16812.99,265,4151.83,0.98
+11/12/2026,CUST100882,ORD200882,Diya,diya882@gmail.com,9168380000,Lucknow,Soap,East,Uttar Pradesh,5,Nykaa Cosmetics,Accessories,P100882,34547.82,33812.39,9,580.23,36.68
+12/12/2026,CUST100883,ORD200883,Aditya,aditya883@gmail.com,9190740000,Coimbatore,Face Mask,East,Tamil Nadu,5,Huda Beauty,Haircare,P100883,79473.82,11568.97,457,3549.32,20.89
+12/13/2026,CUST100884,ORD200884,Aarav,aarav884@gmail.com,9173300000,Hyderabad,Face Mask,East,Telangana,4,Huda Beauty,Beauty,P100884,153567.82,19311.33,283,1755.93,26.27
+12/14/2026,CUST100885,ORD200885,Aditya,aditya885@gmail.com,9187100000,Jaipur,Sunscreen,West,Rajasthan,3,MAC,Fashion,P100885,187820.39,39128.08,273,1618.9,5.73
+12/15/2026,CUST100886,ORD200886,Rohan,rohan886@gmail.com,9198470000,Bangalore,Hand Sanitizer,North,Karnataka,2,The Body Shop,Accessories,P100886,86038.64,38696.13,428,4669.46,49.59
+12/16/2026,CUST100887,ORD200887,Shreya,shreya887@gmail.com,9188470000,Jaipur,Deodorant,West,Rajasthan,5,Lakme,Beauty,P100887,155057.2,350.76,301,1317.5,15.12
+12/17/2026,CUST100888,ORD200888,Ishita,ishita888@gmail.com,9199140000,Bangalore,Shampoo,West,Karnataka,3,Minimalist,Wellness,P100888,94611.12,21336.11,8,3248.41,31.75
+12/18/2026,CUST100889,ORD200889,Ananya,ananya889@gmail.com,9177610000,Ahmedabad,Perfume,East,Gujarat,3,The Body Shop,Wellness,P100889,59750.42,13543.08,208,1448.13,29.06
+12/19/2026,CUST100890,ORD200890,Amit,amit890@gmail.com,9194170000,Mumbai,Hand Sanitizer,North,Maharashtra,5,Minimalist,Accessories,P100890,148113.76,11719.83,402,2585.01,39.25
+12/20/2026,CUST100891,ORD200891,Sanya,sanya891@gmail.com,9196320000,Coimbatore,Sunscreen,South,Tamil Nadu,5,Maybelline,Haircare,P100891,159842.22,23890.46,125,3952.84,14.69
+12/21/2026,CUST100892,ORD200892,Harshita,harshita892@gmail.com,9184070000,Ahmedabad,Body Wash,South,Gujarat,4,Nykaa Cosmetics,Wellness,P100892,41365.32,17907.54,123,4420.44,37.8
+12/22/2026,CUST100893,ORD200893,Neha,neha893@gmail.com,9161840000,Chennai,Sunscreen,North,Tamil Nadu,4,Minimalist,Skincare,P100893,61728.73,29340.4,33,4209.62,19.13
+12/23/2026,CUST100894,ORD200894,Sneha,sneha894@gmail.com,9163210000,Coimbatore,Moisturizer,North,Tamil Nadu,3,Minimalist,Accessories,P100894,99460.59,1182.65,1,2952.69,20.56
+12/24/2026,CUST100895,ORD200895,Ishita,ishita895@gmail.com,9178090000,Nagpur,Shampoo,East,Maharashtra,4,MAC,Beauty,P100895,38117.84,37082.94,204,1319.2,33.64
+12/25/2026,CUST100896,ORD200896,Ishita,ishita896@gmail.com,9163460000,Nagpur,Perfume,North,Maharashtra,5,L'Oreal,Accessories,P100896,185838.03,22746.97,6,3340.04,39.21
+12/26/2026,CUST100897,ORD200897,Neha,neha897@gmail.com,9179760000,Lucknow,Moisturizer,North,Uttar Pradesh,2,Maybelline,Fashion,P100897,118675.45,27394.26,297,3578.53,33.34
+12/27/2026,CUST100898,ORD200898,Kavya,kavya898@gmail.com,9186850000,Jaipur,Body Wash,West,Rajasthan,4,Lakme,Haircare,P100898,25119.45,24223,439,152.39,44.99
+12/28/2026,CUST100899,ORD200899,Rahul,rahul899@gmail.com,9197500000,Hyderabad,Shaving Cream,West,Telangana,3,Huda Beauty,Haircare,P100899,37621.94,39566.35,5,2252.13,14.26
+12/29/2026,CUST100900,ORD200900,Arjun,arjun900@gmail.com,9196090000,Indore,Face Wash,South,Madhya Pradesh,3,Nykaa Cosmetics,Accessories,P100900,190916.71,39453.31,443,4231.98,45.03
+12/30/2026,CUST100901,ORD200901,Vivaan,vivaan901@gmail.com,9171080000,Hyderabad,Body Lotion,East,Telangana,3,Maybelline,Wellness,P100901,147895.55,24434.67,80,2498.98,6.54
+12/31/2026,CUST100902,ORD200902,Harshita,harshita902@gmail.com,9170830000,Hyderabad,Moisturizer,East,Telangana,3,L'Oreal,Wellness,P100902,147146.61,27390.14,274,1625.74,32.98
+1/1/2027,CUST100903,ORD200903,Meera,meera903@gmail.com,9165240000,Bangalore,Lip Balm,North,Karnataka,2,Minimalist,Skincare,P100903,15427.22,24780.94,177,4371.81,27.38
+2/1/2027,CUST100904,ORD200904,Aarav,aarav904@gmail.com,9194980000,Coimbatore,Lip Balm,East,Tamil Nadu,5,Lakme,Skincare,P100904,179164.47,12496.17,338,863.82,24.73
+3/1/2027,CUST100905,ORD200905,Aditya,aditya905@gmail.com,9187980000,Chennai,Conditioner,South,Tamil Nadu,3,Minimalist,Haircare,P100905,89303.34,7785.28,321,1111.58,15.55
+4/1/2027,CUST100906,ORD200906,Shreya,shreya906@gmail.com,9165810000,Kolkata,Serum,West,West Bengal,5,Lakme,Skincare,P100906,132283.75,16170.25,339,3468.12,25.19
+5/1/2027,CUST100907,ORD200907,Neha,neha907@gmail.com,9167890000,Jaipur,Body Wash,South,Rajasthan,4,MAC,Beauty,P100907,191978.15,27342,438,1826.94,8.09
+6/1/2027,CUST100908,ORD200908,Priya,priya908@gmail.com,9190470000,Chandigarh,Face Mask,South,Punjab,5,Minimalist,Skincare,P100908,20902.46,2333.5,445,3593.78,18.47
+7/1/2027,CUST100909,ORD200909,Shreya,shreya909@gmail.com,9164100000,Hyderabad,Face Mask,North,Telangana,3,Maybelline,Beauty,P100909,96973.02,20620.78,136,872.75,4.93
+8/1/2027,CUST100910,ORD200910,Vivaan,vivaan910@gmail.com,9172030000,Jaipur,Deodorant,West,Rajasthan,5,L'Oreal,Skincare,P100910,10872.93,16395.05,387,1336.12,28.59
+9/1/2027,CUST100911,ORD200911,Vikram,vikram911@gmail.com,9186620000,Ahmedabad,Sunscreen,North,Gujarat,5,Lakme,Haircare,P100911,100409.54,21146.65,25,867.57,4.79
+10/1/2027,CUST100912,ORD200912,Rohan,rohan912@gmail.com,9184200000,Mumbai,Face Wash,South,Maharashtra,2,Nykaa Cosmetics,Haircare,P100912,51199.62,34423.04,325,4769.26,8.02
+11/1/2027,CUST100913,ORD200913,Arjun,arjun913@gmail.com,9165710000,Nagpur,Toothpaste,South,Maharashtra,5,Lakme,Beauty,P100913,182302.04,1999.64,183,2086.48,4.27
+12/1/2027,CUST100914,ORD200914,Aarav,aarav914@gmail.com,9162010000,Lucknow,Hair Oil,East,Uttar Pradesh,5,L'Oreal,Accessories,P100914,80300.01,30568.6,168,1752.38,19.07
+1/13/2027,CUST100915,ORD200915,Sneha,sneha915@gmail.com,9197900000,Delhi,Conditioner,East,Delhi,5,Huda Beauty,Haircare,P100915,127140.62,26709.7,467,169.59,42.1
+1/14/2027,CUST100916,ORD200916,Sneha,sneha916@gmail.com,9184650000,Patna,Serum,East,Bihar,5,Huda Beauty,Accessories,P100916,172197.17,8233.53,338,851.75,45.34
+1/15/2027,CUST100917,ORD200917,Sanya,sanya917@gmail.com,9163200000,Patna,Sunscreen,East,Bihar,3,MAC,Wellness,P100917,196754.68,29393.93,178,2163.57,3.59
+1/16/2027,CUST100918,ORD200918,Kavya,kavya918@gmail.com,9176310000,Patna,Hand Sanitizer,South,Bihar,3,Maybelline,Beauty,P100918,101260.05,19905.24,373,435.66,31.73
+1/17/2027,CUST100919,ORD200919,Neha,neha919@gmail.com,9181250000,Kolkata,Toner,East,West Bengal,4,L'Oreal,Haircare,P100919,91695.78,19292.89,95,2602.62,34.22
+1/18/2027,CUST100920,ORD200920,Vikram,vikram920@gmail.com,9190460000,Patna,Serum,West,Bihar,5,MAC,Fashion,P100920,16072.19,19374.51,33,2329.58,26.69
+1/19/2027,CUST100921,ORD200921,Priya,priya921@gmail.com,9174000000,Nagpur,Moisturizer,South,Maharashtra,4,The Body Shop,Wellness,P100921,3535.05,37974.44,111,3859.12,33.35
+1/20/2027,CUST100922,ORD200922,Arjun,arjun922@gmail.com,9164290000,Kolkata,Deodorant,South,West Bengal,3,Lakme,Accessories,P100922,122151.62,37780.14,146,3333.03,11.68
+1/21/2027,CUST100923,ORD200923,Kavya,kavya923@gmail.com,9197350000,Coimbatore,Sunscreen,West,Tamil Nadu,4,The Body Shop,Haircare,P100923,14027.41,36552.96,381,2285.14,24.48
+1/22/2027,CUST100924,ORD200924,Vivaan,vivaan924@gmail.com,9180360000,Indore,Moisturizer,North,Madhya Pradesh,5,Lakme,Beauty,P100924,76695.41,35481.01,441,1200.84,19.54
+1/23/2027,CUST100925,ORD200925,Rahul,rahul925@gmail.com,9194850000,Jaipur,Shaving Cream,East,Rajasthan,3,Huda Beauty,Skincare,P100925,1717.68,1599.76,231,3661.63,4.49
+1/24/2027,CUST100926,ORD200926,Vivaan,vivaan926@gmail.com,9161890000,Patna,Conditioner,South,Bihar,3,MAC,Fashion,P100926,123430.27,16083.74,272,3568.52,31.28
+1/25/2027,CUST100927,ORD200927,Aditya,aditya927@gmail.com,9198570000,Pune,Hair Oil,West,Maharashtra,3,Huda Beauty,Accessories,P100927,85657.62,35805.59,336,851.15,24.76
+1/26/2027,CUST100928,ORD200928,Aarav,aarav928@gmail.com,9180370000,Hyderabad,Moisturizer,North,Telangana,5,Nykaa Cosmetics,Wellness,P100928,26277.13,30229.55,495,4582.28,13.76
+1/27/2027,CUST100929,ORD200929,Sanya,sanya929@gmail.com,9186380000,Hyderabad,Serum,North,Telangana,4,The Body Shop,Beauty,P100929,59977.15,18320.73,38,415.59,23.68
+1/28/2027,CUST100930,ORD200930,Arjun,arjun930@gmail.com,9183380000,Ahmedabad,Face Cream,West,Gujarat,5,The Body Shop,Fashion,P100930,114362.48,30952.8,425,369.68,38.76
+1/29/2027,CUST100931,ORD200931,Rahul,rahul931@gmail.com,9175540000,Jaipur,Body Lotion,South,Rajasthan,4,Huda Beauty,Beauty,P100931,131685.96,8406.61,135,1018.02,40.08
+1/30/2027,CUST100932,ORD200932,Aditya,aditya932@gmail.com,9162020000,Coimbatore,Face Mask,South,Tamil Nadu,3,Nykaa Cosmetics,Haircare,P100932,93004.84,24031.99,334,4556.36,32.48
+1/31/2027,CUST100933,ORD200933,Diya,diya933@gmail.com,9180630000,Chennai,Sunscreen,East,Tamil Nadu,4,Lakme,Skincare,P100933,160987.86,21366.63,235,2647.99,23.39
+1/2/2027,CUST100934,ORD200934,Sneha,sneha934@gmail.com,9162600000,Indore,Face Wash,East,Madhya Pradesh,2,MAC,Wellness,P100934,23375.64,22984.53,437,3960.91,28.79
+2/2/2027,CUST100935,ORD200935,Rahul,rahul935@gmail.com,9187350000,Coimbatore,Face Wash,West,Tamil Nadu,3,Nykaa Cosmetics,Beauty,P100935,17824.6,28899.64,319,1216.43,19.25
+3/2/2027,CUST100936,ORD200936,Arjun,arjun936@gmail.com,9171480000,Jaipur,Conditioner,West,Rajasthan,2,MAC,Accessories,P100936,9804.61,37997.1,368,2502.09,6.33
+4/2/2027,CUST100937,ORD200937,Priya,priya937@gmail.com,9178890000,Chennai,Shaving Cream,South,Tamil Nadu,5,The Body Shop,Haircare,P100937,107629.74,10634.07,345,1855.62,19.28
+5/2/2027,CUST100938,ORD200938,Diya,diya938@gmail.com,9195700000,Lucknow,Hair Oil,South,Uttar Pradesh,3,MAC,Haircare,P100938,141540.11,30346.23,160,4156.36,26.52
+6/2/2027,CUST100939,ORD200939,Arjun,arjun939@gmail.com,9184190000,Pune,Face Wash,West,Maharashtra,4,The Body Shop,Wellness,P100939,26973.76,25841.12,38,210.76,29.94
+7/2/2027,CUST100940,ORD200940,Priya,priya940@gmail.com,9173750000,Mumbai,Toothpaste,West,Maharashtra,4,Nykaa Cosmetics,Haircare,P100940,128150.18,27836.29,150,1294.83,46.79
+8/2/2027,CUST100941,ORD200941,Meera,meera941@gmail.com,9187770000,Mumbai,Aftershave,North,Maharashtra,3,The Body Shop,Accessories,P100941,95912.61,17213.89,400,847.61,38.87
+9/2/2027,CUST100942,ORD200942,Shreya,shreya942@gmail.com,9192220000,Ahmedabad,Face Mask,North,Gujarat,5,Minimalist,Beauty,P100942,197481.56,37788.69,308,4310.03,7.6
+10/2/2027,CUST100943,ORD200943,Neha,neha943@gmail.com,9182600000,Kolkata,Sunscreen,North,West Bengal,5,Maybelline,Wellness,P100943,143777.25,19238.28,29,2390.96,8.71
+11/2/2027,CUST100944,ORD200944,Harshita,harshita944@gmail.com,9170150000,Jaipur,Hair Oil,North,Rajasthan,3,The Body Shop,Haircare,P100944,131837.19,4951.51,144,2080.68,5.02
+12/2/2027,CUST100945,ORD200945,Priya,priya945@gmail.com,9175430000,Coimbatore,Soap,North,Tamil Nadu,3,Huda Beauty,Haircare,P100945,114519.5,27259.65,76,2302.47,36.91
+2/13/2027,CUST100946,ORD200946,Aditya,aditya946@gmail.com,9161500000,Ahmedabad,Shaving Cream,West,Gujarat,5,Nykaa Cosmetics,Accessories,P100946,199475.87,5241.88,145,4862.43,35.31
+2/14/2027,CUST100947,ORD200947,Amit,amit947@gmail.com,9196300000,Ahmedabad,Sunscreen,East,Gujarat,5,Minimalist,Skincare,P100947,196111.38,12974.73,229,4266.31,49.32
+2/15/2027,CUST100948,ORD200948,Sanya,sanya948@gmail.com,9165200000,Kolkata,Face Mask,West,West Bengal,4,Lakme,Skincare,P100948,108084.91,9197.43,64,3561.21,26.1
+2/16/2027,CUST100949,ORD200949,Akshay,akshay949@gmail.com,9197160000,Lucknow,Aftershave,North,Uttar Pradesh,4,MAC,Haircare,P100949,91581.49,21603.48,347,1523.35,41.32
+2/17/2027,CUST100950,ORD200950,Amit,amit950@gmail.com,9177710000,Coimbatore,Body Wash,West,Tamil Nadu,5,Minimalist,Beauty,P100950,92960.87,13965.4,345,909.35,28.82
+2/18/2027,CUST100951,ORD200951,Priya,priya951@gmail.com,9194810000,Indore,Hand Sanitizer,South,Madhya Pradesh,5,L'Oreal,Wellness,P100951,86240.14,6478.14,269,4615.02,43.7
+2/19/2027,CUST100952,ORD200952,Sanya,sanya952@gmail.com,9197280000,Bangalore,Body Lotion,West,Karnataka,5,Minimalist,Haircare,P100952,106748.26,31653.49,328,2173.07,36.05
+2/20/2027,CUST100953,ORD200953,Priya,priya953@gmail.com,9193170000,Jaipur,Face Cream,West,Rajasthan,4,Nykaa Cosmetics,Fashion,P100953,55443.27,18792.82,184,1465.9,32.14
+2/21/2027,CUST100954,ORD200954,Vivaan,vivaan954@gmail.com,9169270000,Patna,Lip Balm,East,Bihar,4,Minimalist,Wellness,P100954,185430.97,18232.52,261,2407.51,28.26
+2/22/2027,CUST100955,ORD200955,Priya,priya955@gmail.com,9189240000,Chandigarh,Sunscreen,North,Punjab,5,Minimalist,Skincare,P100955,98555.79,35465.88,268,4597.45,36.15
+2/23/2027,CUST100956,ORD200956,Harshita,harshita956@gmail.com,9167330000,Lucknow,Body Wash,North,Uttar Pradesh,5,Huda Beauty,Haircare,P100956,168559.55,21599.09,169,1996.63,20.98
+2/24/2027,CUST100957,ORD200957,Ananya,ananya957@gmail.com,9199820000,Lucknow,Aftershave,West,Uttar Pradesh,2,The Body Shop,Accessories,P100957,95585.43,28424.85,259,2856.94,4.83
+2/25/2027,CUST100958,ORD200958,Amit,amit958@gmail.com,9172650000,Indore,Face Wash,West,Madhya Pradesh,4,MAC,Fashion,P100958,143939.76,13189.81,227,4034.53,2
+2/26/2027,CUST100959,ORD200959,Harshita,harshita959@gmail.com,9183220000,Hyderabad,Body Lotion,North,Telangana,3,Maybelline,Haircare,P100959,68039.51,22495.45,33,2192.95,23.95
+2/27/2027,CUST100960,ORD200960,Neha,neha960@gmail.com,9180520000,Pune,Face Mask,South,Maharashtra,4,Lakme,Beauty,P100960,125336.56,29083.95,377,1244.35,29.96
+2/28/2027,CUST100961,ORD200961,Rahul,rahul961@gmail.com,9174400000,Chandigarh,Body Wash,North,Punjab,4,Maybelline,Fashion,P100961,100175.92,11929.23,214,4973.18,3.94
+1/3/2027,CUST100962,ORD200962,Amit,amit962@gmail.com,9169950000,Lucknow,Body Lotion,South,Uttar Pradesh,4,Minimalist,Haircare,P100962,74055.74,27572.51,50,4787.2,14.35
+2/3/2027,CUST100963,ORD200963,Neha,neha963@gmail.com,9176720000,Chandigarh,Aftershave,West,Punjab,5,L'Oreal,Beauty,P100963,176429.7,22793.65,440,4233.05,16.1
+3/3/2027,CUST100964,ORD200964,Harshita,harshita964@gmail.com,9188160000,Pune,Soap,West,Maharashtra,3,Nykaa Cosmetics,Fashion,P100964,23429.62,17424.31,492,3473.03,28.14
+4/3/2027,CUST100965,ORD200965,Priya,priya965@gmail.com,9186210000,Hyderabad,Toothpaste,South,Telangana,4,MAC,Beauty,P100965,97897.71,28547.49,393,1544.84,13.92
+5/3/2027,CUST100966,ORD200966,Shreya,shreya966@gmail.com,9197470000,Nagpur,Toothpaste,North,Maharashtra,3,Nykaa Cosmetics,Beauty,P100966,39679.45,12744.48,489,4575.72,4.78
+6/3/2027,CUST100967,ORD200967,Rohan,rohan967@gmail.com,9185530000,Delhi,Body Wash,West,Delhi,5,Huda Beauty,Fashion,P100967,172349.96,28608.66,210,1450.23,8.24
+7/3/2027,CUST100968,ORD200968,Ishita,ishita968@gmail.com,9162560000,Hyderabad,Deodorant,North,Telangana,2,Nykaa Cosmetics,Fashion,P100968,51440.4,22089.45,434,4023.97,8.7
+8/3/2027,CUST100969,ORD200969,Kavya,kavya969@gmail.com,9199160000,Pune,Conditioner,West,Maharashtra,4,Lakme,Beauty,P100969,127052.64,9899.59,29,4599.47,42.13
+9/3/2027,CUST100970,ORD200970,Ishita,ishita970@gmail.com,9167570000,Bangalore,Hair Oil,East,Karnataka,5,L'Oreal,Skincare,P100970,33947.14,26764.19,39,3054.72,14.22
+10/3/2027,CUST100971,ORD200971,Amit,amit971@gmail.com,9166490000,Chandigarh,Conditioner,East,Punjab,3,Maybelline,Fashion,P100971,81577.82,35402.1,347,4034.98,35.73
+11/3/2027,CUST100972,ORD200972,Priya,priya972@gmail.com,9180960000,Patna,Toner,East,Bihar,4,Minimalist,Haircare,P100972,179972.08,12469.56,100,3979.31,28.39
+12/3/2027,CUST100973,ORD200973,Rohan,rohan973@gmail.com,9169990000,Mumbai,Deodorant,South,Maharashtra,2,Minimalist,Wellness,P100973,34046.82,32512.04,173,1046.47,48.85
+3/13/2027,CUST100974,ORD200974,Aditya,aditya974@gmail.com,9170860000,Patna,Face Cream,North,Bihar,4,L'Oreal,Accessories,P100974,132975.97,13511.6,17,3372.83,13.64
+3/14/2027,CUST100975,ORD200975,Harshita,harshita975@gmail.com,9193490000,Coimbatore,Aftershave,East,Tamil Nadu,3,MAC,Beauty,P100975,41697.56,32862.74,56,557.99,7.92
+3/15/2027,CUST100976,ORD200976,Priya,priya976@gmail.com,9186250000,Nagpur,Aftershave,South,Maharashtra,3,Nykaa Cosmetics,Beauty,P100976,83734.06,2140.93,226,2588.47,2.6
+3/16/2027,CUST100977,ORD200977,Shreya,shreya977@gmail.com,9179100000,Bangalore,Shaving Cream,East,Karnataka,5,MAC,Accessories,P100977,108582.76,387.89,46,894.95,12.05
+3/17/2027,CUST100978,ORD200978,Aditya,aditya978@gmail.com,9167390000,Jaipur,Toner,West,Rajasthan,3,Maybelline,Skincare,P100978,115883.98,4619.16,67,2140.11,34.2
+3/18/2027,CUST100979,ORD200979,Harshita,harshita979@gmail.com,9171910000,Ahmedabad,Conditioner,East,Gujarat,4,MAC,Accessories,P100979,120899.76,34970.32,197,4181.61,4.26
+3/19/2027,CUST100980,ORD200980,Rohan,rohan980@gmail.com,9199020000,Kolkata,Soap,North,West Bengal,3,Huda Beauty,Fashion,P100980,128386.15,21395.5,142,4937.12,12.24
+3/20/2027,CUST100981,ORD200981,Ishita,ishita981@gmail.com,9166580000,Indore,Toner,North,Madhya Pradesh,5,L'Oreal,Accessories,P100981,55081.97,23804.64,323,1658,42.77
+3/21/2027,CUST100982,ORD200982,Priya,priya982@gmail.com,9176450000,Pune,Shampoo,South,Maharashtra,5,Maybelline,Beauty,P100982,80872.13,33704,23,2706.58,29.15
+3/22/2027,CUST100983,ORD200983,Sneha,sneha983@gmail.com,9173450000,Patna,Serum,North,Bihar,3,Maybelline,Accessories,P100983,8426.41,2120.77,487,2605.36,3.48
+3/23/2027,CUST100984,ORD200984,Aarav,aarav984@gmail.com,9179080000,Chennai,Shampoo,East,Tamil Nadu,2,The Body Shop,Wellness,P100984,153982.64,15545.57,94,4776.57,2.38
+3/24/2027,CUST100985,ORD200985,Ishita,ishita985@gmail.com,9165320000,Kolkata,Toner,West,West Bengal,4,Maybelline,Haircare,P100985,167582.8,25759.31,242,2445.06,3.06
+3/25/2027,CUST100986,ORD200986,Ananya,ananya986@gmail.com,9169540000,Lucknow,Deodorant,West,Uttar Pradesh,5,The Body Shop,Fashion,P100986,40648.12,16246.74,237,3525.62,47.09
+3/26/2027,CUST100987,ORD200987,Vivaan,vivaan987@gmail.com,9185310000,Hyderabad,Shampoo,South,Telangana,4,Lakme,Accessories,P100987,41087.35,1382,445,4616.77,42.49
+3/27/2027,CUST100988,ORD200988,Vivaan,vivaan988@gmail.com,9163640000,Coimbatore,Serum,West,Tamil Nadu,4,Minimalist,Beauty,P100988,9365.24,26072.65,407,1929.55,42.25
+3/28/2027,CUST100989,ORD200989,Sneha,sneha989@gmail.com,9168840000,Indore,Face Cream,South,Madhya Pradesh,4,The Body Shop,Haircare,P100989,194106.38,15716.91,411,4520.4,46.21
+3/29/2027,CUST100990,ORD200990,Vikram,vikram990@gmail.com,9172530000,Nagpur,Deodorant,South,Maharashtra,2,L'Oreal,Fashion,P100990,161630.13,866.44,54,4595.54,25.26
+3/30/2027,CUST100991,ORD200991,Rahul,rahul991@gmail.com,9174920000,Kolkata,Perfume,South,West Bengal,2,MAC,Beauty,P100991,72779.94,6903.68,138,4660.25,12.37
+3/31/2027,CUST100992,ORD200992,Rohan,rohan992@gmail.com,9172910000,Patna,Soap,North,Bihar,3,The Body Shop,Skincare,P100992,96899.75,8781.53,473,1425.19,20.07
+1/4/2027,CUST100993,ORD200993,Akshay,akshay993@gmail.com,9180590000,Bangalore,Face Mask,East,Karnataka,2,Maybelline,Wellness,P100993,59101.43,20473.57,333,2061.74,35.94
+2/4/2027,CUST100994,ORD200994,Meera,meera994@gmail.com,9174520000,Delhi,Face Mask,North,Delhi,3,L'Oreal,Skincare,P100994,119851.55,7536.36,272,4364.94,43.8
+3/4/2027,CUST100995,ORD200995,Sneha,sneha995@gmail.com,9163290000,Patna,Conditioner,West,Bihar,3,The Body Shop,Wellness,P100995,143744.37,14516.96,41,1859.89,21.75
+4/4/2027,CUST100996,ORD200996,Neha,neha996@gmail.com,9196720000,Chandigarh,Body Lotion,North,Punjab,4,The Body Shop,Accessories,P100996,90026.33,30051.56,98,3041.24,26.77
+5/4/2027,CUST100997,ORD200997,Akshay,akshay997@gmail.com,9199950000,Jaipur,Face Mask,South,Rajasthan,4,Maybelline,Fashion,P100997,174845.24,32328.02,183,678.47,46.59
+6/4/2027,CUST100998,ORD200998,Akshay,akshay998@gmail.com,9176930000,Ahmedabad,Toner,North,Gujarat,5,Huda Beauty,Accessories,P100998,103888.15,31836.98,128,375.75,5.37
+7/4/2027,CUST100999,ORD200999,Shreya,shreya999@gmail.com,9162890000,Kolkata,Toner,North,West Bengal,3,Huda Beauty,Wellness,P100999,29706.4,27833.81,229,2118.77,43.11
