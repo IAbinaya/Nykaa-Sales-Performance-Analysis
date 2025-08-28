@@ -1,5 +1,3 @@
-<img width="1242" height="692" alt="Screenshot 2025-08-28 204651" src="https://github.com/user-attachments/assets/277e469d-6bb2-4fca-98be-55e0998943d5" />**📊 Nykaa Sales Performance Analysis Dashboard**
-
 This repository contains an interactive Power BI dashboard built using Nykaa sales data.
 The project aims to analyze sales, profit, customer distribution, and product performance across different regions, states, and categories.
 
@@ -13,6 +11,7 @@ Includes .pbix file for Power BI Desktop.
 
 Dashboard screenshot for quick preview of results.
 
+
 **📂 Repository Structure**
 
 Nykaa Sales Performance Analysis.pbix → Power BI file.
@@ -22,6 +21,7 @@ nykaa_sales_performance_project.csv → Dataset source.
 Screenshot_2025-08-28.png → Dashboard screenshot.
 
 README.md → Project documentation.
+
 
 **📸 Dashboard Preview**
 
@@ -36,6 +36,7 @@ Nykaa Sales Performance Dashboard Screenshot
 3. Regional & State-Wise Performance
 4. Profitability Insights
 5. Interactive Filters & Ranking
+   
 
 **⚙️ How to Use**
 
@@ -48,6 +49,7 @@ Open Nykaa Sales Performance Analysis.pbix in Power BI Desktop.
 Use slicers (Date, Region, State, City, Ranking) to explore insights.
 Analyze profitability, sales trends, and customer distribution interactively.
 
+
 **🛠 Tools & Technologies**
 
   1. Power BI Desktop (for building dashboard).
@@ -55,6 +57,7 @@ Analyze profitability, sales trends, and customer distribution interactively.
   2. CSV Dataset (Nykaa Sales Data).
 
   3. DAX (Data Analysis Expressions) for calculated measures.
+     
 
 📌 Future Enhancements
 
