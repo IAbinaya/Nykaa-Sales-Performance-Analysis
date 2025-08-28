@@ -1,3 +1,5 @@
+Project Report: Nykaa Sales Performance Analysis
+
 This repository contains an interactive Power BI dashboard built using Nykaa sales data.
 The project aims to analyze sales, profit, customer distribution, and product performance across different regions, states, and categories.
 
