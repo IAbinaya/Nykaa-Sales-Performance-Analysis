@@ -28,7 +28,8 @@ README.md → Project documentation.
 **📸 Dashboard Preview**
 
 Nykaa Sales Performance Dashboard Screenshot
-<img width="1242" height="692" alt="Screenshot 2025-08-28 204651" src="https://github.com/user-attachments/assets/f95d6c96-acee-4167-83a0-2b1f5781c245" />
+<img width="1332" height="743" alt="Screenshot 2025-09-03 110019" src="https://github.com/user-attachments/assets/5d2caa53-0516-469d-92e2-053f30eb4e1d" />
+
 
 
 **🔑 Features**
